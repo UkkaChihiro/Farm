@@ -1,0 +1,73 @@
+[
+{"model":"catalog.TypeInCategory", "pk":1, "fields":{"name":"Cвежие", "category": 1}},
+{"model":"catalog.TypeInCategory", "pk":2, "fields":{"name":"Полуфабрикаты/заморозки", "category": 1}},
+{"model":"catalog.TypeInCategory", "pk":3, "fields":{"name":"Сушёные/чипсы", "category": 1}},
+
+{"model":"catalog.TypeInCategory", "pk":4, "fields":{"name":"Cвежие", "category": 2}},
+{"model":"catalog.TypeInCategory", "pk":5, "fields":{"name":"Полуфабрикаты/заморозки", "category": 2}},
+{"model":"catalog.TypeInCategory", "pk":6, "fields":{"name":"Сушёные", "category": 2}},
+{"model":"catalog.TypeInCategory", "pk":7, "fields":{"name":"В горшках", "category": 2}},
+
+{"model":"catalog.TypeInCategory", "pk":8, "fields":{"name":"Свежие", "category": 4}},
+{"model":"catalog.TypeInCategory", "pk":9, "fields":{"name":"Полуфабрикаты", "category": 4}},
+{"model":"catalog.TypeInCategory", "pk":10, "fields":{"name":"Сушёные", "category": 4}},
+
+{"model":"catalog.TypeInCategory", "pk":11, "fields":{"name":"Солёности", "category": 5}},
+{"model":"catalog.TypeInCategory", "pk":12, "fields":{"name":"Маринады", "category": 5}},
+{"model":"catalog.TypeInCategory", "pk":13, "fields":{"name":"Джемы", "category": 5}},
+{"model":"catalog.TypeInCategory", "pk":14, "fields":{"name":"Микс", "category": 5}},
+
+{"model":"catalog.TypeInCategory", "pk":15, "fields":{"name":"Свежие", "category": 6}},
+{"model":"catalog.TypeInCategory", "pk":16, "fields":{"name":"Полуфабрикаты", "category": 6}},
+{"model":"catalog.TypeInCategory", "pk":17, "fields":{"name":"Сушёные/чипсы", "category": 6}},
+
+{"model":"catalog.TypeInCategory", "pk":18, "fields":{"name":"Свежие", "category": 7}},
+{"model":"catalog.TypeInCategory", "pk":19, "fields":{"name":"Полуфабрикаты", "category": 7}},
+{"model":"catalog.TypeInCategory", "pk":20, "fields":{"name":"Сушёные", "category": 7}},
+
+{"model":"catalog.TypeInCategory", "pk":21, "fields":{"name":"Натуральные", "category": 8}},
+{"model":"catalog.TypeInCategory", "pk":22, "fields":{"name":"Со специями", "category": 8}},
+{"model":"catalog.TypeInCategory", "pk":23, "fields":{"name":"Другое", "category": 8}},
+
+{"model":"catalog.TypeInCategory", "pk":24, "fields":{"name":"Свежее", "category": 9}},
+{"model":"catalog.TypeInCategory", "pk":25, "fields":{"name":"Пастеризованное", "category": 9}},
+{"model":"catalog.TypeInCategory", "pk":26, "fields":{"name":"Сухое", "category": 9}},
+{"model":"catalog.TypeInCategory", "pk":27, "fields":{"name":"Микс", "category": 9}},
+
+{"model":"catalog.TypeInCategory", "pk":28, "fields":{"name":"Натурильные", "category": 10}},
+{"model":"catalog.TypeInCategory", "pk":29, "fields":{"name":"С добавками", "category": 10}},
+{"model":"catalog.TypeInCategory", "pk":30, "fields":{"name":"Десертные", "category": 10}},
+
+{"model":"catalog.TypeInCategory", "pk":31, "fields":{"name":"Натурильные", "category": 11}},
+{"model":"catalog.TypeInCategory", "pk":32, "fields":{"name":"С добавками", "category": 11}},
+{"model":"catalog.TypeInCategory", "pk":33, "fields":{"name":"Десертные", "category": 11}},
+
+{"model":"catalog.TypeInCategory", "pk":34, "fields":{"name":"Из коровьего молока", "category": 12}},
+{"model":"catalog.TypeInCategory", "pk":35, "fields":{"name":"Из овечьего молока", "category": 12}},
+{"model":"catalog.TypeInCategory", "pk":36, "fields":{"name":"Из козьего молока", "category": 12}},
+{"model":"catalog.TypeInCategory", "pk":37, "fields":{"name":"Из другого молока", "category": 12}},
+{"model":"catalog.TypeInCategory", "pk":38, "fields":{"name":"Микс", "category": 12}}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

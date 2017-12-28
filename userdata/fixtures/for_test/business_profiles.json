@@ -1,0 +1,23 @@
+[
+  {
+    "model": "userdata.ProfileBusiness", "pk": 3, "fields":
+    {
+        "profile": 3,
+        "terms_of_use": true,
+        "type_of_business": 1,
+        "organization_type": 1,
+        "organization_name": "ejbieb",
+        "vat": "2144",
+        "registration_number": "6714GFCY211",
+        "first_name": "SomeName",
+        "middle_name": "",
+        "last_name": "SomeLastname",
+        "position_in_com": "dvmdv",
+        "phone_number": "24142142",
+        "email": "johnsnow@winterfell.zz",
+        "about_me": "Ddlvjbkvbkvb b kdbjkbb.",
+        "about_me_eng": "ff",
+        "confirmed_profile_bus": true
+    }
+  }
+]

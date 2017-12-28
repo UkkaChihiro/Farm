@@ -1,0 +1,21 @@
+[
+  {"model":"bank.Currency", "pk":1, "fields":{"name": "EUR","short_name": "€"}},
+  {"model":"bank.Currency", "pk":2, "fields":{"name": "USD","short_name": "$"}},
+  {"model":"bank.Currency", "pk":3, "fields":{"name": "RUB","short_name": "руб"}},
+  {"model":"bank.Currency", "pk":4, "fields":{"name": "GBP","short_name": "£"}},
+  {"model":"bank.Currency", "pk":5, "fields":{"name": "BRL","short_name": "R$"}},
+  {"model":"bank.Currency", "pk":6, "fields":{"name": "CAD","short_name": "$"}},
+  {"model":"bank.Currency", "pk":7, "fields":{"name": "AUD","short_name": "$"}},
+  {"model":"bank.Currency", "pk":8, "fields":{"name": "INR","short_name": "Rs"}},
+  {"model":"bank.Currency", "pk":9, "fields":{"name": "UAH","short_name": "₴"}},
+  {"model":"bank.Currency", "pk":10, "fields":{"name": "JPY","short_name": "¥"}},
+  {"model":"bank.Currency", "pk":11, "fields":{"name": "MXN","short_name": "$"}},
+  {"model":"bank.Currency", "pk":12, "fields":{"name": "IDR","short_name": "Rp"}},
+  {"model":"bank.Currency", "pk":13, "fields":{"name": "TRY","short_name": "TL"}},
+  {"model":"bank.Currency", "pk":14, "fields":{"name": "SEK","short_name": "SEK"}},
+  {"model":"bank.Currency", "pk":15, "fields":{"name": "CLP","short_name": "CLP"}},
+  {"model":"bank.Currency", "pk":16, "fields":{"name": "KRW","short_name": "₩"}},
+  {"model":"bank.Currency", "pk":17, "fields":{"name": "SGD","short_name": "SG$"}},
+  {"model":"bank.Currency", "pk":18, "fields":{"name": "NZD","short_name": "NZ$"}},
+  {"model":"bank.Currency", "pk":19, "fields":{"name": "CHF","short_name": "CHF"}}
+]

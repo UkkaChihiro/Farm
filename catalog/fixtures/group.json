@@ -1,0 +1,4 @@
+[
+{"model":"catalog.Group", "pk":1, "fields":{"name":"Фрукты и овощи"}},
+{"model":"catalog.Group", "pk":2, "fields":{"name":"Молоко и яйца"}}
+]

@@ -1,0 +1,7 @@
+django 
+pillow
+djangorestframework
+django_cron
+py-moneyed
+django-money
+django_extensions

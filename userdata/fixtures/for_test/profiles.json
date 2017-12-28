@@ -1,0 +1,28 @@
+[
+  {
+    "model": "userdata.profile", "pk":3,
+    "fields": {
+      "user": 3,
+      "middle_name": "vasya",
+      "gender": 1,
+      "birthday": "2017-08-01",
+      "avatar": "",
+      "code_num_phone": 1,
+      "number_phone": 5467895,
+      "tax_number": "qwe33432sad321",
+      "confirmed_email": true,
+      "confirmed_phone": true,
+      "about_me": "", "about_me_eng": "",
+      "language": 1,
+      "confirmed_profile": false,
+      "password_updated": "2017-08-01T07:19:25Z",
+      "new_message_email": true,
+      "new_message_msg": true,
+      "payment_success_email": true,
+      "payment_success_msg": true,
+      "order_fail_email": true,
+      "order_fail_msg": true,
+      "delivery_start_email": true,
+      "delivery_start_msg": true}
+  }
+]

@@ -1,0 +1,539 @@
+[{"model": "geodata.country", "pk": 1, "fields": {"group":0, "code": "AU", "name_ru": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f", "name_en": "Australia", "show": false}},
+
+  {"model": "geodata.country", "pk": 2, "fields": {"group":1, "code": "AT", "name_ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f", "name_en": "Austria", "show": true}},
+
+  {"model": "geodata.country", "pk": 3, "fields": {"group":0, "code": "AZ", "name_ru": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d", "name_en": "Azerbaijan", "show": false}},
+
+  {"model": "geodata.country", "pk": 4, "fields": {"group":0, "code": "AI", "name_ru": "\u0410\u043d\u0433\u0443\u0438\u043b\u044c\u044f", "name_en": "Anguilla", "show": false}},
+
+ {"model": "geodata.country", "pk": 5, "fields": {"group":3, "code": "AR", "name_ru": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430", "name_en": "Argentina", "show": false}},
+
+ {"model": "geodata.country", "pk": 6, "fields": {"group":2, "code": "AM", "name_ru": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f", "name_en": "Armenia", "show": false}},
+
+ {"model": "geodata.country", "pk": 7, "fields": {"group":0, "code": "0", "name_ru": "\u0410\u0440\u0443\u043b\u044c\u043a\u043e", "name_en": "Arulco", "show": false}},
+
+ {"model": "geodata.country", "pk": 8, "fields": {"group":2, "code": "BY", "name_ru": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "name_en": "Belarus", "show": true}},
+
+ {"model": "geodata.country", "pk": 9, "fields": {"group":9, "code": "BZ", "name_ru": "\u0411\u0435\u043b\u0438\u0437", "name_en": "Belize", "show": false}},
+
+ {"model": "geodata.country", "pk": 10, "fields": {"group":1, "code": "BE", "name_ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f", "name_en": "Belgium", "show": false}},
+
+ {"model": "geodata.country", "pk": 11, "fields": {"group":0, "code": "BM", "name_ru": "\u0411\u0435\u0440\u043c\u0443\u0434\u044b", "name_en": "Bermuda", "show": false}},
+
+ {"model": "geodata.country", "pk": 12, "fields": {"group":1, "code": "BG", "name_ru": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f", "name_en": "Bulgaria", "show": false}},
+
+ {"model": "geodata.country", "pk": 13, "fields": {"group":3, "code": "BR", "name_ru": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f", "name_en": "Brazil", "show": false}},
+
+ {"model": "geodata.country", "pk": 14, "fields": {"group":1, "code": "GB", "name_ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f", "name_en": "United Kingdom", "show": false}},
+
+ {"model": "geodata.country", "pk": 15, "fields": {"group":1, "code": "HU", "name_ru": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f", "name_en": "Hungary", "show": false}},
+
+ {"model": "geodata.country", "pk": 16, "fields": {"group":5, "code": "0", "name_ru": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c", "name_en": "Vietnam", "show": false}},
+
+ {"model": "geodata.country", "pk": 17, "fields": {"group":9, "code": "HT", "name_ru": "\u0413\u0430\u0438\u0442\u0438", "name_en": "Haiti", "show": false}},
+
+ {"model": "geodata.country", "pk": 18, "fields": {"group":0, "code": "GP", "name_ru": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430", "name_en": "Guadeloupe", "show": false}},
+
+ {"model": "geodata.country", "pk": 19, "fields": {"group":1, "code": "DE", "name_ru": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f", "name_en": "Germany", "show": true}},
+
+ {"model": "geodata.country", "pk": 20, "fields": {"group":0, "code": "0", "name_ru": "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Holland", "show": false}},
+
+ {"model": "geodata.country", "pk": 21, "fields": {"group":7, "code": "HN", "name_ru": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441", "name_en": "Honduras", "show": false}},
+
+ {"model": "geodata.country", "pk": 22, "fields": {"group":0, "code": "HK", "name_ru": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433", "name_en": "Hong Kong", "show": false}},
+
+ {"model": "geodata.country", "pk": 23, "fields": {"group":1, "code": "GR", "name_ru": "\u0413\u0440\u0435\u0446\u0438\u044f", "name_en": "Greece", "show": false}},
+
+ {"model": "geodata.country", "pk": 24, "fields": {"group":0, "code": "GE", "name_ru": "\u0413\u0440\u0443\u0437\u0438\u044f", "name_en": "Georgia", "show": false}},
+
+ {"model": "geodata.country", "pk": 25, "fields": {"group":1, "code": "DK", "name_ru": "\u0414\u0430\u043d\u0438\u044f", "name_en": "Denmark", "show": false}},
+
+ {"model": "geodata.country", "pk": 26, "fields": {"group":0, "code": "0", "name_ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "name_en": "Dominican", "show": false}},
+
+ {"model": "geodata.country", "pk": 27, "fields": {"group":0, "code": "EG", "name_ru": "\u0415\u0433\u0438\u043f\u0435\u0442", "name_en": "Egypt", "show": false}},
+
+ {"model": "geodata.country", "pk": 28, "fields": {"group":0, "code": "IL", "name_ru": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c", "name_en": "Israel", "show": true}},
+
+ {"model": "geodata.country", "pk": 29, "fields": {"group":0, "code": "IN", "name_ru": "\u0418\u043d\u0434\u0438\u044f", "name_en": "India", "show": false}},
+
+ {"model": "geodata.country", "pk": 30, "fields": {"group":5, "code": "ID", "name_ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f", "name_en": "Indonesia", "show": false}},
+
+ {"model": "geodata.country", "pk": 31, "fields": {"group":0, "code": "JO", "name_ru": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f", "name_en": "Jordan", "show": false}},
+
+ {"model": "geodata.country", "pk": 32, "fields": {"group":0, "code": "0", "name_ru": "\u0418\u0440\u0430\u043a", "name_en": "Irak", "show": false}},
+
+ {"model": "geodata.country", "pk": 33, "fields": {"group":0, "code": "0", "name_ru": "\u0418\u0440\u0430\u043d", "name_en": "Iran", "show": false}},
+
+ {"model": "geodata.country", "pk": 34, "fields": {"group":1, "code": "IE", "name_ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Ireland", "show": false}},
+
+ {"model": "geodata.country", "pk": 35, "fields": {"group":1, "code": "ES", "name_ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f", "name_en": "Spain", "show": false}},
+
+ {"model": "geodata.country", "pk": 36, "fields": {"group":1, "code": "IT", "name_ru": "\u0418\u0442\u0430\u043b\u0438\u044f", "name_en": "Italy", "show": false}},
+
+ {"model": "geodata.country", "pk": 37, "fields": {"group":2, "code": "KZ", "name_ru": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "name_en": "Kazakhstan", "show": false}},
+
+ {"model": "geodata.country", "pk": 38, "fields": {"group":0, "code": "CM", "name_ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d", "name_en": "Cameroon", "show": false}},
+
+ {"model": "geodata.country", "pk": 39, "fields": {"group":6, "code": "CA", "name_ru": "\u041a\u0430\u043d\u0430\u0434\u0430", "name_en": "Canada", "show": false}},
+
+ {"model": "geodata.country", "pk": 40, "fields": {"group":0, "code": "0", "name_ru": "\u041a\u0430\u0440\u0438\u0431\u044b", "name_en": "Caribe", "show": false}},
+
+ {"model": "geodata.country", "pk": 41, "fields": {"group":1, "code": "CY", "name_ru": "\u041a\u0438\u043f\u0440", "name_en": "Cyprus", "show": false}},
+
+ {"model": "geodata.country", "pk": 42, "fields": {"group":0, "code": "0", "name_ru": "\u041a\u0438\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d", "name_en": "Kyrgystan", "show": false}},
+
+ {"model": "geodata.country", "pk": 43, "fields": {"group":0, "code": "CN", "name_ru": "\u041a\u0438\u0442\u0430\u0439", "name_en": "China", "show": false}},
+
+ {"model": "geodata.country", "pk": 44, "fields": {"group":0, "code": "0", "name_ru": "\u041a\u043e\u0440\u0435\u044f", "name_en": "Korea", "show": false}},
+
+ {"model": "geodata.country", "pk": 45, "fields": {"group":7, "code": "CR", "name_ru": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430", "name_en": "Costa Rica", "show": false}},
+
+ {"model": "geodata.country", "pk": 46, "fields": {"group":0, "code": "CU", "name_ru": "\u041a\u0443\u0431\u0430", "name_en": "Cuba", "show": false}},
+
+ {"model": "geodata.country", "pk": 47, "fields": {"group":0, "code": "KW", "name_ru": "\u041a\u0443\u0432\u0435\u0439\u0442", "name_en": "Kuwait", "show": false}},
+
+ {"model": "geodata.country", "pk": 48, "fields": {"group":1, "code": "LV", "name_ru": "\u041b\u0430\u0442\u0432\u0438\u044f", "name_en": "Latvia", "show": false}},
+
+ {"model": "geodata.country", "pk": 49, "fields": {"group":0, "code": "LB", "name_ru": "\u041b\u0438\u0432\u0430\u043d", "name_en": "Lebanon", "show": false}},
+
+ {"model": "geodata.country", "pk": 51, "fields": {"group":0, "code": "0", "name_ru": "\u041b\u0438\u0432\u0438\u044f", "name_en": "Libya", "show": false}},
+
+ {"model": "geodata.country", "pk": 52, "fields": {"group":1, "code": "LT", "name_ru": "\u041b\u0438\u0442\u0432\u0430", "name_en": "Lithuania", "show": false}},
+
+ {"model": "geodata.country", "pk": 53, "fields": {"group":0, "code": "0", "name_ru": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433", "name_en": "Luxemburg", "show": false}},
+
+ {"model": "geodata.country", "pk": 54, "fields": {"group":0, "code": "0", "name_ru": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f", "name_en": "Macedonia", "show": false}},
+
+ {"model": "geodata.country", "pk": 55, "fields": {"group":0, "code": "0", "name_ru": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f", "name_en": "Malasia", "show": false}},
+
+ {"model": "geodata.country", "pk": 56, "fields": {"group":1, "code": "MT", "name_ru": "\u041c\u0430\u043b\u044c\u0442\u0430", "name_en": "Malta", "show": false}},
+
+ {"model": "geodata.country", "pk": 57, "fields": {"group":6, "code": "MX", "name_ru": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430", "name_en": "Mexico", "show": false}},
+
+ {"model": "geodata.country", "pk": 58, "fields": {"group":0, "code": "MZ", "name_ru": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a", "name_en": "Mozambique", "show": false}},
+
+ {"model": "geodata.country", "pk": 59, "fields": {"group":0, "code": "0", "name_ru": "\u041c\u043e\u043b\u0434\u043e\u0432\u0430", "name_en": "Moldova", "show": false}},
+
+ {"model": "geodata.country", "pk": 60, "fields": {"group":0, "code": "MC", "name_ru": "\u041c\u043e\u043d\u0430\u043a\u043e", "name_en": "Monaco", "show": false}},
+
+ {"model": "geodata.country", "pk": 61, "fields": {"group":0, "code": "MN", "name_ru": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f", "name_en": "Mongolia", "show": false}},
+
+ {"model": "geodata.country", "pk": 62, "fields": {"group":0, "code": "MA", "name_ru": "\u041c\u043e\u0440\u043e\u043a\u043a\u043e", "name_en": "Morocco", "show": false}},
+
+ {"model": "geodata.country", "pk": 63, "fields": {"group":1, "code": "NL", "name_ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b", "name_en": "Netherlands", "show": false}},
+
+ {"model": "geodata.country", "pk": 64, "fields": {"group":0, "code": "NZ", "name_ru": "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "New Zealand", "show": false}},
+
+ {"model": "geodata.country", "pk": 65, "fields": {"group":1, "code": "NO", "name_ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f", "name_en": "Norway", "show": false}},
+
+ {"model": "geodata.country", "pk": 66, "fields": {"group":0, "code": "0", "name_ru": "\u041e.\u0410.\u042d.", "name_en": "U.A.E.", "show": false}},
+
+ {"model": "geodata.country", "pk": 67, "fields": {"group":0, "code": "0", "name_ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d", "name_en": "Isle Of Man", "show": false}},
+
+ {"model": "geodata.country", "pk": 68, "fields": {"group":0, "code": "PK", "name_ru": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d", "name_en": "Pakistan", "show": false}},
+
+ {"model": "geodata.country", "pk": 69, "fields": {"group":4, "code": "PE", "name_ru": "\u041f\u0435\u0440\u0443", "name_en": "Peru", "show": false}},
+
+ {"model": "geodata.country", "pk": 70, "fields": {"group":1, "code": "PL", "name_ru": "\u041f\u043e\u043b\u044c\u0448\u0430", "name_en": "Poland", "show": true}},
+
+ {"model": "geodata.country", "pk": 71, "fields": {"group":1, "code": "PT", "name_ru": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f", "name_en": "Portugal", "show": true}},
+
+ {"model": "geodata.country", "pk": 72, "fields": {"group":0, "code": "0", "name_ru": "\u0420\u0435\u044e\u043d\u044c\u043e\u043d", "name_en": "Reunion", "show": false}},
+
+ {"model": "geodata.country", "pk": 73, "fields": {"group":2, "code": "RU", "name_ru": "\u0420\u043e\u0441\u0441\u0438\u044f", "name_en": "Russia", "show": true}},
+
+ {"model": "geodata.country", "pk": 74, "fields": {"group":1, "code": "RO", "name_ru": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f", "name_en": "Romania", "show": false}},
+
+ {"model": "geodata.country", "pk": 75, "fields": {"group":6, "code": "0", "name_ru": "\u0421\u0428\u0410", "name_en": "USA", "show": false}},
+
+ {"model": "geodata.country", "pk": 76, "fields": {"group":7, "code": "0", "name_ru": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440", "name_en": "Salvador", "show": false}},
+
+ {"model": "geodata.country", "pk": 77, "fields": {"group":5, "code": "SG", "name_ru": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440", "name_en": "Singapore", "show": false}},
+
+ {"model": "geodata.country", "pk": 78, "fields": {"group":0, "code": "0", "name_ru": "\u0421\u0438\u0440\u0438\u044f", "name_en": "Syria", "show": false}},
+
+ {"model": "geodata.country", "pk": 79, "fields": {"group":1, "code": "SK", "name_ru": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f", "name_en": "Slovakia", "show": true}},
+
+ {"model": "geodata.country", "pk": 80, "fields": {"group":1, "code": "SI", "name_ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f", "name_en": "Slovenia", "show": false}},
+
+ {"model": "geodata.country", "pk": 81, "fields": {"group":0, "code": "0", "name_ru": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c", "name_en": "Surinam", "show": false}},
+
+ {"model": "geodata.country", "pk": 82, "fields": {"group":0, "code": "TJ", "name_ru": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d", "name_en": "Tajikistan", "show": false}},
+
+ {"model": "geodata.country", "pk": 83, "fields": {"group":0, "code": "0", "name_ru": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c", "name_en": "Taiwan", "show": false}},
+
+ {"model": "geodata.country", "pk": 84, "fields": {"group":5, "code": "TH", "name_ru": "\u0422\u0430\u0439\u043b\u0430\u043d\u0434", "name_en": "Thailand", "show": false}},
+
+ {"model": "geodata.country", "pk": 85, "fields": {"group":0, "code": "TN", "name_ru": "\u0422\u0443\u043d\u0438\u0441", "name_en": "Tunisia", "show": false}},
+
+ {"model": "geodata.country", "pk": 86, "fields": {"group":0, "code": "TM", "name_ru": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d", "name_en": "Turkmenistan", "show": false}},
+
+ {"model": "geodata.country", "pk": 87, "fields": {"group":0, "code": "0", "name_ru": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f", "name_en": "Turkmenia", "show": false}},
+
+ {"model": "geodata.country", "pk": 88, "fields": {"group":0, "code": "0", "name_ru": "\u0422\u0443\u0440\u043a\u0441 \u0438 \u041a\u0435\u0439\u043a\u043e\u0441", "name_en": "Turks and Caicos", "show": false}},
+
+ {"model": "geodata.country", "pk": 89, "fields": {"group":0, "code": "TR", "name_ru": "\u0422\u0443\u0440\u0446\u0438\u044f", "name_en": "Turkey", "show": false}},
+
+ {"model": "geodata.country", "pk": 90, "fields": {"group":0, "code": "UG", "name_ru": "\u0423\u0433\u0430\u043d\u0434\u0430", "name_en": "Uganda", "show": false}},
+
+ {"model": "geodata.country", "pk": 91, "fields": {"group":0, "code": "UZ", "name_ru": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d", "name_en": "Uzbekistan", "show": false}},
+
+ {"model": "geodata.country", "pk": 92, "fields": {"group":0, "code": "UA", "name_ru": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430", "name_en": "Ukraine", "show": true}},
+
+ {"model": "geodata.country", "pk": 93, "fields": {"group":1, "code": "FI", "name_ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f", "name_en": "Finland", "show": true}},
+
+ {"model": "geodata.country", "pk": 94, "fields": {"group":1, "code": "FR", "name_ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f", "name_en": "France", "show": false}},
+
+ {"model": "geodata.country", "pk": 95, "fields": {"group":1, "code": "HR", "name_ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f", "name_en": "Croatia", "show": false}},
+
+ {"model": "geodata.country", "pk": 96, "fields": {"group":0, "code": "0", "name_ru": "\u0427\u0435\u0445\u0438\u044f", "name_en": "Czech", "show": false}},
+
+ {"model": "geodata.country", "pk": 97, "fields": {"group":0, "code": "CL", "name_ru": "\u0427\u0438\u043b\u0438", "name_en": "Chile", "show": false}},
+
+ {"model": "geodata.country", "pk": 98, "fields": {"group":1, "code": "CH", "name_ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f", "name_en": "Switzerland", "show": false}},
+
+ {"model": "geodata.country", "pk": 99, "fields": {"group":1, "code": "SE", "name_ru": "\u0428\u0432\u0435\u0446\u0438\u044f", "name_en": "Sweden", "show": false}},
+
+ {"model": "geodata.country", "pk": 100, "fields": {"group":0, "code": "0", "name_ru": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440", "name_en": "Equador", "show": false}},
+
+ {"model": "geodata.country", "pk": 101, "fields": {"group":1, "code": "EE", "name_ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f", "name_en": "Estonia", "show": false}},
+
+ {"model": "geodata.country", "pk": 102, "fields": {"group":0, "code": "0", "name_ru": "\u042e\u0410\u0420", "name_en": "Republic of South Africa", "show": false}},
+
+ {"model": "geodata.country", "pk": 103, "fields": {"group":0, "code": "0", "name_ru": "\u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u044f", "name_en": "Yugoslavia", "show": false}},
+
+ {"model": "geodata.country", "pk": 104, "fields": {"group":0, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f", "name_en": "South Korea", "show": false}},
+
+ {"model": "geodata.country", "pk": 105, "fields": {"group":9, "code": "JM", "name_ru": "\u042f\u043c\u0430\u0439\u043a\u0430", "name_en": "Jamaica", "show": false}},
+
+ {"model": "geodata.country", "pk": 106, "fields": {"group":0, "code": "JP", "name_ru": "\u042f\u043f\u043e\u043d\u0438\u044f", "name_en": "Japan", "show": false}},
+
+ {"model": "geodata.country", "pk": 107, "fields": {"group":0, "code": "PA", "name_ru": "\u041f\u0430\u043d\u0430\u043c\u0430", "name_en": "Panama", "show": false}},
+
+ {"model": "geodata.country", "pk": 108, "fields": {"group":0, "code": "NG", "name_ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f", "name_en": "Nigeria", "show": false}},
+
+ {"model": "geodata.country", "pk": 109, "fields": {"group":0, "code": "AF", "name_ru": " ", "name_en": "Afghanistan", "show": false}},
+
+ {"model": "geodata.country", "pk": 110, "fields": {"group":0, "code": "AL", "name_ru": " ", "name_en": "Albania", "show": false}},
+
+ {"model": "geodata.country", "pk": 111, "fields": {"group":0, "code": "DZ", "name_ru": " ", "name_en": "Algeria", "show": false}},
+
+ {"model": "geodata.country", "pk": 112, "fields": {"group":0, "code": "AS", "name_ru": " ", "name_en": "AmericanSamoa", "show": false}},
+
+ {"model": "geodata.country", "pk": 113, "fields": {"group":0, "code": "AD", "name_ru": " ", "name_en": "Andorra", "show": false}},
+
+ {"model": "geodata.country", "pk": 114, "fields": {"group":0, "code": "AO", "name_ru": " ", "name_en": "Angola", "show": false}},
+
+ {"model": "geodata.country", "pk": 115, "fields": {"group":9, "code": "AG", "name_ru": " ", "name_en": "Antigua and Barbuda", "show": false}},
+
+ {"model": "geodata.country", "pk": 116, "fields": {"group":0, "code": "AW", "name_ru": " ", "name_en": "Aruba", "show": false}},
+
+ {"model": "geodata.country", "pk": 117, "fields": {"group":0, "code": "BS", "name_ru": " ", "name_en": "Bahamas", "show": false}},
+
+ {"model": "geodata.country", "pk": 118, "fields": {"group":0, "code": "BH", "name_ru": " ", "name_en": "Bahrain", "show": false}},
+
+ {"model": "geodata.country", "pk": 119, "fields": {"group":0, "code": "BD", "name_ru": " ", "name_en": "Bangladesh", "show": false}},
+
+ {"model": "geodata.country", "pk": 120, "fields": {"group":9, "code": "BB", "name_ru": " ", "name_en": "Barbados", "show": false}},
+
+ {"model": "geodata.country", "pk": 121, "fields": {"group":0, "code": "BJ", "name_ru": " ", "name_en": "Benin", "show": false}},
+
+ {"model": "geodata.country", "pk": 122, "fields": {"group":0, "code": "BT", "name_ru": " ", "name_en": "Bhutan", "show": false}},
+
+ {"model": "geodata.country", "pk": 123, "fields": {"group":0, "code": "BA", "name_ru": " ", "name_en": "Bosnia and Herzegovina", "show": false}},
+
+ {"model": "geodata.country", "pk": 124, "fields": {"group":8, "code": "BW", "name_ru": " ", "name_en": "Botswana", "show": false}},
+
+ {"model": "geodata.country", "pk": 125, "fields": {"group":0, "code": "IO", "name_ru": " ", "name_en": "British Indian Ocean Territory", "show": false}},
+
+ {"model": "geodata.country", "pk": 126, "fields": {"group":0, "code": "BF", "name_ru": " ", "name_en": "Burkina Faso", "show": false}},
+
+ {"model": "geodata.country", "pk": 127, "fields": {"group":0, "code": "BI", "name_ru": " ", "name_en": "Burundi", "show": false}},
+
+ {"model": "geodata.country", "pk": 128, "fields": {"group":5, "code": "KH", "name_ru": " ", "name_en": "Cambodia", "show": false}},
+
+ {"model": "geodata.country", "pk": 129, "fields": {"group":0, "code": "CV", "name_ru": " ", "name_en": "Cape Verde", "show": false}},
+
+ {"model": "geodata.country", "pk": 130, "fields": {"group":0, "code": "KY", "name_ru": " ", "name_en": "Cayman Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 131, "fields": {"group":0, "code": "CF", "name_ru": " ", "name_en": "Central African Republic", "show": false}},
+
+ {"model": "geodata.country", "pk": 132, "fields": {"group":0, "code": "TD", "name_ru": " ", "name_en": "Chad", "show": false}},
+
+ {"model": "geodata.country", "pk": 133, "fields": {"group":0, "code": "CX", "name_ru": " ", "name_en": "Christmas Island", "show": false}},
+
+ {"model": "geodata.country", "pk": 134, "fields": {"group":4, "code": "CO", "name_ru": " ", "name_en": "Colombia", "show": false}},
+
+ {"model": "geodata.country", "pk": 135, "fields": {"group":0, "code": "KM", "name_ru": " ", "name_en": "Comoros", "show": false}},
+
+ {"model": "geodata.country", "pk": 136, "fields": {"group":0, "code": "CG", "name_ru": " ", "name_en": "Congo", "show": false}},
+
+ {"model": "geodata.country", "pk": 137, "fields": {"group":0, "code": "CK", "name_ru": " ", "name_en": "Cook Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 138, "fields": {"group":1, "code": "CZ", "name_ru": " ", "name_en": "Czech Republic", "show": false}},
+
+ {"model": "geodata.country", "pk": 139, "fields": {"group":0, "code": "DJ", "name_ru": " ", "name_en": "Djibouti", "show": false}},
+
+ {"model": "geodata.country", "pk": 140, "fields": {"group":9, "code": "DM", "name_ru": " ", "name_en": "Dominica", "show": false}},
+
+ {"model": "geodata.country", "pk": 141, "fields": {"group":0, "code": "DO", "name_ru": " ", "name_en": "Dominican Republic", "show": false}},
+
+ {"model": "geodata.country", "pk": 142, "fields": {"group":4, "code": "EC", "name_ru": " ", "name_en": "Ecuador", "show": false}},
+
+ {"model": "geodata.country", "pk": 143, "fields": {"group":0, "code": "SV", "name_ru": " ", "name_en": "El Salvador", "show": false}},
+
+ {"model": "geodata.country", "pk": 144, "fields": {"group":0, "code": "GQ", "name_ru": " ", "name_en": "Equatorial Guinea", "show": false}},
+
+ {"model": "geodata.country", "pk": 145, "fields": {"group":0, "code": "ER", "name_ru": " ", "name_en": "Eritrea", "show": false}},
+
+ {"model": "geodata.country", "pk": 146, "fields": {"group":0, "code": "ET", "name_ru": " ", "name_en": "Ethiopia", "show": false}},
+
+ {"model": "geodata.country", "pk": 147, "fields": {"group":0, "code": "FO", "name_ru": " ", "name_en": "Faroe Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 148, "fields": {"group":0, "code": "FJ", "name_ru": " ", "name_en": "Fiji", "show": false}},
+
+ {"model": "geodata.country", "pk": 149, "fields": {"group":0, "code": "GF", "name_ru": " ", "name_en": "French Guiana", "show": false}},
+
+ {"model": "geodata.country", "pk": 150, "fields": {"group":0, "code": "PF", "name_ru": " ", "name_en": "French Polynesia", "show": false}},
+
+ {"model": "geodata.country", "pk": 151, "fields": {"group":0, "code": "GA", "name_ru": " ", "name_en": "Gabon", "show": false}},
+
+ {"model": "geodata.country", "pk": 152, "fields": {"group":0, "code": "GM", "name_ru": " ", "name_en": "Gambia", "show": false}},
+
+ {"model": "geodata.country", "pk": 153, "fields": {"group":0, "code": "GH", "name_ru": " ", "name_en": "Ghana", "show": false}},
+
+ {"model": "geodata.country", "pk": 154, "fields": {"group":0, "code": "GI", "name_ru": " ", "name_en": "Gibraltar", "show": false}},
+
+ {"model": "geodata.country", "pk": 155, "fields": {"group":0, "code": "GL", "name_ru": " ", "name_en": "Greenland", "show": false}},
+
+ {"model": "geodata.country", "pk": 156, "fields": {"group":9, "code": "GD", "name_ru": " ", "name_en": "Grenada", "show": false}},
+
+ {"model": "geodata.country", "pk": 157, "fields": {"group":0, "code": "GU", "name_ru": " ", "name_en": "Guam", "show": false}},
+
+ {"model": "geodata.country", "pk": 158, "fields": {"group":7, "code": "GT", "name_ru": " ", "name_en": "Guatemala", "show": false}},
+
+ {"model": "geodata.country", "pk": 159, "fields": {"group":0, "code": "GN", "name_ru": " ", "name_en": "Guinea", "show": false}},
+
+ {"model": "geodata.country", "pk": 160, "fields": {"group":0, "code": "GW", "name_ru": " ", "name_en": "Guinea-Bissau", "show": false}},
+
+ {"model": "geodata.country", "pk": 161, "fields": {"group":9, "code": "GY", "name_ru": " ", "name_en": "Guyana", "show": false}},
+
+ {"model": "geodata.country", "pk": 162, "fields": {"group":1, "code": "IS", "name_ru": " ", "name_en": "Iceland", "show": false}},
+
+ {"model": "geodata.country", "pk": 163, "fields": {"group":0, "code": "IQ", "name_ru": " ", "name_en": "Iraq", "show": false}},
+
+ {"model": "geodata.country", "pk": 164, "fields": {"group":0, "code": "KE", "name_ru": " ", "name_en": "Kenya", "show": false}},
+
+ {"model": "geodata.country", "pk": 165, "fields": {"group":0, "code": "KI", "name_ru": " ", "name_en": "Kiribati", "show": false}},
+
+ {"model": "geodata.country", "pk": 166, "fields": {"group":2, "code": "KG", "name_ru": " ", "name_en": "Kyrgyzstan", "show": false}},
+
+ {"model": "geodata.country", "pk": 167, "fields": {"group":8, "code": "LS", "name_ru": " ", "name_en": "Lesotho", "show": false}},
+
+ {"model": "geodata.country", "pk": 168, "fields": {"group":0, "code": "LR", "name_ru": " ", "name_en": "Liberia", "show": false}},
+
+ {"model": "geodata.country", "pk": 169, "fields": {"group":1, "code": "LI", "name_ru": " ", "name_en": "Liechtenstein", "show": false}},
+
+ {"model": "geodata.country", "pk": 170, "fields": {"group":1, "code": "LU", "name_ru": " ", "name_en": "Luxembourg", "show": false}},
+
+ {"model": "geodata.country", "pk": 171, "fields": {"group":0, "code": "MG", "name_ru": " ", "name_en": "Madagascar", "show": false}},
+
+ {"model": "geodata.country", "pk": 172, "fields": {"group":0, "code": "MW", "name_ru": " ", "name_en": "Malawi", "show": false}},
+
+ {"model": "geodata.country", "pk": 173, "fields": {"group":5, "code": "MY", "name_ru": " ", "name_en": "Malaysia", "show": false}},
+
+ {"model": "geodata.country", "pk": 174, "fields": {"group":0, "code": "MV", "name_ru": " ", "name_en": "Maldives", "show": false}},
+
+ {"model": "geodata.country", "pk": 175, "fields": {"group":0, "code": "ML", "name_ru": " ", "name_en": "Mali", "show": false}},
+
+ {"model": "geodata.country", "pk": 176, "fields": {"group":0, "code": "MH", "name_ru": " ", "name_en": "Marshall Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 177, "fields": {"group":0, "code": "MQ", "name_ru": " ", "name_en": "Martinique", "show": false}},
+
+ {"model": "geodata.country", "pk": 178, "fields": {"group":0, "code": "MR", "name_ru": " ", "name_en": "Mauritania", "show": false}},
+
+ {"model": "geodata.country", "pk": 179, "fields": {"group":0, "code": "MU", "name_ru": " ", "name_en": "Mauritius", "show": false}},
+
+ {"model": "geodata.country", "pk": 180, "fields": {"group":0, "code": "YT", "name_ru": " ", "name_en": "Mayotte", "show": false}},
+
+ {"model": "geodata.country", "pk": 181, "fields": {"group":0, "code": "ME", "name_ru": " ", "name_en": "Montenegro", "show": false}},
+
+ {"model": "geodata.country", "pk": 182, "fields": {"group":9, "code": "MS", "name_ru": " ", "name_en": "Montserrat", "show": false}},
+
+ {"model": "geodata.country", "pk": 183, "fields": {"group":5, "code": "MM", "name_ru": " ", "name_en": "Myanmar", "show": false}},
+
+ {"model": "geodata.country", "pk": 184, "fields": {"group":8, "code": "NA", "name_ru": " ", "name_en": "Namibia", "show": false}},
+
+ {"model": "geodata.country", "pk": 185, "fields": {"group":0, "code": "NR", "name_ru": " ", "name_en": "Nauru", "show": false}},
+
+ {"model": "geodata.country", "pk": 186, "fields": {"group":0, "code": "NP", "name_ru": " ", "name_en": "Nepal", "show": false}},
+
+ {"model": "geodata.country", "pk": 187, "fields": {"group":0, "code": "AN", "name_ru": " ", "name_en": "Netherlands Antilles", "show": false}},
+
+ {"model": "geodata.country", "pk": 188, "fields": {"group":0, "code": "NC", "name_ru": " ", "name_en": "New Caledonia", "show": false}},
+
+ {"model": "geodata.country", "pk": 189, "fields": {"group":7, "code": "NI", "name_ru": " ", "name_en": "Nicaragua", "show": false}},
+
+ {"model": "geodata.country", "pk": 190, "fields": {"group":0, "code": "NE", "name_ru": " ", "name_en": "Niger", "show": false}},
+
+ {"model": "geodata.country", "pk": 191, "fields": {"group":0, "code": "NU", "name_ru": " ", "name_en": "Niue", "show": false}},
+
+ {"model": "geodata.country", "pk": 192, "fields": {"group":0, "code": "NF", "name_ru": " ", "name_en": "Norfolk Island", "show": false}},
+
+ {"model": "geodata.country", "pk": 193, "fields": {"group":0, "code": "MP", "name_ru": " ", "name_en": "Northern Mariana Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 194, "fields": {"group":0, "code": "OM", "name_ru": " ", "name_en": "Oman", "show": false}},
+
+ {"model": "geodata.country", "pk": 195, "fields": {"group":0, "code": "PW", "name_ru": " ", "name_en": "Palau", "show": false}},
+
+ {"model": "geodata.country", "pk": 196, "fields": {"group":0, "code": "PG", "name_ru": " ", "name_en": "Papua New Guinea", "show": false}},
+
+ {"model": "geodata.country", "pk": 197, "fields": {"group":3, "code": "PY", "name_ru": " ", "name_en": "Paraguay", "show": false}},
+
+ {"model": "geodata.country", "pk": 198, "fields": {"group":5, "code": "PH", "name_ru": " ", "name_en": "Philippines", "show": false}},
+
+ {"model": "geodata.country", "pk": 199, "fields": {"group":0, "code": "PR", "name_ru": " ", "name_en": "Puerto Rico", "show": false}},
+
+ {"model": "geodata.country", "pk": 200, "fields": {"group":0, "code": "QA", "name_ru": " ", "name_en": "Qatar", "show": false}},
+
+ {"model": "geodata.country", "pk": 201, "fields": {"group":0, "code": "RW", "name_ru": " ", "name_en": "Rwanda", "show": false}},
+
+ {"model": "geodata.country", "pk": 202, "fields": {"group":0, "code": "WS", "name_ru": " ", "name_en": "Samoa", "show": false}},
+
+ {"model": "geodata.country", "pk": 203, "fields": {"group":0, "code": "SM", "name_ru": " ", "name_en": "San Marino", "show": false}},
+
+ {"model": "geodata.country", "pk": 204, "fields": {"group":0, "code": "SA", "name_ru": " ", "name_en": "Saudi Arabia", "show": false}},
+
+ {"model": "geodata.country", "pk": 205, "fields": {"group":0, "code": "SN", "name_ru": " ", "name_en": "Senegal", "show": false}},
+
+ {"model": "geodata.country", "pk": 206, "fields": {"group":0, "code": "RS", "name_ru": " ", "name_en": "Serbia", "show": false}},
+
+ {"model": "geodata.country", "pk": 207, "fields": {"group":0, "code": "SC", "name_ru": " ", "name_en": "Seychelles", "show": false}},
+
+ {"model": "geodata.country", "pk": 208, "fields": {"group":0, "code": "SL", "name_ru": " ", "name_en": "Sierra Leone", "show": false}},
+
+ {"model": "geodata.country", "pk": 209, "fields": {"group":0, "code": "SB", "name_ru": " ", "name_en": "Solomon Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 210, "fields": {"group":8, "code": "ZA", "name_ru": " ", "name_en": "South Africa", "show": false}},
+
+ {"model": "geodata.country", "pk": 211, "fields": {"group":0, "code": "GS", "name_ru": " ", "name_en": "South Georgia and the South Sandwich Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 212, "fields": {"group":0, "code": "LK", "name_ru": " ", "name_en": "Sri Lanka", "show": false}},
+
+ {"model": "geodata.country", "pk": 213, "fields": {"group":0, "code": "SD", "name_ru": " ", "name_en": "Sudan", "show": false}},
+
+ {"model": "geodata.country", "pk": 214, "fields": {"group":9, "code": "SR", "name_ru": " ", "name_en": "Suriname", "show": false}},
+
+ {"model": "geodata.country", "pk": 215, "fields": {"group":8, "code": "SZ", "name_ru": " ", "name_en": "Swaziland", "show": false}},
+
+ {"model": "geodata.country", "pk": 216, "fields": {"group":0, "code": "TG", "name_ru": " ", "name_en": "Togo", "show": false}},
+
+ {"model": "geodata.country", "pk": 217, "fields": {"group":0, "code": "TK", "name_ru": " ", "name_en": "Tokelau", "show": false}},
+
+ {"model": "geodata.country", "pk": 218, "fields": {"group":0, "code": "TO", "name_ru": " ", "name_en": "Tonga", "show": false}},
+
+ {"model": "geodata.country", "pk": 219, "fields": {"group":9, "code": "TT", "name_ru": " ", "name_en": "Trinidad and Tobago", "show": false}},
+
+ {"model": "geodata.country", "pk": 220, "fields": {"group":0, "code": "TC", "name_ru": " ", "name_en": "Turks and Caicos Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 221, "fields": {"group":0, "code": "TV", "name_ru": " ", "name_en": "Tuvalu", "show": false}},
+
+ {"model": "geodata.country", "pk": 222, "fields": {"group":0, "code": "AE", "name_ru": " ", "name_en": "United Arab Emirates", "show": false}},
+
+ {"model": "geodata.country", "pk": 223, "fields": {"group":0, "code": "US", "name_ru": " ", "name_en": "United States", "show": false}},
+
+ {"model": "geodata.country", "pk": 224, "fields": {"group":3, "code": "UY", "name_ru": " ", "name_en": "Uruguay", "show": false}},
+
+ {"model": "geodata.country", "pk": 225, "fields": {"group":0, "code": "VU", "name_ru": " ", "name_en": "Vanuatu", "show": false}},
+
+ {"model": "geodata.country", "pk": 226, "fields": {"group":0, "code": "WF", "name_ru": " ", "name_en": "Wallis and Futuna", "show": false}},
+
+ {"model": "geodata.country", "pk": 227, "fields": {"group":0, "code": "YE", "name_ru": " ", "name_en": "Yemen", "show": false}},
+
+ {"model": "geodata.country", "pk": 228, "fields": {"group":0, "code": "ZM", "name_ru": " ", "name_en": "Zambia", "show": false}},
+
+ {"model": "geodata.country", "pk": 229, "fields": {"group":0, "code": "ZW", "name_ru": " ", "name_en": "Zimbabwe", "show": false}},
+
+ {"model": "geodata.country", "pk": 230, "fields": {"group":0, "code": "AX", "name_ru": " ", "name_en": "\u00c5land Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 231, "fields": {"group":0, "code": "AQ", "name_ru": " ", "name_en": "Antarctica", "show": false}},
+
+ {"model": "geodata.country", "pk": 232, "fields": {"group":4, "code": "BO", "name_ru": " ", "name_en": "Bolivia, Plurinational State of", "show": false}},
+
+ {"model": "geodata.country", "pk": 233, "fields": {"group":5, "code": "BN", "name_ru": " ", "name_en": "Brunei Darussalam", "show": false}},
+
+ {"model": "geodata.country", "pk": 234, "fields": {"group":0, "code": "CC", "name_ru": " ", "name_en": "Cocos (Keeling) Islands", "show": false}},
+
+ {"model": "geodata.country", "pk": 235, "fields": {"group":0, "code": "CD", "name_ru": " ", "name_en": "Congo, The Democratic Republic of the", "show": false}},
+
+ {"model": "geodata.country", "pk": 236, "fields": {"group":0, "code": "CI", "name_ru": " ", "name_en": "Cote d'Ivoire", "show": false}},
+
+ {"model": "geodata.country", "pk": 237, "fields": {"group":0, "code": "FK", "name_ru": " ", "name_en": "Falkland Islands (Malvinas)", "show": false}},
+
+ {"model": "geodata.country", "pk": 238, "fields": {"group":0, "code": "GG", "name_ru": " ", "name_en": "Guernsey", "show": false}},
+
+ {"model": "geodata.country", "pk": 239, "fields": {"group":0, "code": "VA", "name_ru": " ", "name_en": "Holy See (Vatican City State)", "show": false}},
+
+ {"model": "geodata.country", "pk": 240, "fields": {"group":0, "code": "IR", "name_ru": " ", "name_en": "Iran, Islamic Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 241, "fields": {"group":0, "code": "IM", "name_ru": " ", "name_en": "Isle of Man", "show": false}},
+
+ {"model": "geodata.country", "pk": 242, "fields": {"group":0, "code": "JE", "name_ru": " ", "name_en": "Jersey", "show": false}},
+
+ {"model": "geodata.country", "pk": 243, "fields": {"group":0, "code": "KP", "name_ru": " ", "name_en": "Korea, Democratic People's Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 244, "fields": {"group":0, "code": "KR", "name_ru": " ", "name_en": "Korea, Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 245, "fields": {"group":0, "code": "LA", "name_ru": " ", "name_en": "Lao People's Democratic Republic", "show": false}},
+
+ {"model": "geodata.country", "pk": 246, "fields": {"group":0, "code": "LY", "name_ru": " ", "name_en": "Libyan Arab Jamahiriya", "show": false}},
+
+ {"model": "geodata.country", "pk": 247, "fields": {"group":0, "code": "MO", "name_ru": " ", "name_en": "Macao", "show": false}},
+
+ {"model": "geodata.country", "pk": 248, "fields": {"group":0, "code": "MK", "name_ru": " ", "name_en": "Macedonia, The Former Yugoslav Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 249, "fields": {"group":0, "code": "FM", "name_ru": " ", "name_en": "Micronesia, Federated States of", "show": false}},
+
+ {"model": "geodata.country", "pk": 250, "fields": {"group":0, "code": "MD", "name_ru": " ", "name_en": "Moldova, Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 251, "fields": {"group":0, "code": "PS", "name_ru": " ", "name_en": "Palestinian Territory, Occupied", "show": false}},
+
+ {"model": "geodata.country", "pk": 252, "fields": {"group":0, "code": "PN", "name_ru": " ", "name_en": "Pitcairn", "show": false}},
+
+ {"model": "geodata.country", "pk": 253, "fields": {"group":0, "code": "RE", "name_ru": " ", "name_en": "R\u00e9union", "show": false}},
+
+ {"model": "geodata.country", "pk": 254, "fields": {"group":0, "code": "BL", "name_ru": " ", "name_en": "Saint Barth\u00e9lemy", "show": false}},
+
+ {"model": "geodata.country", "pk": 255, "fields": {"group":0, "code": "SH", "name_ru": " ", "name_en": "Saint Helena, Ascension and Tristan Da Cunha", "show": false}},
+
+ {"model": "geodata.country", "pk": 256, "fields": {"group":9, "code": "KN", "name_ru": " ", "name_en": "Saint Kitts and Nevis", "show": false}},
+
+ {"model": "geodata.country", "pk": 257, "fields": {"group":9, "code": "LC", "name_ru": " ", "name_en": "Saint Lucia", "show": false}},
+
+ {"model": "geodata.country", "pk": 258, "fields": {"group":0, "code": "MF", "name_ru": " ", "name_en": "Saint Martin", "show": false}},
+
+ {"model": "geodata.country", "pk": 259, "fields": {"group":0, "code": "PM", "name_ru": " ", "name_en": "Saint Pierre and Miquelon", "show": false}},
+
+ {"model": "geodata.country", "pk": 260, "fields": {"group":9, "code": "VC", "name_ru": " ", "name_en": "Saint Vincent and the Grenadines", "show": false}},
+
+ {"model": "geodata.country", "pk": 261, "fields": {"group":0, "code": "ST", "name_ru": " ", "name_en": "Sao Tome and Principe", "show": false}},
+
+ {"model": "geodata.country", "pk": 262, "fields": {"group":0, "code": "SO", "name_ru": " ", "name_en": "Somalia", "show": false}},
+
+ {"model": "geodata.country", "pk": 263, "fields": {"group":0, "code": "SJ", "name_ru": " ", "name_en": "Svalbard and Jan Mayen", "show": false}},
+
+ {"model": "geodata.country", "pk": 264, "fields": {"group":0, "code": "SY", "name_ru": " ", "name_en": "Syrian Arab Republic", "show": false}},
+
+ {"model": "geodata.country", "pk": 265, "fields": {"group":0, "code": "TW", "name_ru": " ", "name_en": "Taiwan, Province of China", "show": false}},
+
+ {"model": "geodata.country", "pk": 266, "fields": {"group":0, "code": "TZ", "name_ru": " ", "name_en": "Tanzania, United Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 267, "fields": {"group":0, "code": "TL", "name_ru": " ", "name_en": "Timor-Leste", "show": false}},
+
+ {"model": "geodata.country", "pk": 268, "fields": {"group":3, "code": "VE", "name_ru": " ", "name_en": "Venezuela, Bolivarian Republic of", "show": false}},
+
+ {"model": "geodata.country", "pk": 269, "fields": {"group":0, "code": "VN", "name_ru": " ", "name_en": "Viet Nam", "show": false}},
+
+ {"model": "geodata.country", "pk": 270, "fields": {"group":0, "code": "VG", "name_ru": " ", "name_en": "Virgin Islands, British", "show": false}},
+
+ {"model": "geodata.country", "pk": 271, "fields": {"group":0, "code": "VI", "name_ru": " ", "name_en": "Virgin Islands, U.S.", "show": false}}]

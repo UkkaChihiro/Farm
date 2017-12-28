@@ -1,0 +1,1907 @@
+[
+  {"model": "geodata.region", "pk": 1, "fields": {"country": 1, "code": "0", "name_ru": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f", "name_en": "Victoria"}}, 
+ 
+   
+  {"model": "geodata.region", "pk": 2, "fields": {"country": 1, "code": "0", "name_ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f", "name_en": "Western Australia"}}, 
+ 
+   {"model": "geodata.region", "pk": 3, "fields": {"country": 1, "code": "0", "name_ru": "\u041a\u0438\u043d\u0441\u043b\u0435\u043d\u0434", "name_en": "Kinsland"}}, 
+ 
+   {"model": "geodata.region", "pk": 4, "fields": {"country": 1, "code": "0", "name_ru": "\u041d\u043e\u0432\u044b\u0439 \u042e\u0436\u043d\u044b\u0439 \u0423\u044d\u043b\u044c\u0441", "name_en": "New South Wales"}}, 
+ 
+   {"model": "geodata.region", "pk": 5, "fields": {"country": 1, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f", "name_en": "Northern Terrirory"}}, 
+ 
+   {"model": "geodata.region", "pk": 6, "fields": {"country": 1, "code": "0", "name_ru": "\u0422\u0430\u0441\u043c\u0430\u043d\u0438\u044f", "name_en": "Tasmania"}}, 
+ 
+   {"model": "geodata.region", "pk": 7, "fields": {"country": 1, "code": "0", "name_ru": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0442\u043e\u043b\u0438\u0446\u044b", "name_en": "Australian Capital Territory"}}, 
+ 
+   {"model": "geodata.region", "pk": 8, "fields": {"country": 1, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f", "name_en": "Southern Australia"}}, 
+ 
+   {"model": "geodata.region", "pk": 9, "fields": {"country": 2, "code": "0", "name_ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f", "name_en": "Austria"}}, 
+ 
+   {"model": "geodata.region", "pk": 10, "fields": {"country": 2, "code": "0", "name_ru": "\u0412\u0435\u043d\u0430", "name_en": "Vienna"}}, 
+ 
+   {"model": "geodata.region", "pk": 11, "fields": {"country": 2, "code": "0", "name_ru": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f", "name_en": "Upper Austria"}}, 
+ 
+   {"model": "geodata.region", "pk": 12, "fields": {"country": 2, "code": "0", "name_ru": "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433", "name_en": "Zalzburg"}}, 
+ 
+   {"model": "geodata.region", "pk": 13, "fields": {"country": 2, "code": "0", "name_ru": "\u041a\u0430\u0440\u0438\u043d\u0442\u0438\u044f", "name_en": "Carinthia"}}, 
+ 
+   {"model": "geodata.region", "pk": 14, "fields": {"country": 2, "code": "0", "name_ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f", "name_en": "Lower Austria"}}, 
+ 
+   {"model": "geodata.region", "pk": 15, "fields": {"country": 2, "code": "0", "name_ru": "\u0428\u0442\u0438\u0440\u0438\u044f", "name_en": "Steiermark"}}, 
+ 
+   {"model": "geodata.region", "pk": 16, "fields": {"country": 3, "code": "0", "name_ru": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d", "name_en": "Azerbaijan"}}, 
+ 
+   {"model": "geodata.region", "pk": 17, "fields": {"country": 3, "code": "0", "name_ru": "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u041a\u0430\u0440\u0430\u0431\u0430\u0445", "name_en": "Nagorno-Karabakh"}}, 
+ 
+   {"model": "geodata.region", "pk": 18, "fields": {"country": 3, "code": "0", "name_ru": "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Nakhichevan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 19, "fields": {"country": 4, "code": "0", "name_ru": "\u0410\u043d\u0433\u0443\u0438\u043b\u044c\u044f", "name_en": "Anguilla"}}, 
+ 
+   {"model": "geodata.region", "pk": 20, "fields": {"country": 5, "code": "0", "name_ru": "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441", "name_en": "Buenos Aires"}}, 
+ 
+   {"model": "geodata.region", "pk": 21, "fields": {"country": 5, "code": "0", "name_ru": "\u0416\u0443\u0436\u0443\u0439", "name_en": "Jujuy"}}, 
+ 
+   {"model": "geodata.region", "pk": 22, "fields": {"country": 5, "code": "0", "name_ru": "\u041a\u0430\u0442\u0430\u043c\u0430\u0440\u043a\u0430", "name_en": "Catamarca"}}, 
+ 
+   {"model": "geodata.region", "pk": 23, "fields": {"country": 5, "code": "0", "name_ru": "\u041a\u043e\u0440\u0434\u043e\u0431\u0430", "name_en": "Cordoba"}}, 
+ 
+   {"model": "geodata.region", "pk": 24, "fields": {"country": 5, "code": "0", "name_ru": "\u041a\u043e\u0440\u0440\u0438\u0435\u043d\u0442\u0435\u0441", "name_en": "Corrientes"}}, 
+ 
+   {"model": "geodata.region", "pk": 25, "fields": {"country": 5, "code": "0", "name_ru": "\u041b\u0430-\u041f\u0430\u043c\u043f\u0430", "name_en": "La Pampa"}}, 
+ 
+   {"model": "geodata.region", "pk": 26, "fields": {"country": 5, "code": "0", "name_ru": "\u041b\u0430-\u0420\u0438\u043e\u0445\u0430", "name_en": "La Rioja"}}, 
+ 
+   {"model": "geodata.region", "pk": 27, "fields": {"country": 5, "code": "0", "name_ru": "\u041c\u0435\u043d\u0434\u043e\u0441\u0430", "name_en": "Mendoza"}}, 
+ 
+   {"model": "geodata.region", "pk": 28, "fields": {"country": 5, "code": "0", "name_ru": "\u041c\u0438\u0441\u044c\u043e\u043d\u0435\u0441", "name_en": "Misiones"}}, 
+ 
+   {"model": "geodata.region", "pk": 29, "fields": {"country": 5, "code": "0", "name_ru": "\u041d\u0435\u0443\u043a\u0435\u043d", "name_en": "Neuquen"}}, 
+ 
+   {"model": "geodata.region", "pk": 30, "fields": {"country": 5, "code": "0", "name_ru": "\u0421\u0430\u043b\u044c\u0442\u0430", "name_en": "Salta"}}, 
+ 
+   {"model": "geodata.region", "pk": 31, "fields": {"country": 5, "code": "0", "name_ru": "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441", "name_en": "San Luis"}}, 
+ 
+   {"model": "geodata.region", "pk": 32, "fields": {"country": 5, "code": "0", "name_ru": "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d", "name_en": "San Juan"}}, 
+ 
+   {"model": "geodata.region", "pk": 33, "fields": {"country": 5, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441", "name_en": "Santa Cruz"}}, 
+ 
+   {"model": "geodata.region", "pk": 34, "fields": {"country": 5, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u0430-\u0424\u0435", "name_en": "Santa Fe"}}, 
+ 
+   {"model": "geodata.region", "pk": 35, "fields": {"country": 5, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435\u043b\u044c-\u042d\u0441\u0442\u0435\u0440\u043e", "name_en": "Santiago del Estero"}}, 
+ 
+   {"model": "geodata.region", "pk": 36, "fields": {"country": 5, "code": "0", "name_ru": "\u0422\u0443\u043a\u0443\u043c\u0430\u043d", "name_en": "Tucuman"}}, 
+ 
+   {"model": "geodata.region", "pk": 37, "fields": {"country": 5, "code": "0", "name_ru": "\u0424\u043e\u0440\u043c\u043e\u0441\u0430", "name_en": "Formosa"}}, 
+ 
+   {"model": "geodata.region", "pk": 38, "fields": {"country": 5, "code": "0", "name_ru": "\u0427\u0430\u043a\u043e", "name_en": "Chaco"}}, 
+ 
+   {"model": "geodata.region", "pk": 39, "fields": {"country": 5, "code": "0", "name_ru": "\u0427\u0443\u0431\u0443\u0442", "name_en": "Chubut"}}, 
+ 
+   {"model": "geodata.region", "pk": 40, "fields": {"country": 5, "code": "0", "name_ru": "\u042d\u043d\u0442\u0440\u0435-\u0420\u0438\u043e\u0441", "name_en": "Entre Rios"}}, 
+ 
+   {"model": "geodata.region", "pk": 41, "fields": {"country": 6, "code": "0", "name_ru": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f", "name_en": "Armenia"}}, 
+ 
+   {"model": "geodata.region", "pk": 42, "fields": {"country": 6, "code": "0", "name_ru": "\u0415\u0440\u0435\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "name_en": "Yerevan region"}}, 
+ 
+   {"model": "geodata.region", "pk": 43, "fields": {"country": 7, "code": "0", "name_ru": "\u0410\u0440\u0443\u043b\u044c\u043a\u043e", "name_en": "Arulco"}}, 
+ 
+   {"model": "geodata.region", "pk": 44, "fields": {"country": 8, "code": "0", "name_ru": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Brest region"}}, 
+ 
+   {"model": "geodata.region", "pk": 45, "fields": {"country": 8, "code": "0", "name_ru": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Vitebsk region"}}, 
+ 
+   {"model": "geodata.region", "pk": 46, "fields": {"country": 8, "code": "0", "name_ru": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Gomel region"}}, 
+ 
+   {"model": "geodata.region", "pk": 47, "fields": {"country": 8, "code": "0", "name_ru": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Grodno region"}}, 
+ 
+   {"model": "geodata.region", "pk": 48, "fields": {"country": 8, "code": "0", "name_ru": "\u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Minsk region"}}, 
+ 
+   {"model": "geodata.region", "pk": 49, "fields": {"country": 8, "code": "0", "name_ru": "\u041c\u043e\u0433\u0438\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Mogilev region"}}, 
+ 
+   {"model": "geodata.region", "pk": 50, "fields": {"country": 9, "code": "0", "name_ru": "\u0411\u0435\u043b\u0438\u0437", "name_en": "Belize"}}, 
+ 
+   {"model": "geodata.region", "pk": 51, "fields": {"country": 10, "code": "0", "name_ru": "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d", "name_en": "Antwerpen"}}, 
+ 
+   {"model": "geodata.region", "pk": 52, "fields": {"country": 10, "code": "0", "name_ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f", "name_en": "Belgium"}}, 
+ 
+   {"model": "geodata.region", "pk": 53, "fields": {"country": 10, "code": "0", "name_ru": "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c", "name_en": "Brussels"}}, 
+ 
+   {"model": "geodata.region", "pk": 54, "fields": {"country": 10, "code": "0", "name_ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0424\u043b\u0430\u043d\u0434\u0440\u0438\u044f", "name_en": "Eastern Flanders"}}, 
+ 
+   {"model": "geodata.region", "pk": 55, "fields": {"country": 10, "code": "0", "name_ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0424\u043b\u0430\u043d\u0434\u0440\u0438\u044f", "name_en": "Western Flanders"}}, 
+ 
+   {"model": "geodata.region", "pk": 56, "fields": {"country": 10, "code": "0", "name_ru": "\u041b\u0438\u043c\u0431\u0443\u0440\u0433", "name_en": "Limbourg"}}, 
+ 
+   {"model": "geodata.region", "pk": 57, "fields": {"country": 10, "code": "0", "name_ru": "\u041b\u044c\u0435\u0436", "name_en": "Liege"}}, 
+ 
+   {"model": "geodata.region", "pk": 58, "fields": {"country": 10, "code": "0", "name_ru": "\u042d\u043d\u043e", "name_en": "Eno"}}, 
+ 
+   {"model": "geodata.region", "pk": 59, "fields": {"country": 11, "code": "0", "name_ru": "\u0413\u0430\u043c\u0438\u043b\u044c\u0442\u043e\u043d", "name_en": "Hamilton"}}, 
+ 
+   {"model": "geodata.region", "pk": 60, "fields": {"country": 12, "code": "0", "name_ru": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f", "name_en": "Bulgaria"}}, 
+ 
+   {"model": "geodata.region", "pk": 61, "fields": {"country": 12, "code": "0", "name_ru": "\u0411\u0443\u0440\u0433\u0430\u0441", "name_en": "Burgas"}}, 
+ 
+   {"model": "geodata.region", "pk": 62, "fields": {"country": 12, "code": "0", "name_ru": "\u0412\u0430\u0440\u043d\u0430", "name_en": "Varna"}}, 
+ 
+   {"model": "geodata.region", "pk": 63, "fields": {"country": 12, "code": "0", "name_ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u044b\u0440\u043d\u043e\u0432\u043e", "name_en": "Veliko Tyrnovo"}}, 
+ 
+   {"model": "geodata.region", "pk": 64, "fields": {"country": 12, "code": "0", "name_ru": "\u0412\u0438\u0434\u0438\u043d", "name_en": "Vidin"}}, 
+ 
+   {"model": "geodata.region", "pk": 65, "fields": {"country": 12, "code": "0", "name_ru": "\u0413\u0430\u0431\u0440\u043e\u0432\u043e", "name_en": "Gabrovo"}}, 
+ 
+   {"model": "geodata.region", "pk": 66, "fields": {"country": 12, "code": "0", "name_ru": "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a", "name_en": "Pazardzhik"}}, 
+ 
+   {"model": "geodata.region", "pk": 67, "fields": {"country": 12, "code": "0", "name_ru": "\u041f\u0435\u0440\u043d\u0438\u043a", "name_en": "Pernik"}}, 
+ 
+   {"model": "geodata.region", "pk": 68, "fields": {"country": 12, "code": "0", "name_ru": "\u041f\u043b\u0435\u0432\u0435\u043d", "name_en": "Pleven"}}, 
+ 
+   {"model": "geodata.region", "pk": 69, "fields": {"country": 12, "code": "0", "name_ru": "\u041f\u043b\u043e\u0432\u0434\u0438\u0432", "name_en": "Plovdiv"}}, 
+ 
+   {"model": "geodata.region", "pk": 70, "fields": {"country": 12, "code": "0", "name_ru": "\u0420\u0443\u0441\u0435", "name_en": "Ruse"}}, 
+ 
+   {"model": "geodata.region", "pk": 71, "fields": {"country": 12, "code": "0", "name_ru": "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430", "name_en": "Silistra"}}, 
+ 
+   {"model": "geodata.region", "pk": 72, "fields": {"country": 12, "code": "0", "name_ru": "\u0421\u043b\u0438\u0432\u0435\u043d", "name_en": "Sliven"}}, 
+ 
+   {"model": "geodata.region", "pk": 73, "fields": {"country": 12, "code": "0", "name_ru": "\u0421\u043e\u0444\u0438\u044f \u0433\u0440\u0430\u0434", "name_en": "Sofija Grad"}}, 
+ 
+   {"model": "geodata.region", "pk": 74, "fields": {"country": 12, "code": "0", "name_ru": "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430", "name_en": "Stara Zagora"}}, 
+ 
+   {"model": "geodata.region", "pk": 75, "fields": {"country": 12, "code": "0", "name_ru": "\u0425\u0430\u0441\u043a\u043e\u0432\u043e", "name_en": "Haskovo"}}, 
+ 
+   {"model": "geodata.region", "pk": 76, "fields": {"country": 12, "code": "0", "name_ru": "\u0428\u0443\u043c\u0435\u043d", "name_en": "Shumen"}}, 
+ 
+   {"model": "geodata.region", "pk": 77, "fields": {"country": 12, "code": "0", "name_ru": "\u042f\u043c\u0431\u043e\u043b", "name_en": "Jambol"}}, 
+ 
+   {"model": "geodata.region", "pk": 78, "fields": {"country": 13, "code": "0", "name_ru": "\u0410\u043a\u0440\u0438", "name_en": "Akri"}}, 
+ 
+   {"model": "geodata.region", "pk": 79, "fields": {"country": 13, "code": "0", "name_ru": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441", "name_en": "Alagoas"}}, 
+ 
+   {"model": "geodata.region", "pk": 80, "fields": {"country": 13, "code": "0", "name_ru": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441", "name_en": "Amazonas"}}, 
+ 
+   {"model": "geodata.region", "pk": 81, "fields": {"country": 13, "code": "0", "name_ru": "\u0410\u043c\u0430\u043f\u0430", "name_en": "Amala"}}, 
+ 
+   {"model": "geodata.region", "pk": 82, "fields": {"country": 13, "code": "0", "name_ru": "\u0411\u0430\u0438\u044f", "name_en": "Baia"}}, 
+ 
+   {"model": "geodata.region", "pk": 83, "fields": {"country": 13, "code": "0", "name_ru": "\u0413\u043e\u044f\u0441", "name_en": "Goias"}}, 
+ 
+   {"model": "geodata.region", "pk": 84, "fields": {"country": 13, "code": "0", "name_ru": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d", "name_en": "Maranhmo"}}, 
+ 
+   {"model": "geodata.region", "pk": 85, "fields": {"country": 13, "code": "0", "name_ru": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443", "name_en": "Mato Grosso"}}, 
+ 
+   {"model": "geodata.region", "pk": 86, "fields": {"country": 13, "code": "0", "name_ru": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443-\u0434\u0443-\u0421\u0443\u043b", "name_en": "Mato Grosso do Sul"}}, 
+ 
+   {"model": "geodata.region", "pk": 87, "fields": {"country": 13, "code": "0", "name_ru": "\u041c\u0438\u043d\u0430\u0441-\u0416\u0435\u0440\u0430\u0439\u0441", "name_en": "Minas Gerais"}}, 
+ 
+   {"model": "geodata.region", "pk": 88, "fields": {"country": 13, "code": "0", "name_ru": "\u041f\u0430\u0440\u0430", "name_en": "Para"}}, 
+ 
+   {"model": "geodata.region", "pk": 89, "fields": {"country": 13, "code": "0", "name_ru": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430", "name_en": "Paraiba"}}, 
+ 
+   {"model": "geodata.region", "pk": 90, "fields": {"country": 13, "code": "0", "name_ru": "\u041f\u0430\u0440\u0430\u043d\u0430", "name_en": "Parana"}}, 
+ 
+   {"model": "geodata.region", "pk": 91, "fields": {"country": 13, "code": "0", "name_ru": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443", "name_en": "Pernambuco"}}, 
+ 
+   {"model": "geodata.region", "pk": 92, "fields": {"country": 13, "code": "0", "name_ru": "\u041f\u0438\u0430\u0443\u0438", "name_en": "Piaui"}}, 
+ 
+   {"model": "geodata.region", "pk": 93, "fields": {"country": 13, "code": "0", "name_ru": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e", "name_en": "Rio de Janeiro"}}, 
+ 
+   {"model": "geodata.region", "pk": 94, "fields": {"country": 13, "code": "0", "name_ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u041d\u043e\u0440\u0442\u0438", "name_en": "Rio Grande do Norte"}}, 
+ 
+   {"model": "geodata.region", "pk": 95, "fields": {"country": 13, "code": "0", "name_ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b", "name_en": "Rio Grande do Sul"}}, 
+ 
+   {"model": "geodata.region", "pk": 96, "fields": {"country": 13, "code": "0", "name_ru": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438\u044f", "name_en": "Rondonia"}}, 
+ 
+   {"model": "geodata.region", "pk": 97, "fields": {"country": 13, "code": "0", "name_ru": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443", "name_en": "San Paulo"}}, 
+ 
+   {"model": "geodata.region", "pk": 98, "fields": {"country": 13, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430", "name_en": "Santa Catarina"}}, 
+ 
+   {"model": "geodata.region", "pk": 99, "fields": {"country": 13, "code": "0", "name_ru": "\u0421\u0435\u0430\u0440\u0430", "name_en": "Seara"}}, 
+ 
+   {"model": "geodata.region", "pk": 100, "fields": {"country": 13, "code": "0", "name_ru": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438", "name_en": "Sergipe"}}, 
+ 
+   {"model": "geodata.region", "pk": 101, "fields": {"country": 13, "code": "0", "name_ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", "name_en": "Federal District"}}, 
+ 
+   {"model": "geodata.region", "pk": 102, "fields": {"country": 13, "code": "0", "name_ru": "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u0443", "name_en": "Espirito Santo"}}, 
+ 
+   {"model": "geodata.region", "pk": 103, "fields": {"country": 14, "code": "0", "name_ru": "\u0410\u043d\u0433\u043b\u0438\u044f", "name_en": "England"}}, 
+ 
+   {"model": "geodata.region", "pk": 104, "fields": {"country": 14, "code": "0", "name_ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f", "name_en": "United Kingdom"}}, 
+ 
+   {"model": "geodata.region", "pk": 105, "fields": {"country": 14, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Northern Ireland"}}, 
+ 
+   {"model": "geodata.region", "pk": 106, "fields": {"country": 14, "code": "0", "name_ru": "\u0423\u044d\u043b\u044c\u0441", "name_en": "Wales"}}, 
+ 
+   {"model": "geodata.region", "pk": 107, "fields": {"country": 14, "code": "0", "name_ru": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Scotland"}}, 
+ 
+   {"model": "geodata.region", "pk": 108, "fields": {"country": 15, "code": "0", "name_ru": "\u042f\u0441-\u041d\u0430\u0433\u044c\u043a\u0443\u043d-\u0421\u043e\u043b\u043d\u043e\u043a", "name_en": "Jasz-Nagykun-Szolnok"}}, 
+ 
+   {"model": "geodata.region", "pk": 109, "fields": {"country": 15, "code": "0", "name_ru": "\u0411\u0430\u0440\u0430\u043d\u044c\u044f", "name_en": "Baranya"}}, 
+ 
+   {"model": "geodata.region", "pk": 110, "fields": {"country": 15, "code": "0", "name_ru": "\u0411\u0430\u0447-\u041a\u0438\u0448\u043a\u0443\u043d", "name_en": "Bacs Kiskun"}}, 
+ 
+   {"model": "geodata.region", "pk": 111, "fields": {"country": 15, "code": "0", "name_ru": "\u0411\u0435\u043a\u0435\u0448", "name_en": "Bekes"}}, 
+ 
+   {"model": "geodata.region", "pk": 112, "fields": {"country": 15, "code": "0", "name_ru": "\u0411\u043e\u0440\u0448\u043e\u0434-\u0410\u0431\u0430\u0443\u0439-\u0417\u0435\u043c\u043f\u043b\u0435\u043d", "name_en": "Borsod-Abauj-Zemplen"}}, 
+ 
+   {"model": "geodata.region", "pk": 113, "fields": {"country": 15, "code": "0", "name_ru": "\u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442", "name_en": "Budapest"}}, 
+ 
+   {"model": "geodata.region", "pk": 114, "fields": {"country": 15, "code": "0", "name_ru": "\u0412\u0430\u0448", "name_en": "Vas"}}, 
+ 
+   {"model": "geodata.region", "pk": 115, "fields": {"country": 15, "code": "0", "name_ru": "\u0412\u0435\u0441\u043f\u0440\u0435\u043c", "name_en": "Veszprem"}}, 
+ 
+   {"model": "geodata.region", "pk": 116, "fields": {"country": 15, "code": "0", "name_ru": "\u0414\u044c\u0451\u0440-\u0428\u043e\u043f\u0440\u043e\u043d", "name_en": "Gyor Sopron"}}, 
+ 
+   {"model": "geodata.region", "pk": 117, "fields": {"country": 15, "code": "0", "name_ru": "\u0417\u0430\u043b\u0430", "name_en": "Zala"}}, 
+ 
+   {"model": "geodata.region", "pk": 118, "fields": {"country": 15, "code": "0", "name_ru": "\u041a\u043e\u043c\u0430\u0440\u043e\u043c", "name_en": "Komarom"}}, 
+ 
+   {"model": "geodata.region", "pk": 119, "fields": {"country": 15, "code": "0", "name_ru": "\u041d\u043e\u0433\u0440\u0430\u0434", "name_en": "Nograd"}}, 
+ 
+   {"model": "geodata.region", "pk": 120, "fields": {"country": 15, "code": "0", "name_ru": "\u041f\u0435\u0448\u0442", "name_en": "Pest"}}, 
+ 
+   {"model": "geodata.region", "pk": 121, "fields": {"country": 15, "code": "0", "name_ru": "\u0421\u0430\u0431\u043e\u043b\u044c\u0447-\u0421\u0430\u0442\u043c\u0430\u0440", "name_en": "Szabolcs Szatmar"}}, 
+ 
+   {"model": "geodata.region", "pk": 122, "fields": {"country": 15, "code": "0", "name_ru": "\u0424\u0435\u0439\u0435\u0440", "name_en": "Fejer"}}, 
+ 
+   {"model": "geodata.region", "pk": 123, "fields": {"country": 15, "code": "0", "name_ru": "\u0425\u0430\u0439\u0434\u0443-\u0411\u0438\u0445\u0430\u0440", "name_en": "Hajdu-Bihar"}}, 
+ 
+   {"model": "geodata.region", "pk": 124, "fields": {"country": 15, "code": "0", "name_ru": "\u0425\u0435\u0432\u0435\u0448", "name_en": "Heves"}}, 
+ 
+   {"model": "geodata.region", "pk": 125, "fields": {"country": 15, "code": "0", "name_ru": "\u0427\u043e\u043d\u0433\u0440\u0430\u0434", "name_en": "Csongrad"}}, 
+ 
+   {"model": "geodata.region", "pk": 126, "fields": {"country": 16, "code": "0", "name_ru": "\u0414\u043e\u043d\u0433 \u0411\u0430\u043d\u0433 \u0417\u043e\u043d\u0433 \u0426\u0443 \u041b\u043e\u043d\u0433", "name_en": "Dong Bang Song Cuu Long"}}, 
+ 
+   {"model": "geodata.region", "pk": 127, "fields": {"country": 16, "code": "0", "name_ru": "\u0414\u043e\u043d\u0433 \u0411\u0430\u043d\u0433 \u0417\u043e\u043d\u0433 \u0425\u043e\u043d\u0433", "name_en": "Dong Bang Song Hong"}}, 
+ 
+   {"model": "geodata.region", "pk": 128, "fields": {"country": 16, "code": "0", "name_ru": "\u0414\u043e\u043d\u0433 \u041d\u0430\u043c \u0411\u043e", "name_en": "Dong Nam Bo"}}, 
+ 
+   {"model": "geodata.region", "pk": 129, "fields": {"country": 16, "code": "0", "name_ru": "\u0414\u044a\u0435\u043d \u0425\u0430\u0439 \u041c\u0438\u0435\u043d \u0422\u0440\u0443\u043d\u0433", "name_en": "Duyen Hai Mien Trung"}}, 
+ 
+   {"model": "geodata.region", "pk": 130, "fields": {"country": 16, "code": "0", "name_ru": "\u041a\u0445\u0443 \u0411\u043e\u043d \u0426\u0443", "name_en": "Khu Bon Cu"}}, 
+ 
+   {"model": "geodata.region", "pk": 131, "fields": {"country": 16, "code": "0", "name_ru": "\u041c\u0438\u0435\u043d \u041d\u0443\u0438 \u0412\u0430 \u0422\u0440\u0443\u043d\u0433 \u0414\u0443", "name_en": "Mien Nui Va Trung Du"}}, 
+ 
+   {"model": "geodata.region", "pk": 132, "fields": {"country": 16, "code": "0", "name_ru": "\u0422\u0430\u0439 \u041d\u0433\u0443\u0435\u043d", "name_en": "Thai Nguyen"}}, 
+ 
+   {"model": "geodata.region", "pk": 133, "fields": {"country": 17, "code": "0", "name_ru": "\u0410\u0440\u0442\u0438\u0431\u043e\u043d\u0438\u0442\u0435", "name_en": "Artibonite"}}, 
+ 
+   {"model": "geodata.region", "pk": 134, "fields": {"country": 17, "code": "0", "name_ru": "\u0413\u0440\u0430\u043d\u0434 \u0410\u043d\u0441\u0435", "name_en": "Grand Anse"}}, 
+ 
+   {"model": "geodata.region", "pk": 135, "fields": {"country": 17, "code": "0", "name_ru": "\u041d\u043e\u0440\u0434 \u0423\u0435\u0441\u0442", "name_en": "Nord-Ouest"}}, 
+ 
+   {"model": "geodata.region", "pk": 136, "fields": {"country": 17, "code": "0", "name_ru": "\u0423\u0435\u0441\u0442", "name_en": "Ouest"}}, 
+ 
+   {"model": "geodata.region", "pk": 137, "fields": {"country": 17, "code": "0", "name_ru": "\u0417\u044e\u0434", "name_en": "Sud"}}, 
+ 
+   {"model": "geodata.region", "pk": 138, "fields": {"country": 17, "code": "0", "name_ru": "\u0417\u044e\u0434-\u042d\u0441\u0442", "name_en": "Sud-Est"}}, 
+ 
+   {"model": "geodata.region", "pk": 139, "fields": {"country": 18, "code": "0", "name_ru": "\u0413\u0440\u0430\u043d\u0434\u0435-\u0422\u044d\u0440\u0440\u0435", "name_en": "Grande-Terre"}}, 
+ 
+   {"model": "geodata.region", "pk": 140, "fields": {"country": 18, "code": "0", "name_ru": "\u0411\u0430\u0441-\u0422\u0435\u0440", "name_en": "Bas-Ter"}}, 
+ 
+   {"model": "geodata.region", "pk": 141, "fields": {"country": 19, "code": "0", "name_ru": "\u0411\u0435\u0440\u043b\u0438\u043d", "name_en": "Berlin"}}, 
+ 
+   {"model": "geodata.region", "pk": 142, "fields": {"country": 19, "code": "0", "name_ru": "\u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433", "name_en": "Brandenburg"}}, 
+ 
+   {"model": "geodata.region", "pk": 143, "fields": {"country": 19, "code": "0", "name_ru": "\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433 \u0424\u043e\u0440\u043f\u043e\u043c\u0435\u0440\u043d", "name_en": "Mecklenburg-Vorpommern"}}, 
+ 
+   {"model": "geodata.region", "pk": 144, "fields": {"country": 19, "code": "0", "name_ru": "\u0421\u0430\u043a\u0441\u043e\u043d\u0438\u044f", "name_en": "Sachsen"}}, 
+ 
+   {"model": "geodata.region", "pk": 145, "fields": {"country": 19, "code": "0", "name_ru": "\u0421\u0430\u043a\u0441\u043e\u043d\u0438\u044f \u0410\u043d\u0445\u0430\u043b\u044c\u0442", "name_en": "Sachsen-Anhalt"}}, 
+ 
+   {"model": "geodata.region", "pk": 146, "fields": {"country": 19, "code": "0", "name_ru": "\u0422\u044e\u0440\u0438\u043d\u0433\u0438\u044f", "name_en": "Thuringen"}}, 
+ 
+   {"model": "geodata.region", "pk": 147, "fields": {"country": 19, "code": "0", "name_ru": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f", "name_en": "Bavaria"}}, 
+ 
+   {"model": "geodata.region", "pk": 148, "fields": {"country": 19, "code": "0", "name_ru": "\u0411\u0430\u0434\u0435\u043d-\u0412\u044e\u0440\u0442\u0435\u043c\u0431\u0435\u0440\u0433", "name_en": "Baden-Wuerttemberg"}}, 
+ 
+   {"model": "geodata.region", "pk": 149, "fields": {"country": 19, "code": "0", "name_ru": "\u0411\u0440\u0435\u043c\u0435\u043d", "name_en": "Bremen"}}, 
+ 
+   {"model": "geodata.region", "pk": 150, "fields": {"country": 19, "code": "0", "name_ru": "\u0413\u0430\u043c\u0431\u0443\u0440\u0433", "name_en": "Hamburg"}}, 
+ 
+   {"model": "geodata.region", "pk": 151, "fields": {"country": 19, "code": "0", "name_ru": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f", "name_en": "Germany"}}, 
+ 
+   {"model": "geodata.region", "pk": 152, "fields": {"country": 19, "code": "0", "name_ru": "\u0413\u0435\u0441\u0441\u0435\u043d", "name_en": "Hessen"}}, 
+ 
+   {"model": "geodata.region", "pk": 153, "fields": {"country": 19, "code": "0", "name_ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0421\u0430\u043a\u0441\u043e\u043d\u0438\u044f", "name_en": "Niedersachsen"}}, 
+ 
+   {"model": "geodata.region", "pk": 154, "fields": {"country": 19, "code": "0", "name_ru": "\u0420\u0435\u0439\u043d\u043b\u0430\u043d\u0434-\u041f\u0444\u0430\u043b\u044c\u0446", "name_en": "Rheinland-Pfalz"}}, 
+ 
+   {"model": "geodata.region", "pk": 155, "fields": {"country": 19, "code": "0", "name_ru": "\u0421\u0430\u0430\u0440\u043b\u044d\u043d\u0434", "name_en": "Saarland"}}, 
+ 
+   {"model": "geodata.region", "pk": 156, "fields": {"country": 19, "code": "0", "name_ru": "\u0421\u0430\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "name_en": "Saarland province"}}, 
+ 
+   {"model": "geodata.region", "pk": 157, "fields": {"country": 19, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0420\u0435\u0439\u043d-\u0412\u0435\u0441\u0442\u0444\u0430\u043b\u0438\u044f", "name_en": "North Rhine-Wesphalia"}}, 
+ 
+   {"model": "geodata.region", "pk": 158, "fields": {"country": 19, "code": "0", "name_ru": "\u0428\u043b\u0435\u0437\u0432\u0438\u0433-\u0413\u043e\u043b\u044c\u0448\u0442\u0435\u0439\u043d", "name_en": "Schleswig-Holstein"}}, 
+ 
+   {"model": "geodata.region", "pk": 159, "fields": {"country": 20, "code": "0", "name_ru": "\u0413\u0435\u043b\u0434\u0435\u0440\u043b\u0430\u043d\u0434", "name_en": "Gelderland"}}, 
+ 
+   {"model": "geodata.region", "pk": 160, "fields": {"country": 20, "code": "0", "name_ru": "\u0413\u0440\u043e\u043d\u0438\u043d\u0433\u0435\u043d", "name_en": "Groningen"}}, 
+ 
+   {"model": "geodata.region", "pk": 161, "fields": {"country": 20, "code": "0", "name_ru": "\u0414\u0440\u0435\u043d\u0442\u0435", "name_en": "Drenthe"}}, 
+ 
+   {"model": "geodata.region", "pk": 162, "fields": {"country": 20, "code": "0", "name_ru": "\u041b\u0438\u043c\u0431\u0443\u0440\u0433", "name_en": "Limbourg"}}, 
+ 
+   {"model": "geodata.region", "pk": 163, "fields": {"country": 20, "code": "0", "name_ru": "\u041e\u0432\u0435\u0440\u044d\u0439\u0441\u0435\u043b", "name_en": "Overijssel"}}, 
+ 
+   {"model": "geodata.region", "pk": 164, "fields": {"country": 20, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Northern Holland"}}, 
+ 
+   {"model": "geodata.region", "pk": 165, "fields": {"country": 20, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0440\u0430\u0431\u0430\u043d\u0442", "name_en": "Northern Brabant"}}, 
+ 
+   {"model": "geodata.region", "pk": 166, "fields": {"country": 20, "code": "0", "name_ru": "\u0423\u0442\u0440\u0435\u0445\u0442", "name_en": "Utrecht"}}, 
+ 
+   {"model": "geodata.region", "pk": 167, "fields": {"country": 20, "code": "0", "name_ru": "\u0424\u0440\u0438\u0441\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Friesland"}}, 
+ 
+   {"model": "geodata.region", "pk": 168, "fields": {"country": 20, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Southern Holland"}}, 
+ 
+   {"model": "geodata.region", "pk": 169, "fields": {"country": 21, "code": "0", "name_ru": "\u0422\u0435\u0433\u0443\u0441\u0438\u0433\u0430\u043b\u044c\u043f\u0430", "name_en": "Tegucigalpa"}}, 
+ 
+   {"model": "geodata.region", "pk": 170, "fields": {"country": 22, "code": "0", "name_ru": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433", "name_en": "Hong Kong"}}, 
+ 
+   {"model": "geodata.region", "pk": 171, "fields": {"country": 23, "code": "0", "name_ru": "\u0410\u0445\u0430\u0439\u0430", "name_en": "Ahaia"}}, 
+ 
+   {"model": "geodata.region", "pk": 172, "fields": {"country": 23, "code": "0", "name_ru": "\u0410\u0442\u0442\u0438\u043a\u0438", "name_en": "Attiki"}}, 
+ 
+   {"model": "geodata.region", "pk": 173, "fields": {"country": 23, "code": "0", "name_ru": "\u0414\u0440\u0430\u043c\u0430", "name_en": "Drama"}}, 
+ 
+   {"model": "geodata.region", "pk": 174, "fields": {"country": 23, "code": "0", "name_ru": "\u0415\u0432\u0440\u043e\u0441", "name_en": "Evros"}}, 
+ 
+   {"model": "geodata.region", "pk": 175, "fields": {"country": 23, "code": "0", "name_ru": "\u0425\u0430\u043d\u0438\u044f", "name_en": "Hania"}}, 
+ 
+   {"model": "geodata.region", "pk": 176, "fields": {"country": 23, "code": "0", "name_ru": "\u0418\u043e\u0430\u043d\u0438\u043d\u0430", "name_en": "Ioannina"}}, 
+ 
+   {"model": "geodata.region", "pk": 177, "fields": {"country": 23, "code": "0", "name_ru": "\u0418\u0440\u0430\u043a\u043b\u0438\u043e\u043d", "name_en": "Iraklion"}}, 
+ 
+   {"model": "geodata.region", "pk": 178, "fields": {"country": 23, "code": "0", "name_ru": "\u041a\u0430\u0432\u0430\u043b\u0430", "name_en": "Kavala"}}, 
+ 
+   {"model": "geodata.region", "pk": 179, "fields": {"country": 23, "code": "0", "name_ru": "\u041c\u0430\u0433\u043d\u0438\u0441\u0438\u044f", "name_en": "Magnisia"}}, 
+ 
+   {"model": "geodata.region", "pk": 180, "fields": {"country": 23, "code": "0", "name_ru": "\u0421\u0430\u043b\u043e\u043d\u043d\u0438\u043a\u0438", "name_en": "Thessaloniki"}}, 
+ 
+   {"model": "geodata.region", "pk": 181, "fields": {"country": 23, "code": "0", "name_ru": "\u041a\u043e\u0440\u0444\u0443", "name_en": "Corfu"}}, 
+ 
+   {"model": "geodata.region", "pk": 182, "fields": {"country": 24, "code": "0", "name_ru": "\u0410\u0431\u0445\u0430\u0437\u0438\u044f", "name_en": "Abkhazia"}}, 
+ 
+   {"model": "geodata.region", "pk": 183, "fields": {"country": 24, "code": "0", "name_ru": "\u0410\u0434\u0436\u0430\u0440\u0438\u044f", "name_en": "Ajara"}}, 
+ 
+   {"model": "geodata.region", "pk": 184, "fields": {"country": 24, "code": "0", "name_ru": "\u0413\u0440\u0443\u0437\u0438\u044f", "name_en": "Georgia"}}, 
+ 
+   {"model": "geodata.region", "pk": 185, "fields": {"country": 24, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f", "name_en": "Southern Osetija"}}, 
+ 
+   {"model": "geodata.region", "pk": 186, "fields": {"country": 25, "code": "0", "name_ru": "\u0412\u0430\u0439\u043b\u0435", "name_en": "Vayle"}}, 
+ 
+   {"model": "geodata.region", "pk": 187, "fields": {"country": 25, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u042e\u0442\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "Nothern Utland"}}, 
+ 
+   {"model": "geodata.region", "pk": 188, "fields": {"country": 25, "code": "0", "name_ru": "\u041e\u0440\u0445\u0443\u0441", "name_en": "Orhus"}}, 
+ 
+   {"model": "geodata.region", "pk": 189, "fields": {"country": 25, "code": "0", "name_ru": "\u0420\u043e\u0441\u043a\u0438\u043b\u043b\u0435", "name_en": "Roskeelle"}}, 
+ 
+   {"model": "geodata.region", "pk": 190, "fields": {"country": 25, "code": "0", "name_ru": "\u0420\u0438\u0431\u0435", "name_en": "Ribe"}}, 
+ 
+   {"model": "geodata.region", "pk": 191, "fields": {"country": 25, "code": "0", "name_ru": "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d", "name_en": "Copenhagen"}}, 
+ 
+   {"model": "geodata.region", "pk": 192, "fields": {"country": 25, "code": "0", "name_ru": "\u0424\u044e\u043d", "name_en": "Fyn"}}, 
+ 
+   {"model": "geodata.region", "pk": 193, "fields": {"country": 25, "code": "0", "name_ru": "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u0433\u043e\u0440", "name_en": "Helsingor"}}, 
+ 
+   {"model": "geodata.region", "pk": 194, "fields": {"country": 26, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u043e-\u0434\u043e\u043c\u0438\u043d\u0433\u043e", "name_en": "Santo Domingo"}}, 
+ 
+   {"model": "geodata.region", "pk": 195, "fields": {"country": 27, "code": "0", "name_ru": "\u0410\u043b\u044c-\u041a\u0430\u0445\u0438\u0440\u0430", "name_en": "El Quehira"}}, 
+ 
+   {"model": "geodata.region", "pk": 196, "fields": {"country": 27, "code": "0", "name_ru": "\u0410\u0441\u0443\u0430\u043d", "name_en": "Aswan"}}, 
+ 
+   {"model": "geodata.region", "pk": 197, "fields": {"country": 27, "code": "0", "name_ru": "\u0410\u0441\u044c\u044e\u0442", "name_en": "Asyut"}}, 
+ 
+   {"model": "geodata.region", "pk": 198, "fields": {"country": 27, "code": "0", "name_ru": "\u0411\u0435\u043d\u0438-\u0421\u0443\u044d\u0439\u0444", "name_en": "Beni Suef"}}, 
+ 
+   {"model": "geodata.region", "pk": 199, "fields": {"country": 27, "code": "0", "name_ru": "\u0413\u0430\u0440\u0431\u0438\u044f", "name_en": "Al Garbia"}}, 
+ 
+   {"model": "geodata.region", "pk": 200, "fields": {"country": 27, "code": "0", "name_ru": "\u0414\u0443\u043c\u044c\u044f\u0442", "name_en": "Damietta"}}, 
+ 
+   {"model": "geodata.region", "pk": 201, "fields": {"country": 27, "code": "0", "name_ru": "\u0415\u0433\u0438\u043f\u0435\u0442", "name_en": "Egypt"}}, 
+ 
+   {"model": "geodata.region", "pk": 202, "fields": {"country": 27, "code": "0", "name_ru": "\u0421\u0438\u043d\u0430\u0439", "name_en": "Sinai"}}, 
+ 
+   {"model": "geodata.region", "pk": 203, "fields": {"country": 28, "code": "0", "name_ru": "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c", "name_en": "Jerusalem"}}, 
+ 
+   {"model": "geodata.region", "pk": 204, "fields": {"country": 28, "code": "0", "name_ru": "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432", "name_en": "Tel Aviv"}}, 
+ 
+   {"model": "geodata.region", "pk": 205, "fields": {"country": 28, "code": "0", "name_ru": "\u0425\u0430\u0434\u0430\u0440\u043e\u043c", "name_en": "Hadarom"}}, 
+ 
+   {"model": "geodata.region", "pk": 206, "fields": {"country": 28, "code": "0", "name_ru": "\u0425\u0430\u043c\u0435\u0440\u043a\u0430\u0446", "name_en": "Hamerkaz"}}, 
+ 
+   {"model": "geodata.region", "pk": 207, "fields": {"country": 28, "code": "0", "name_ru": "\u0425\u0430\u0446\u0430\u0444\u043e\u043d", "name_en": "Hasafon"}}, 
+ 
+   {"model": "geodata.region", "pk": 208, "fields": {"country": 28, "code": "0", "name_ru": "\u0425\u0435\u0444\u0430", "name_en": "Hefa"}}, 
+ 
+   {"model": "geodata.region", "pk": 209, "fields": {"country": 29, "code": "0", "name_ru": "\u0411\u0430\u043d\u0433\u043b\u0430", "name_en": "Bangla"}}, 
+ 
+   {"model": "geodata.region", "pk": 210, "fields": {"country": 29, "code": "0", "name_ru": "\u0427\u0445\u0430\u0442\u0442\u0438\u0441\u0433\u0430\u0440\u0445", "name_en": "Chhattisgarh"}}, 
+ 
+   {"model": "geodata.region", "pk": 211, "fields": {"country": 29, "code": "0", "name_ru": "\u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430", "name_en": "Karnataka"}}, 
+ 
+   {"model": "geodata.region", "pk": 212, "fields": {"country": 29, "code": "0", "name_ru": "\u0423\u0442\u0430\u0440\u0430\u043d\u0447\u0430\u043b", "name_en": "Uttaranchal"}}, 
+ 
+   {"model": "geodata.region", "pk": 213, "fields": {"country": 29, "code": "0", "name_ru": "\u0410\u043d\u0434\u0445\u0440\u0430-\u041f\u0440\u0430\u0434\u0435\u0448", "name_en": "Andhra Pradesh"}}, 
+ 
+   {"model": "geodata.region", "pk": 214, "fields": {"country": 29, "code": "0", "name_ru": "\u0410\u0441\u0441\u0430\u043c", "name_en": "Assam"}}, 
+ 
+   {"model": "geodata.region", "pk": 215, "fields": {"country": 29, "code": "0", "name_ru": "\u0411\u0438\u0445\u0430\u0440", "name_en": "Bihar"}}, 
+ 
+   {"model": "geodata.region", "pk": 216, "fields": {"country": 29, "code": "0", "name_ru": "\u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442", "name_en": "Gujaryt"}}, 
+ 
+   {"model": "geodata.region", "pk": 217, "fields": {"country": 29, "code": "0", "name_ru": "\u0414\u0436\u0430\u043c\u043c\u0443 \u0438 \u041a\u0430\u0448\u043c\u0438\u0440", "name_en": "Jammu and Kashmir"}}, 
+ 
+   {"model": "geodata.region", "pk": 218, "fields": {"country": 29, "code": "0", "name_ru": "\u0418\u043d\u0434\u0438\u044f", "name_en": "India"}}, 
+ 
+   {"model": "geodata.region", "pk": 219, "fields": {"country": 29, "code": "0", "name_ru": "\u041a\u0435\u0440\u0430\u043b\u0430", "name_en": "Keralla"}}, 
+ 
+   {"model": "geodata.region", "pk": 220, "fields": {"country": 29, "code": "0", "name_ru": "\u041c\u0430\u0434\u0445\u044c\u044f-\u041f\u0440\u0430\u0434\u0435\u0448", "name_en": "Madhya Pradesh"}}, 
+ 
+   {"model": "geodata.region", "pk": 221, "fields": {"country": 29, "code": "0", "name_ru": "\u041c\u0430\u043d\u0438\u043f\u0443\u0440", "name_en": "Manipur"}}, 
+ 
+   {"model": "geodata.region", "pk": 222, "fields": {"country": 29, "code": "0", "name_ru": "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430", "name_en": "Mahyryshtra"}}, 
+ 
+   {"model": "geodata.region", "pk": 223, "fields": {"country": 29, "code": "0", "name_ru": "\u041c\u0435\u0433\u0445\u0430\u043b\u0430\u044f", "name_en": "Meghalaya"}}, 
+ 
+   {"model": "geodata.region", "pk": 224, "fields": {"country": 29, "code": "0", "name_ru": "\u041e\u0440\u0438\u0441\u0441\u0430", "name_en": "Orissa"}}, 
+ 
+   {"model": "geodata.region", "pk": 225, "fields": {"country": 29, "code": "0", "name_ru": "\u041f\u0435\u043d\u0434\u0436\u0430\u0431", "name_en": "Penjab"}}, 
+ 
+   {"model": "geodata.region", "pk": 226, "fields": {"country": 29, "code": "0", "name_ru": "\u041f\u043e\u043d\u0434\u0438\u0448\u0435\u0440\u0438", "name_en": "Pondiheri"}}, 
+ 
+   {"model": "geodata.region", "pk": 227, "fields": {"country": 29, "code": "0", "name_ru": "\u0420\u0430\u0434\u0436\u0430\u0441\u0442\u0445\u0430\u043d", "name_en": "Ryjasthyn"}}, 
+ 
+   {"model": "geodata.region", "pk": 228, "fields": {"country": 29, "code": "0", "name_ru": "\u0422\u0430\u043c\u0438\u043b\u043d\u0430\u0434", "name_en": "Tamil Nadu"}}, 
+ 
+   {"model": "geodata.region", "pk": 229, "fields": {"country": 29, "code": "0", "name_ru": "\u0422\u0440\u0438\u043f\u0443\u0440\u0430", "name_en": "Tripura"}}, 
+ 
+   {"model": "geodata.region", "pk": 230, "fields": {"country": 29, "code": "0", "name_ru": "\u0423\u0442\u0442\u0430\u0440-\u041f\u0440\u0430\u0434\u0435\u0448", "name_en": "Uttar Pradesh"}}, 
+ 
+   {"model": "geodata.region", "pk": 231, "fields": {"country": 29, "code": "0", "name_ru": "\u0425\u0430\u0440\u044c\u044f\u043d\u0430", "name_en": "Haryana"}}, 
+ 
+   {"model": "geodata.region", "pk": 232, "fields": {"country": 29, "code": "0", "name_ru": "\u0427\u0430\u043d\u0434\u0438\u0433\u0430\u0440\u0445", "name_en": "Chandigarh"}}, 
+ 
+   {"model": "geodata.region", "pk": 233, "fields": {"country": 30, "code": "0", "name_ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f", "name_en": "Indonesia"}}, 
+ 
+   {"model": "geodata.region", "pk": 234, "fields": {"country": 31, "code": "0", "name_ru": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f", "name_en": "Jordan"}}, 
+ 
+   {"model": "geodata.region", "pk": 235, "fields": {"country": 32, "code": "0", "name_ru": "\u0411\u0430\u0433\u0434\u0430\u0434", "name_en": "Baghdad"}}, 
+ 
+   {"model": "geodata.region", "pk": 236, "fields": {"country": 32, "code": "0", "name_ru": "\u0411\u0430\u0441\u0440\u0430", "name_en": "Basrah"}}, 
+ 
+   {"model": "geodata.region", "pk": 237, "fields": {"country": 32, "code": "0", "name_ru": "\u041c\u043e\u0441\u0443\u043b", "name_en": "Mosul"}}, 
+ 
+   {"model": "geodata.region", "pk": 238, "fields": {"country": 33, "code": "0", "name_ru": "\u0410\u0437\u0430\u0440\u0431\u0430\u0439\u0436\u0430\u043d \u041a\u0445\u0430\u0432\u0430\u0440\u0438", "name_en": "Azarbayjan-e Khavari"}}, 
+ 
+   {"model": "geodata.region", "pk": 239, "fields": {"country": 33, "code": "0", "name_ru": "\u042d\u0441\u0444\u0430\u0445\u0430\u043d", "name_en": "Esfahan"}}, 
+ 
+   {"model": "geodata.region", "pk": 240, "fields": {"country": 33, "code": "0", "name_ru": "\u0425\u0430\u043c\u0430\u0434\u0430\u043d", "name_en": "Hamadan"}}, 
+ 
+   {"model": "geodata.region", "pk": 241, "fields": {"country": 33, "code": "0", "name_ru": "\u041a\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043d", "name_en": "Kordestan"}}, 
+ 
+   {"model": "geodata.region", "pk": 242, "fields": {"country": 33, "code": "0", "name_ru": "\u041c\u0430\u0440\u043a\u0430\u0437\u0438", "name_en": "Markazi"}}, 
+ 
+   {"model": "geodata.region", "pk": 244, "fields": {"country": 33, "code": "0", "name_ru": "\u0419\u0435\u0437\u0434", "name_en": "Yazd"}}, 
+ 
+   {"model": "geodata.region", "pk": 245, "fields": {"country": 33, "code": "0", "name_ru": "\u041a\u0435\u0440\u043c\u0430\u043d", "name_en": "Kermyn"}}, 
+ 
+   {"model": "geodata.region", "pk": 246, "fields": {"country": 33, "code": "0", "name_ru": "\u041a\u0435\u0440\u043c\u0430\u043d\u0448\u0430\u0445\u0430\u043d", "name_en": "Kermynshyh"}}, 
+ 
+   {"model": "geodata.region", "pk": 247, "fields": {"country": 33, "code": "0", "name_ru": "\u041c\u0430\u0437\u0435\u043d\u0434\u0435\u0440\u0430\u043d", "name_en": "Myzandaryn"}}, 
+ 
+   {"model": "geodata.region", "pk": 248, "fields": {"country": 33, "code": "0", "name_ru": "\u0422\u0435\u0433\u0435\u0440\u0430\u043d", "name_en": "Tehran"}}, 
+ 
+   {"model": "geodata.region", "pk": 249, "fields": {"country": 33, "code": "0", "name_ru": "\u0424\u0430\u0440\u0441", "name_en": "Fyrs"}}, 
+ 
+   {"model": "geodata.region", "pk": 250, "fields": {"country": 33, "code": "0", "name_ru": "\u0425\u043e\u0440\u0430\u0441\u0430\u043d", "name_en": "Horasan"}}, 
+ 
+   {"model": "geodata.region", "pk": 251, "fields": {"country": 33, "code": "0", "name_ru": "\u0425\u0443\u0437\u0438\u0441\u0442\u0430\u043d", "name_en": "Husistan"}}, 
+ 
+   {"model": "geodata.region", "pk": 252, "fields": {"country": 34, "code": "0", "name_ru": "\u041a\u043e\u0440\u043a", "name_en": "Cork"}}, 
+ 
+   {"model": "geodata.region", "pk": 253, "fields": {"country": 34, "code": "0", "name_ru": "\u0414\u0443\u0431\u043b\u0438\u043d", "name_en": "Dublin"}}, 
+ 
+   {"model": "geodata.region", "pk": 254, "fields": {"country": 34, "code": "0", "name_ru": "\u041b\u0438\u043c\u0435\u0440\u0438\u043a", "name_en": "Limerick"}}, 
+ 
+   {"model": "geodata.region", "pk": 255, "fields": {"country": 34, "code": "0", "name_ru": "\u0412\u043e\u0442\u0435\u0440\u0444\u043e\u0440\u0434", "name_en": "Waterford"}}, 
+ 
+   {"model": "geodata.region", "pk": 256, "fields": {"country": 35, "code": "0", "name_ru": "\u041a\u0430\u043d\u0442\u0430\u0431\u0440\u0438\u044f", "name_en": "Cantabria"}}, 
+ 
+   {"model": "geodata.region", "pk": 257, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u0435\u0443\u0442\u0430", "name_en": "Ceuta"}}, 
+ 
+   {"model": "geodata.region", "pk": 258, "fields": {"country": 35, "code": "0", "name_ru": "\u0416\u0438\u0440\u043e\u043d\u0430", "name_en": "Gerona"}}, 
+ 
+   {"model": "geodata.region", "pk": 259, "fields": {"country": 35, "code": "0", "name_ru": "\u0413\u0440\u0430\u043d\u0430\u0434\u0430", "name_en": "Granada"}}, 
+ 
+   {"model": "geodata.region", "pk": 260, "fields": {"country": 35, "code": "0", "name_ru": "\u041b\u0430 \u0420\u0438\u043e\u0445\u0430", "name_en": "La Rioja"}}, 
+ 
+   {"model": "geodata.region", "pk": 261, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u0430\u043b\u0430\u043c\u0430\u043d\u043a\u0430", "name_en": "Salamanca"}}, 
+ 
+   {"model": "geodata.region", "pk": 262, "fields": {"country": 35, "code": "0", "name_ru": "\u0410\u043b\u0430\u0432\u0430", "name_en": "Alava"}}, 
+ 
+   {"model": "geodata.region", "pk": 263, "fields": {"country": 35, "code": "0", "name_ru": "\u0410\u043b\u0438\u043a\u0430\u043d\u0442\u0435", "name_en": "Alicante"}}, 
+ 
+   {"model": "geodata.region", "pk": 264, "fields": {"country": 35, "code": "0", "name_ru": "\u0410\u043b\u044c\u0431\u0430\u0441\u0435\u0442\u0435", "name_en": "Albasete"}}, 
+ 
+   {"model": "geodata.region", "pk": 265, "fields": {"country": 35, "code": "0", "name_ru": "\u0410\u043b\u044c\u043c\u0435\u0440\u0438\u044f", "name_en": "Almeria"}}, 
+ 
+   {"model": "geodata.region", "pk": 266, "fields": {"country": 35, "code": "0", "name_ru": "\u0410\u0441\u0442\u0443\u0440\u0438\u044f", "name_en": "Asturias"}}, 
+ 
+   {"model": "geodata.region", "pk": 267, "fields": {"country": 35, "code": "0", "name_ru": "\u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430", "name_en": "Barcelona"}}, 
+ 
+   {"model": "geodata.region", "pk": 268, "fields": {"country": 35, "code": "0", "name_ru": "\u0411\u0438\u0441\u043a\u0430\u0439\u044f", "name_en": "Vizcaya"}}, 
+ 
+   {"model": "geodata.region", "pk": 269, "fields": {"country": 35, "code": "0", "name_ru": "\u0411\u0443\u0440\u0433\u043e\u0441", "name_en": "Burgos"}}, 
+ 
+   {"model": "geodata.region", "pk": 270, "fields": {"country": 35, "code": "0", "name_ru": "\u0412\u0430\u043b\u0435\u043d\u0441\u0438\u044f", "name_en": "Valencia"}}, 
+ 
+   {"model": "geodata.region", "pk": 271, "fields": {"country": 35, "code": "0", "name_ru": "\u0412\u0430\u043b\u044c\u044f]\u0434\u043e\u043b\u0438\u0434", "name_en": "Valladolid"}}, 
+ 
+   {"model": "geodata.region", "pk": 272, "fields": {"country": 35, "code": "0", "name_ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f", "name_en": "Spain"}}, 
+ 
+   {"model": "geodata.region", "pk": 273, "fields": {"country": 35, "code": "0", "name_ru": "\u041a\u0430\u0434\u0438\u0441", "name_en": "Cadiz"}}, 
+ 
+   {"model": "geodata.region", "pk": 274, "fields": {"country": 35, "code": "0", "name_ru": "\u041a\u0430\u0441\u0435\u0440\u0435\u0441", "name_en": "Caseres"}}, 
+ 
+   {"model": "geodata.region", "pk": 275, "fields": {"country": 35, "code": "0", "name_ru": "\u041a\u043e\u0440\u0434\u043e\u0432\u0430", "name_en": "Cordoba"}}, 
+ 
+   {"model": "geodata.region", "pk": 276, "fields": {"country": 35, "code": "0", "name_ru": "\u041b\u0430\u0441-\u041f\u0430\u043b\u044c\u043c\u0430\u0441", "name_en": "Las Palmas"}}, 
+ 
+   {"model": "geodata.region", "pk": 277, "fields": {"country": 35, "code": "0", "name_ru": "\u041b\u0435\u043e\u043d", "name_en": "Leon"}}, 
+ 
+   {"model": "geodata.region", "pk": 278, "fields": {"country": 35, "code": "0", "name_ru": "\u041b\u0435\u0440\u0438\u0434\u0430", "name_en": "Lerida"}}, 
+ 
+   {"model": "geodata.region", "pk": 279, "fields": {"country": 35, "code": "0", "name_ru": "\u041b\u0443\u0433\u043e", "name_en": "Lugo"}}, 
+ 
+   {"model": "geodata.region", "pk": 280, "fields": {"country": 35, "code": "0", "name_ru": "\u041c\u0430\u0434\u0440\u0438\u0434", "name_en": "Madrid"}}, 
+ 
+   {"model": "geodata.region", "pk": 281, "fields": {"country": 35, "code": "0", "name_ru": "\u041c\u0430\u043b\u0430\u0433\u0430", "name_en": "Malaga"}}, 
+ 
+   {"model": "geodata.region", "pk": 282, "fields": {"country": 35, "code": "0", "name_ru": "\u041c\u0443\u0440\u0441\u0438\u044f", "name_en": "Murcia"}}, 
+ 
+   {"model": "geodata.region", "pk": 283, "fields": {"country": 35, "code": "0", "name_ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0411\u0430\u043b\u0435\u0430\u0440\u0441\u043a\u0438\u0435", "name_en": "Baleares"}}, 
+ 
+   {"model": "geodata.region", "pk": 284, "fields": {"country": 35, "code": "0", "name_ru": "\u041f\u0430\u043b\u0435\u043d\u0441\u0438\u044f", "name_en": "Palencia"}}, 
+ 
+   {"model": "geodata.region", "pk": 285, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u0430\u043c\u043e\u0440\u0430", "name_en": "Samora"}}, 
+ 
+   {"model": "geodata.region", "pk": 286, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435-\u0422\u0435\u043d\u0435\u0440\u0438\u0444\u0435", "name_en": "Santa Cruz de Tenerife"}}, 
+ 
+   {"model": "geodata.region", "pk": 287, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u0430\u0440\u0430\u0433\u043e\u0441\u0430", "name_en": "Saragosa"}}, 
+ 
+   {"model": "geodata.region", "pk": 288, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u0435\u0432\u0438\u043b\u044c\u044f", "name_en": "Sevilla"}}, 
+ 
+   {"model": "geodata.region", "pk": 289, "fields": {"country": 35, "code": "0", "name_ru": "\u0421\u044c\u044e\u0434\u0430\u0434-\u0420\u0435\u0430\u043b\u044c", "name_en": "S'ydad-Real"}}, 
+ 
+   {"model": "geodata.region", "pk": 290, "fields": {"country": 35, "code": "0", "name_ru": "\u0425\u0430\u044d\u043d", "name_en": "Jaen"}}, 
+ 
+   {"model": "geodata.region", "pk": 291, "fields": {"country": 36, "code": "0", "name_ru": "\u0410\u0431\u0440\u0443\u0446\u0446\u0438", "name_en": "Abruzzi"}}, 
+ 
+   {"model": "geodata.region", "pk": 292, "fields": {"country": 36, "code": "0", "name_ru": "\u0410\u043f\u0443\u043b\u0438\u044f", "name_en": "Apulia"}}, 
+ 
+   {"model": "geodata.region", "pk": 293, "fields": {"country": 36, "code": "0", "name_ru": "\u0412\u0435\u043d\u0435\u0446\u0438\u044f", "name_en": "Venice"}}, 
+ 
+   {"model": "geodata.region", "pk": 294, "fields": {"country": 36, "code": "0", "name_ru": "\u0418\u0442\u0430\u043b\u0438\u044f", "name_en": "Italy"}}, 
+ 
+   {"model": "geodata.region", "pk": 295, "fields": {"country": 36, "code": "0", "name_ru": "\u041a\u0430\u043b\u0430\u0431\u0440\u0438\u044f", "name_en": "Calabria"}}, 
+ 
+   {"model": "geodata.region", "pk": 296, "fields": {"country": 36, "code": "0", "name_ru": "\u041a\u0430\u043c\u043f\u0430\u043d\u0438\u044f", "name_en": "Campania"}}, 
+ 
+   {"model": "geodata.region", "pk": 297, "fields": {"country": 36, "code": "0", "name_ru": "\u041b\u0430\u0446\u0438\u043e", "name_en": "Lacio"}}, 
+ 
+   {"model": "geodata.region", "pk": 298, "fields": {"country": 36, "code": "0", "name_ru": "\u041b\u0438\u0433\u0443\u0440\u0438\u044f", "name_en": "Liguria"}}, 
+ 
+   {"model": "geodata.region", "pk": 299, "fields": {"country": 36, "code": "0", "name_ru": "\u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f", "name_en": "Lombardia"}}, 
+ 
+   {"model": "geodata.region", "pk": 300, "fields": {"country": 36, "code": "0", "name_ru": "\u041c\u0430\u0440\u043a\u0435", "name_en": "Marce"}}, 
+ 
+   {"model": "geodata.region", "pk": 301, "fields": {"country": 36, "code": "0", "name_ru": "\u043e. \u0421\u0430\u0440\u0434\u0438\u043d\u0438\u044f", "name_en": "Sardinia"}}, 
+ 
+   {"model": "geodata.region", "pk": 302, "fields": {"country": 36, "code": "0", "name_ru": "\u043e. \u0421\u0438\u0446\u0438\u043b\u0438\u044f", "name_en": "Sicilia"}}, 
+ 
+   {"model": "geodata.region", "pk": 303, "fields": {"country": 36, "code": "0", "name_ru": "\u041f\u044c\u0435\u043c\u043e\u043d\u0442", "name_en": "Piemonte"}}, 
+ 
+   {"model": "geodata.region", "pk": 304, "fields": {"country": 36, "code": "0", "name_ru": "\u0422\u043e\u0441\u043a\u0430\u043d\u0430", "name_en": "Tascana"}}, 
+ 
+   {"model": "geodata.region", "pk": 305, "fields": {"country": 36, "code": "0", "name_ru": "\u0422\u0440\u0435\u043d\u0442\u0438\u043d\u043e-\u0410\u043b\u044c\u0442\u043e-\u0410\u0434\u0438\u0434\u0436\u0435", "name_en": "Trentino-Alto-Alige"}}, 
+ 
+   {"model": "geodata.region", "pk": 306, "fields": {"country": 36, "code": "0", "name_ru": "\u0423\u043c\u0431\u0440\u0438\u044f", "name_en": "Umbria"}}, 
+ 
+   {"model": "geodata.region", "pk": 307, "fields": {"country": 36, "code": "0", "name_ru": "\u0424\u0440\u0438\u0443\u043b\u0438-\u0412\u0435\u043d\u0435\u0446\u0438\u044f-\u0414\u0436\u0443\u043b\u0438\u044f", "name_en": "Friuli-Venezia Giulia"}}, 
+ 
+   {"model": "geodata.region", "pk": 308, "fields": {"country": 36, "code": "0", "name_ru": "\u042d\u043c\u0438\u043b\u0438\u044f-\u0420\u043e\u043c\u0430\u043d\u044c\u044f", "name_en": "Emilia-Romagna"}}, 
+ 
+   {"model": "geodata.region", "pk": 309, "fields": {"country": 36, "code": "0", "name_ru": "\u043e. \u0421\u0430\u043d-\u0414\u0436\u043e\u0440\u0434\u0436\u043e \u041c\u0430\u0434\u0436\u043e\u0440\u0435", "name_en": "i. San-Georgio Madjore"}}, 
+ 
+   {"model": "geodata.region", "pk": 310, "fields": {"country": 37, "code": "0", "name_ru": "\u0410\u043a\u043c\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Akmolinsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 311, "fields": {"country": 37, "code": "0", "name_ru": "\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Aktyubinsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 312, "fields": {"country": 37, "code": "0", "name_ru": "\u0410\u043b\u043c\u0430-\u0410\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Alma-Aty reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 313, "fields": {"country": 37, "code": "0", "name_ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "East Kazakhstan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 314, "fields": {"country": 37, "code": "0", "name_ru": "\u0413\u0443\u0440\u044c\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Guryev reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 315, "fields": {"country": 37, "code": "0", "name_ru": "\u0414\u0436\u0430\u043c\u0431\u0443\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Jambul reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 316, "fields": {"country": 37, "code": "0", "name_ru": "\u0414\u0436\u0435\u0437\u043a\u0430\u0437\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Jezkazgan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 317, "fields": {"country": 37, "code": "0", "name_ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "West Kazakhstan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 318, "fields": {"country": 37, "code": "0", "name_ru": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "name_en": "Kazakhstan"}}, 
+ 
+   {"model": "geodata.region", "pk": 319, "fields": {"country": 37, "code": "0", "name_ru": "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Karaganda reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 320, "fields": {"country": 37, "code": "0", "name_ru": "\u041a\u0437\u044b\u043b-\u041e\u0440\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kzyl-Orda reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 321, "fields": {"country": 37, "code": "0", "name_ru": "\u041a\u043e\u043a\u0447\u0435\u0442\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kokchetavsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 322, "fields": {"country": 37, "code": "0", "name_ru": "\u041a\u0443\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kustanai reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 323, "fields": {"country": 37, "code": "0", "name_ru": "\u041c\u0430\u043d\u0433\u044b\u0448\u043b\u0430\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Mangyshlak reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 324, "fields": {"country": 37, "code": "0", "name_ru": "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Pavlodar reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 325, "fields": {"country": 37, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "North Kazakhstan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 326, "fields": {"country": 37, "code": "0", "name_ru": "\u0421\u0435\u043c\u0438\u043f\u0430\u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Semipalatinsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 327, "fields": {"country": 37, "code": "0", "name_ru": "\u0422\u0430\u043b\u0434\u044b-\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Taldy-Kurgan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 328, "fields": {"country": 37, "code": "0", "name_ru": "\u0422\u0443\u0440\u0433\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Turgai reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 329, "fields": {"country": 37, "code": "0", "name_ru": "\u0426\u0435\u043b\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Celinograd reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 330, "fields": {"country": 37, "code": "0", "name_ru": "\u0427\u0438\u043c\u043a\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Chimkent reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 331, "fields": {"country": 38, "code": "0", "name_ru": "\u041b\u0438\u0442\u0442\u043e\u0440\u0430\u043b", "name_en": "Littoral"}}, 
+ 
+   {"model": "geodata.region", "pk": 332, "fields": {"country": 38, "code": "0", "name_ru": "\u0417\u044e\u0434-\u0423\u044d\u0441\u0442", "name_en": "Sudouest"}}, 
+ 
+   {"model": "geodata.region", "pk": 333, "fields": {"country": 38, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f", "name_en": "Northern"}}, 
+ 
+   {"model": "geodata.region", "pk": 334, "fields": {"country": 38, "code": "0", "name_ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f", "name_en": "Central"}}, 
+ 
+   {"model": "geodata.region", "pk": 335, "fields": {"country": 39, "code": "0", "name_ru": "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430", "name_en": "Alberta"}}, 
+ 
+   {"model": "geodata.region", "pk": 336, "fields": {"country": 39, "code": "0", "name_ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f", "name_en": "British Columbia"}}, 
+ 
+   {"model": "geodata.region", "pk": 337, "fields": {"country": 39, "code": "0", "name_ru": "\u041a\u0432\u0435\u0431\u0435\u043a", "name_en": "Quebec"}}, 
+ 
+   {"model": "geodata.region", "pk": 338, "fields": {"country": 39, "code": "0", "name_ru": "\u041c\u0430\u043d\u0438\u0442\u043e\u0431\u0430", "name_en": "Manitoba"}}, 
+ 
+   {"model": "geodata.region", "pk": 339, "fields": {"country": 39, "code": "0", "name_ru": "\u041d\u043e\u0432\u0430\u044f \u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f", "name_en": "New Scotland"}}, 
+ 
+   {"model": "geodata.region", "pk": 340, "fields": {"country": 39, "code": "0", "name_ru": "\u041d\u044c\u044e-\u0411\u0440\u0443\u043d\u0441\u0432\u0438\u043a", "name_en": "New Brunswick"}}, 
+ 
+   {"model": "geodata.region", "pk": 341, "fields": {"country": 39, "code": "0", "name_ru": "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434", "name_en": "Newfoundland"}}, 
+ 
+   {"model": "geodata.region", "pk": 342, "fields": {"country": 39, "code": "0", "name_ru": "\u041e\u043d\u0442\u0430\u0440\u0438\u043e", "name_en": "Ontario"}}, 
+ 
+   {"model": "geodata.region", "pk": 343, "fields": {"country": 39, "code": "0", "name_ru": "\u041f\u0440\u0438\u043d\u0446 \u042d\u0434\u0443\u0430\u0440\u0434", "name_en": "Prince Edward"}}, 
+ 
+   {"model": "geodata.region", "pk": 344, "fields": {"country": 39, "code": "0", "name_ru": "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d", "name_en": "Saskatchewan"}}, 
+ 
+   {"model": "geodata.region", "pk": 345, "fields": {"country": 40, "code": "0", "name_ru": "\u0411\u0430\u0433\u0430\u043c\u044b", "name_en": "Bahamas"}}, 
+ 
+   {"model": "geodata.region", "pk": 346, "fields": {"country": 41, "code": "0", "name_ru": "\u0422\u0435\u0440\u0440. \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0438\u0440\u0443\u0435\u043c\u0430\u044f \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e\u043c", "name_en": "Government controlled area"}}, 
+ 
+   {"model": "geodata.region", "pk": 347, "fields": {"country": 41, "code": "0", "name_ru": "\u0422\u0443\u0440\u0435\u0446\u043a\u043e-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0438\u0440\u0443\u0435\u043c\u0430\u044f \u0442\u0435\u0440\u0440.", "name_en": "Turkish controlled area"}}, 
+ 
+   {"model": "geodata.region", "pk": 348, "fields": {"country": 42, "code": "0", "name_ru": "\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Issyk-Kulsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 349, "fields": {"country": 42, "code": "0", "name_ru": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d", "name_en": "Kyrgystan"}}, 
+ 
+   {"model": "geodata.region", "pk": 350, "fields": {"country": 42, "code": "0", "name_ru": "\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Narynsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 351, "fields": {"country": 42, "code": "0", "name_ru": "\u041e\u0448\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Osh reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 352, "fields": {"country": 42, "code": "0", "name_ru": "\u0422\u0430\u043b\u0430\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Talass reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 353, "fields": {"country": 43, "code": "0", "name_ru": "\u0421\u0438\u043d\u044c\u0446\u0437\u044f\u043d", "name_en": "Xinjiang"}}, 
+ 
+   {"model": "geodata.region", "pk": 354, "fields": {"country": 43, "code": "0", "name_ru": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f", "name_en": "Inner Mongolia"}}, 
+ 
+   {"model": "geodata.region", "pk": 355, "fields": {"country": 43, "code": "0", "name_ru": "\u0413\u0430\u043d\u044c\u0441\u0443", "name_en": "Gansu"}}, 
+ 
+   {"model": "geodata.region", "pk": 356, "fields": {"country": 43, "code": "0", "name_ru": "\u0413\u0443\u0430\u043d\u0434\u043e\u043d", "name_en": "Guangdong"}}, 
+ 
+   {"model": "geodata.region", "pk": 357, "fields": {"country": 43, "code": "0", "name_ru": "\u0413\u0443\u0430\u043d\u0441\u0438", "name_en": "Guanxi"}}, 
+ 
+   {"model": "geodata.region", "pk": 358, "fields": {"country": 43, "code": "0", "name_ru": "\u041b\u044f\u043e\u043d\u0438\u043d", "name_en": "Liaoning"}}, 
+ 
+   {"model": "geodata.region", "pk": 359, "fields": {"country": 43, "code": "0", "name_ru": "\u041f\u0435\u043a\u0438\u043d", "name_en": "Pekin"}}, 
+ 
+   {"model": "geodata.region", "pk": 360, "fields": {"country": 43, "code": "0", "name_ru": "\u0421\u044b\u0447\u0443\u0430\u043d\u044c", "name_en": "Sichuan"}}, 
+ 
+   {"model": "geodata.region", "pk": 361, "fields": {"country": 43, "code": "0", "name_ru": "\u0424\u0443\u0446\u0437\u044f\u043d\u044c", "name_en": "Fujian"}}, 
+ 
+   {"model": "geodata.region", "pk": 362, "fields": {"country": 43, "code": "0", "name_ru": "\u0425\u0443\u0431\u044d\u0439", "name_en": "Hubei"}}, 
+ 
+   {"model": "geodata.region", "pk": 363, "fields": {"country": 43, "code": "0", "name_ru": "\u0425\u0443\u043d\u0430\u043d\u044c", "name_en": "Hunan"}}, 
+ 
+   {"model": "geodata.region", "pk": 364, "fields": {"country": 43, "code": "0", "name_ru": "\u0425\u044d\u0431\u044d\u0439", "name_en": "Hebei"}}, 
+ 
+   {"model": "geodata.region", "pk": 365, "fields": {"country": 43, "code": "0", "name_ru": "\u0425\u044d\u0439\u043b\u0443\u043d\u0446\u0437\u044f\u043d", "name_en": "Heilongjiang"}}, 
+ 
+   {"model": "geodata.region", "pk": 366, "fields": {"country": 43, "code": "0", "name_ru": "\u0425\u044d\u043d\u0430\u043d\u044c", "name_en": " Henan"}}, 
+ 
+   {"model": "geodata.region", "pk": 367, "fields": {"country": 43, "code": "0", "name_ru": "\u0426\u0437\u0438\u043b\u0438\u043d\u044c", "name_en": "Jilin"}}, 
+ 
+   {"model": "geodata.region", "pk": 368, "fields": {"country": 43, "code": "0", "name_ru": "\u0426\u0437\u044f\u043d\u0441\u0438", "name_en": "Jiangxi"}}, 
+ 
+   {"model": "geodata.region", "pk": 369, "fields": {"country": 43, "code": "0", "name_ru": "\u0426\u0437\u044f\u043d\u0441\u0443", "name_en": "Jiangsu"}}, 
+ 
+   {"model": "geodata.region", "pk": 370, "fields": {"country": 43, "code": "0", "name_ru": "\u0427\u0436\u044d\u0446\u0437\u044f\u043d", "name_en": "Zhejiang"}}, 
+ 
+   {"model": "geodata.region", "pk": 371, "fields": {"country": 43, "code": "0", "name_ru": "\u0428\u0430\u043d\u0445\u0430\u0439", "name_en": "Shanghai"}}, 
+ 
+   {"model": "geodata.region", "pk": 372, "fields": {"country": 43, "code": "0", "name_ru": "\u0428\u0430\u043d\u044c\u0434\u0443\u043d", "name_en": "Shandong"}}, 
+ 
+   {"model": "geodata.region", "pk": 373, "fields": {"country": 43, "code": "0", "name_ru": "\u0428\u0430\u043d\u044c\u0441\u0438", "name_en": "Shanxi"}}, 
+ 
+   {"model": "geodata.region", "pk": 374, "fields": {"country": 44, "code": "0", "name_ru": "\u041a\u043e\u0440\u0435\u044f", "name_en": "Korea"}}, 
+ 
+   {"model": "geodata.region", "pk": 375, "fields": {"country": 44, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f", "name_en": "South Korea"}}, 
+ 
+   {"model": "geodata.region", "pk": 376, "fields": {"country": 45, "code": "0", "name_ru": "\u0410\u043b\u0430\u0433\u0443\u0435\u043b\u0430", "name_en": "Alajuela"}}, 
+ 
+   {"model": "geodata.region", "pk": 377, "fields": {"country": 45, "code": "0", "name_ru": "\u0413\u0443\u0430\u043d\u0430\u043a\u0430\u0441\u0442\u0435", "name_en": "Guanacaste"}}, 
+ 
+   {"model": "geodata.region", "pk": 378, "fields": {"country": 45, "code": "0", "name_ru": "\u042d\u0440\u0435\u0434\u0438\u0430", "name_en": "Heredia"}}, 
+ 
+   {"model": "geodata.region", "pk": 379, "fields": {"country": 45, "code": "0", "name_ru": "\u041b\u0438\u043c\u043e\u043d", "name_en": "Limon"}}, 
+ 
+   {"model": "geodata.region", "pk": 380, "fields": {"country": 45, "code": "0", "name_ru": "\u041f\u0443\u043d\u0442\u0430\u0440\u0435\u043d\u0430\u0441", "name_en": "Puntarenas"}}, 
+ 
+   {"model": "geodata.region", "pk": 381, "fields": {"country": 45, "code": "0", "name_ru": "\u0421\u0430\u043d \u0425\u043e\u0441\u0435", "name_en": "San Jose"}}, 
+ 
+   {"model": "geodata.region", "pk": 382, "fields": {"country": 46, "code": "0", "name_ru": "\u0413\u0430\u0432\u0430\u043d\u0430", "name_en": "Havana"}}, 
+ 
+   {"model": "geodata.region", "pk": 383, "fields": {"country": 47, "code": "0", "name_ru": "\u042d\u043b\u044c-\u0414\u0436\u0430\u0445\u0440\u0430", "name_en": "al-Jahra"}}, 
+ 
+   {"model": "geodata.region", "pk": 384, "fields": {"country": 47, "code": "0", "name_ru": "\u042d\u043b\u044c-\u041a\u0443\u0432\u0435\u0439\u0442", "name_en": "al-Kuwayt"}}, 
+ 
+   {"model": "geodata.region", "pk": 385, "fields": {"country": 48, "code": "0", "name_ru": "\u041b\u0430\u0442\u0432\u0438\u044f", "name_en": "Latvia"}}, 
+ 
+   {"model": "geodata.region", "pk": 386, "fields": {"country": 49, "code": "0", "name_ru": "\u0411\u0435\u0439\u0440\u0443\u0442", "name_en": "Beirut"}}, 
+ 
+   {"model": "geodata.region", "pk": 388, "fields": {"country": 51, "code": "0", "name_ru": "\u0422\u0440\u0438\u043f\u043e\u043b\u0438", "name_en": "Tarabulus"}}, 
+ 
+   {"model": "geodata.region", "pk": 389, "fields": {"country": 51, "code": "0", "name_ru": "\u0411\u0435\u043d\u0433\u0430\u0437\u0438", "name_en": "Bengasi"}}, 
+ 
+   {"model": "geodata.region", "pk": 390, "fields": {"country": 52, "code": "0", "name_ru": "\u041b\u0438\u0442\u0432\u0430", "name_en": "Lithuania"}}, 
+ 
+   {"model": "geodata.region", "pk": 391, "fields": {"country": 53, "code": "0", "name_ru": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433", "name_en": "Luxemburg"}}, 
+ 
+   {"model": "geodata.region", "pk": 392, "fields": {"country": 54, "code": "0", "name_ru": "\u0421\u043a\u043e\u043f\u044c\u0435", "name_en": "Skopje"}}, 
+ 
+   {"model": "geodata.region", "pk": 393, "fields": {"country": 55, "code": "0", "name_ru": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f", "name_en": "Malasia"}}, 
+ 
+   {"model": "geodata.region", "pk": 394, "fields": {"country": 56, "code": "0", "name_ru": "\u041c\u0430\u043b\u044c\u0442\u0430", "name_en": "Malta"}}, 
+ 
+   {"model": "geodata.region", "pk": 395, "fields": {"country": 57, "code": "0", "name_ru": "\u0410\u0433\u0443\u0430\u0441\u043a\u0430\u043b\u044c\u0435\u043d\u0442\u0435\u0441", "name_en": "Aguascalientes"}}, 
+ 
+   {"model": "geodata.region", "pk": 396, "fields": {"country": 57, "code": "0", "name_ru": "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441", "name_en": "Veracruz"}}, 
+ 
+   {"model": "geodata.region", "pk": 397, "fields": {"country": 57, "code": "0", "name_ru": "\u0413\u0435\u0440\u0440\u0435\u0440\u043e", "name_en": "Guerrero"}}, 
+ 
+   {"model": "geodata.region", "pk": 398, "fields": {"country": 57, "code": "0", "name_ru": "\u0413\u0443\u0430\u043d\u0430\u0445\u0443\u0430\u0442\u043e", "name_en": "Guanajuato"}}, 
+ 
+   {"model": "geodata.region", "pk": 399, "fields": {"country": 57, "code": "0", "name_ru": "\u0414\u0443\u0440\u0430\u043d\u0433\u043e", "name_en": "Durango"}}, 
+ 
+   {"model": "geodata.region", "pk": 400, "fields": {"country": 57, "code": "0", "name_ru": "\u0418\u0434\u0430\u043b\u044c\u0433\u043e", "name_en": "Hidalgo"}}, 
+ 
+   {"model": "geodata.region", "pk": 401, "fields": {"country": 57, "code": "0", "name_ru": "\u041a\u0430\u043c\u043f\u0435\u0447\u0435", "name_en": "Campeche"}}, 
+ 
+   {"model": "geodata.region", "pk": 402, "fields": {"country": 57, "code": "0", "name_ru": "\u041a\u0435\u0440\u0435\u0442\u0430\u0440\u043e", "name_en": "Queretaro"}}, 
+ 
+   {"model": "geodata.region", "pk": 404, "fields": {"country": 57, "code": "0", "name_ru": "\u041a\u043e\u0430\u0443\u0438\u043b\u0430", "name_en": "Coahuila"}}, 
+ 
+   {"model": "geodata.region", "pk": 405, "fields": {"country": 57, "code": "0", "name_ru": "\u041a\u043e\u043b\u0438\u043c\u0430", "name_en": "Colima"}}, 
+ 
+   {"model": "geodata.region", "pk": 406, "fields": {"country": 57, "code": "0", "name_ru": "\u041c\u0435\u0445\u0438\u043a\u043e", "name_en": "Mexico"}}, 
+ 
+   {"model": "geodata.region", "pk": 407, "fields": {"country": 57, "code": "0", "name_ru": "\u041c\u0438\u0447\u043e\u0430\u043a\u0430\u043d", "name_en": "Michoacan"}}, 
+ 
+   {"model": "geodata.region", "pk": 408, "fields": {"country": 57, "code": "0", "name_ru": "\u041c\u043e\u0440\u0435\u043b\u043e\u0441", "name_en": "Morelos"}}, 
+ 
+   {"model": "geodata.region", "pk": 409, "fields": {"country": 57, "code": "0", "name_ru": "\u041d\u0430\u044f\u0440\u0438\u0442", "name_en": "Nayarit"}}, 
+ 
+   {"model": "geodata.region", "pk": 410, "fields": {"country": 57, "code": "0", "name_ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f", "name_en": "Baja California"}}, 
+ 
+   {"model": "geodata.region", "pk": 411, "fields": {"country": 57, "code": "0", "name_ru": "\u041d\u0443\u044d\u0432\u043e-\u041b\u0435\u043e\u043d", "name_en": "Nuevo Leon"}}, 
+ 
+   {"model": "geodata.region", "pk": 412, "fields": {"country": 57, "code": "0", "name_ru": "\u041e\u0430\u0445\u0430\u043a\u0430", "name_en": "Oaxaca"}}, 
+ 
+   {"model": "geodata.region", "pk": 413, "fields": {"country": 57, "code": "0", "name_ru": "\u041f\u0443\u044d\u0431\u043b\u0430", "name_en": "Puebla"}}, 
+ 
+   {"model": "geodata.region", "pk": 414, "fields": {"country": 57, "code": "0", "name_ru": "\u0421\u0430\u043a\u0430\u0442\u0435\u043a\u0430\u0441", "name_en": "Zacatecas"}}, 
+ 
+   {"model": "geodata.region", "pk": 415, "fields": {"country": 57, "code": "0", "name_ru": "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441-\u041f\u043e\u0442\u043e\u0441\u0438", "name_en": "San Luis Potosi"}}, 
+ 
+   {"model": "geodata.region", "pk": 416, "fields": {"country": 57, "code": "0", "name_ru": "\u0421\u0438\u043d\u0430\u043b\u043e\u0430", "name_en": "Sinaloa"}}, 
+ 
+   {"model": "geodata.region", "pk": 417, "fields": {"country": 57, "code": "0", "name_ru": "\u0421\u043e\u043d\u043e\u0440\u0430", "name_en": "Sonora"}}, 
+ 
+   {"model": "geodata.region", "pk": 418, "fields": {"country": 57, "code": "0", "name_ru": "\u0422\u0430\u0431\u0430\u0441\u043a\u043e", "name_en": "Tabasco"}}, 
+ 
+   {"model": "geodata.region", "pk": 419, "fields": {"country": 57, "code": "0", "name_ru": "\u0422\u0430\u043c\u0430\u0443\u043b\u0438\u043f\u0430\u0441", "name_en": "Tamaulipas"}}, 
+ 
+   {"model": "geodata.region", "pk": 420, "fields": {"country": 57, "code": "0", "name_ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433", "name_en": "Distrito Federal"}}, 
+ 
+   {"model": "geodata.region", "pk": 421, "fields": {"country": 57, "code": "0", "name_ru": "\u0425\u0430\u043b\u0438\u0441\u043a\u043e", "name_en": "Jalisco"}}, 
+ 
+   {"model": "geodata.region", "pk": 422, "fields": {"country": 57, "code": "0", "name_ru": "\u0427\u0438\u0443\u0430\u0443\u0430", "name_en": "Chihuahua"}}, 
+ 
+   {"model": "geodata.region", "pk": 423, "fields": {"country": 57, "code": "0", "name_ru": "\u0427\u044c\u044f\u043f\u0430\u0441", "name_en": "Chiapas"}}, 
+ 
+   {"model": "geodata.region", "pk": 424, "fields": {"country": 57, "code": "0", "name_ru": "\u042e\u043a\u0430\u0442\u0430\u043d", "name_en": "Yucatan"}}, 
+ 
+   {"model": "geodata.region", "pk": 425, "fields": {"country": 58, "code": "0", "name_ru": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a", "name_en": "Mozambique"}}, 
+ 
+   {"model": "geodata.region", "pk": 426, "fields": {"country": 59, "code": "0", "name_ru": "\u041c\u043e\u043b\u0434\u043e\u0432\u0430", "name_en": "Moldova"}}, 
+ 
+   {"model": "geodata.region", "pk": 427, "fields": {"country": 60, "code": "0", "name_ru": "\u041c\u043e\u043d\u0430\u043a\u043e", "name_en": "Monaco"}}, 
+ 
+   {"model": "geodata.region", "pk": 428, "fields": {"country": 61, "code": "0", "name_ru": "\u0423\u043b\u0430\u043d-\u0431\u0430\u0442\u043e\u0440", "name_en": "Ulan Bator"}}, 
+ 
+   {"model": "geodata.region", "pk": 429, "fields": {"country": 62, "code": "0", "name_ru": "\u041c\u043e\u0440\u043e\u043a\u043a\u043e", "name_en": "Morocco"}}, 
+ 
+   {"model": "geodata.region", "pk": 430, "fields": {"country": 62, "code": "0", "name_ru": "\u0422\u0430\u043d\u0436\u0435\u0440", "name_en": "Tangier"}}, 
+ 
+   {"model": "geodata.region", "pk": 431, "fields": {"country": 63, "code": "0", "name_ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b", "name_en": "Netherlands"}}, 
+ 
+   {"model": "geodata.region", "pk": 432, "fields": {"country": 64, "code": "0", "name_ru": "\u041e\u043a\u043b\u0430\u043d\u0434", "name_en": "Auckland"}}, 
+ 
+   {"model": "geodata.region", "pk": 433, "fields": {"country": 64, "code": "0", "name_ru": "\u0411\u0435\u0439-\u043e\u0444-\u041f\u043b\u0435\u043d\u0442\u0438", "name_en": "Bay of Plenty"}}, 
+ 
+   {"model": "geodata.region", "pk": 434, "fields": {"country": 64, "code": "0", "name_ru": "\u041a\u0435\u043d\u0442\u0435\u043d\u0431\u0435\u0440\u0438", "name_en": "Canterbury"}}, 
+ 
+   {"model": "geodata.region", "pk": 435, "fields": {"country": 64, "code": "0", "name_ru": "\u0413\u0438\u0441\u0431\u043e\u0440\u043d", "name_en": "Gisborne"}}, 
+ 
+   {"model": "geodata.region", "pk": 436, "fields": {"country": 64, "code": "0", "name_ru": "\u0425\u043e\u043a\u0441 \u0411\u0435\u0439", "name_en": "Hocks Bay"}}, 
+ 
+   {"model": "geodata.region", "pk": 437, "fields": {"country": 64, "code": "0", "name_ru": "\u041c\u0435\u043d\u0430\u0432\u0430\u0442\u0443-\u0412\u0430\u043d\u0433\u0430\u043d\u0443\u0438", "name_en": "Manawatu-Wanganui"}}, 
+ 
+   {"model": "geodata.region", "pk": 438, "fields": {"country": 64, "code": "0", "name_ru": "\u041c\u0430\u0440\u043b\u044c\u0431\u043e\u0440\u043e", "name_en": "Marlborough"}}, 
+ 
+   {"model": "geodata.region", "pk": 439, "fields": {"country": 64, "code": "0", "name_ru": "\u041d\u0435\u043b\u044c\u0441\u043e\u043d", "name_en": "Nelson"}}, 
+ 
+   {"model": "geodata.region", "pk": 440, "fields": {"country": 64, "code": "0", "name_ru": "\u041d\u043e\u0440\u0442\u043b\u0435\u043d\u0434", "name_en": "Northland"}}, 
+ 
+   {"model": "geodata.region", "pk": 441, "fields": {"country": 64, "code": "0", "name_ru": "\u041e\u0442\u0430\u0433\u043e", "name_en": "Otago"}}, 
+ 
+   {"model": "geodata.region", "pk": 442, "fields": {"country": 64, "code": "0", "name_ru": "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434", "name_en": "Southland"}}, 
+ 
+   {"model": "geodata.region", "pk": 443, "fields": {"country": 64, "code": "0", "name_ru": "\u0422\u0430\u0440\u0430\u043d\u0430\u043a\u0438", "name_en": "Taranaki"}}, 
+ 
+   {"model": "geodata.region", "pk": 444, "fields": {"country": 64, "code": "0", "name_ru": "\u0422\u0430\u0441\u043c\u0430\u043d", "name_en": "Tasman"}}, 
+ 
+   {"model": "geodata.region", "pk": 445, "fields": {"country": 64, "code": "0", "name_ru": "\u0412\u0435\u0438\u043a\u0430\u0442\u043e", "name_en": "Waikato"}}, 
+ 
+   {"model": "geodata.region", "pk": 446, "fields": {"country": 64, "code": "0", "name_ru": "\u0412\u0435\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d", "name_en": "Wellington"}}, 
+ 
+   {"model": "geodata.region", "pk": 447, "fields": {"country": 64, "code": "0", "name_ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435 \u043f\u043e\u0431\u0435\u0440\u0435\u0436\u044c\u0435", "name_en": "West Coast"}}, 
+ 
+   {"model": "geodata.region", "pk": 448, "fields": {"country": 65, "code": "0", "name_ru": "\u0411\u0443\u0441\u043a\u0435\u0440\u0443\u0434", "name_en": "Buskerud"}}, 
+ 
+   {"model": "geodata.region", "pk": 449, "fields": {"country": 65, "code": "0", "name_ru": "\u0412\u0435\u0441\u0442\u0430\u0433\u0434\u0435\u0440", "name_en": "Vest-Adger"}}, 
+ 
+   {"model": "geodata.region", "pk": 450, "fields": {"country": 65, "code": "0", "name_ru": "\u041d\u043e\u0440\u0434\u043b\u0430\u043d\u0434", "name_en": "Nordland"}}, 
+ 
+   {"model": "geodata.region", "pk": 451, "fields": {"country": 65, "code": "0", "name_ru": "\u041d\u0443\u0440\u043b\u0430\u043d", "name_en": "Nordland"}}, 
+ 
+   {"model": "geodata.region", "pk": 452, "fields": {"country": 65, "code": "0", "name_ru": "\u041e\u0441\u043b\u043e", "name_en": "Oslo"}}, 
+ 
+   {"model": "geodata.region", "pk": 453, "fields": {"country": 65, "code": "0", "name_ru": "\u0420\u043e\u043c\u0441\u0434\u0430\u043b", "name_en": "Romsdal"}}, 
+ 
+   {"model": "geodata.region", "pk": 454, "fields": {"country": 65, "code": "0", "name_ru": "\u0420\u0443\u0433\u0430\u043b\u0430\u043d\u043d", "name_en": "Rogaland"}}, 
+ 
+   {"model": "geodata.region", "pk": 455, "fields": {"country": 65, "code": "0", "name_ru": "\u0421\u0451\u0440-\u0422\u0440\u0451\u043d\u043d\u0435\u043b\u0430\u0433", "name_en": "Sor-Trondelag"}}, 
+ 
+   {"model": "geodata.region", "pk": 456, "fields": {"country": 65, "code": "0", "name_ru": "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a", "name_en": "Telemark"}}, 
+ 
+   {"model": "geodata.region", "pk": 457, "fields": {"country": 65, "code": "0", "name_ru": "\u0425\u0443\u0440\u0430\u043b\u0430\u043d", "name_en": "Hordaland"}}, 
+ 
+   {"model": "geodata.region", "pk": 458, "fields": {"country": 66, "code": "0", "name_ru": "\u0414\u0443\u0431\u0430\u0439", "name_en": "Dubai"}}, 
+ 
+   {"model": "geodata.region", "pk": 459, "fields": {"country": 67, "code": "0", "name_ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d", "name_en": "Isle Of Man"}}, 
+ 
+   {"model": "geodata.region", "pk": 460, "fields": {"country": 68, "code": "0", "name_ru": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d", "name_en": "Pakistan"}}, 
+ 
+   {"model": "geodata.region", "pk": 461, "fields": {"country": 69, "code": "0", "name_ru": "\u041f\u0435\u0440\u0443", "name_en": "Peru"}}, 
+ 
+   {"model": "geodata.region", "pk": 462, "fields": {"country": 70, "code": "0", "name_ru": "\u0414\u043e\u043b\u044c\u043d\u043e\u0449\u043b\u044c\u043e\u043d\u0441\u043a\u043e\u0435", "name_en": "Dolnoslaskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 463, "fields": {"country": 70, "code": "0", "name_ru": "\u041a\u0443\u044f\u0432\u0441\u043a\u043e-\u041f\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435", "name_en": "Kujawsko-Pomorskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 464, "fields": {"country": 70, "code": "0", "name_ru": "\u041b\u044e\u0431\u0435\u043b\u044c\u0441\u043a\u043e\u0435", "name_en": "Lubuskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 465, "fields": {"country": 70, "code": "0", "name_ru": "\u041c\u0430\u043b\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435", "name_en": "Malopolskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 466, "fields": {"country": 70, "code": "0", "name_ru": "\u041c\u0430\u0437\u043e\u0432\u0435\u0446\u043a\u043e\u0435", "name_en": "Mazowieckie"}}, 
+ 
+   {"model": "geodata.region", "pk": 467, "fields": {"country": 70, "code": "0", "name_ru": "\u041f\u043e\u0434\u043a\u0430\u0440\u043f\u0430\u0446\u043a\u043e\u0435", "name_en": "Podkarpackie"}}, 
+ 
+   {"model": "geodata.region", "pk": 468, "fields": {"country": 70, "code": "0", "name_ru": "\u041f\u043e\u0434\u043b\u044f\u0441\u043a\u043e\u0435", "name_en": "Podlaskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 469, "fields": {"country": 70, "code": "0", "name_ru": "\u041f\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435", "name_en": "Pomorskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 470, "fields": {"country": 70, "code": "0", "name_ru": "\u0421\u0438\u043b\u0435\u0437\u043a\u043e\u0435", "name_en": "Slaskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 471, "fields": {"country": 70, "code": "0", "name_ru": "\u0428\u0432\u0435\u043d\u0442\u043e\u043a\u0448\u0438\u0448\u0441\u043a\u043e\u0435", "name_en": "Swietokrzyskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 472, "fields": {"country": 70, "code": "0", "name_ru": "\u0412\u0430\u0440\u043c\u0438\u043d\u0441\u043a\u043e-\u041c\u0430\u0437\u0443\u0440\u0441\u043a\u043e\u0435", "name_en": "Warminsko-Mazurskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 473, "fields": {"country": 70, "code": "0", "name_ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435", "name_en": "Wielkopolskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 474, "fields": {"country": 70, "code": "0", "name_ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u043f\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435", "name_en": "Zachodnio-Pomorskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 475, "fields": {"country": 70, "code": "0", "name_ru": "\u041b\u043e\u0434\u0437\u0438\u043d\u0441\u043a\u043e\u0435", "name_en": "Lodzkie"}}, 
+ 
+   {"model": "geodata.region", "pk": 476, "fields": {"country": 70, "code": "0", "name_ru": "\u041b\u044e\u0431\u043b\u0438\u043d\u0441\u043a\u043e\u0435", "name_en": "Lubelskie"}}, 
+ 
+   {"model": "geodata.region", "pk": 477, "fields": {"country": 70, "code": "0", "name_ru": "\u041e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435", "name_en": "Opol"}}, 
+ 
+   {"model": "geodata.region", "pk": 478, "fields": {"country": 70, "code": "0", "name_ru": "\u041f\u043e\u043b\u044c\u0448\u0430", "name_en": "Poland"}}, 
+ 
+   {"model": "geodata.region", "pk": 479, "fields": {"country": 71, "code": "0", "name_ru": "\u0426\u0435\u043d\u0442\u0440", "name_en": "Centro"}}, 
+ 
+   {"model": "geodata.region", "pk": 480, "fields": {"country": 71, "code": "0", "name_ru": "\u041e-\u0432\u0430 \u041c\u0430\u0434\u0435\u0439\u0440\u0430", "name_en": "Madera Islands"}}, 
+ 
+   {"model": "geodata.region", "pk": 481, "fields": {"country": 71, "code": "0", "name_ru": "\u041b\u0438\u0441\u0430\u0431\u043e\u043d", "name_en": "Lisbon"}}, 
+ 
+   {"model": "geodata.region", "pk": 482, "fields": {"country": 71, "code": "0", "name_ru": "\u041e\u0440\u0442\u0430", "name_en": "Horta"}}, 
+ 
+   {"model": "geodata.region", "pk": 483, "fields": {"country": 71, "code": "0", "name_ru": "\u0424\u0430\u0440\u043e", "name_en": "Faro"}}, 
+ 
+   {"model": "geodata.region", "pk": 484, "fields": {"country": 72, "code": "0", "name_ru": "\u0421\u0432.\u0414\u0435\u043d\u0438\u0441", "name_en": "Saint-Denis"}}, 
+ 
+   {"model": "geodata.region", "pk": 485, "fields": {"country": 73, "code": "0", "name_ru": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0438 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Moscow and Moscow region"}}, 
+ 
+   {"model": "geodata.region", "pk": 486, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 \u0438 \u043e\u0431\u043b\u0430\u0441\u0442\u044c", "name_en": "St.Petersburg and region"}}, 
+ 
+   {"model": "geodata.region", "pk": 487, "fields": {"country": 73, "code": "0", "name_ru": "\u0410\u0434\u044b\u0433\u0435\u044f", "name_en": "Agydea"}}, 
+ 
+   {"model": "geodata.region", "pk": 488, "fields": {"country": 73, "code": "0", "name_ru": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "name_en": "Altaisk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 489, "fields": {"country": 73, "code": "0", "name_ru": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Amursk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 490, "fields": {"country": 73, "code": "0", "name_ru": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Archangelsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 491, "fields": {"country": 73, "code": "0", "name_ru": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Astrahan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 492, "fields": {"country": 73, "code": "0", "name_ru": "\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d (\u0411\u0430\u0448\u043a\u0438\u0440\u0438\u044f)", "name_en": "Bashkortostan"}}, 
+ 
+   {"model": "geodata.region", "pk": 493, "fields": {"country": 73, "code": "0", "name_ru": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Belgorod reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 494, "fields": {"country": 73, "code": "0", "name_ru": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Bryansk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 495, "fields": {"country": 73, "code": "0", "name_ru": "\u0411\u0443\u0440\u044f\u0442\u0438\u044f", "name_en": "Buryatia"}}, 
+ 
+   {"model": "geodata.region", "pk": 496, "fields": {"country": 73, "code": "0", "name_ru": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Vladimir reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 497, "fields": {"country": 73, "code": "0", "name_ru": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Volgograd reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 498, "fields": {"country": 73, "code": "0", "name_ru": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Vologda reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 499, "fields": {"country": 73, "code": "0", "name_ru": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Voronezh reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 500, "fields": {"country": 73, "code": "0", "name_ru": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d", "name_en": "Dagestan"}}, 
+ 
+   {"model": "geodata.region", "pk": 501, "fields": {"country": 73, "code": "0", "name_ru": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Yevrey reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 502, "fields": {"country": 73, "code": "0", "name_ru": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Ivanovo reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 503, "fields": {"country": 73, "code": "0", "name_ru": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Irkutsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 504, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u044f", "name_en": "Kabardino-Balkarija"}}, 
+ 
+   {"model": "geodata.region", "pk": 505, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kaliningrad reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 506, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f", "name_en": "Kalmykia"}}, 
+ 
+   {"model": "geodata.region", "pk": 507, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kaluga reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 508, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kamchatka reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 509, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0430\u0440\u0435\u043b\u0438\u044f", "name_en": "Karelia"}}, 
+ 
+   {"model": "geodata.region", "pk": 510, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kemerovo reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 511, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kirov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 512, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u043e\u043c\u0438", "name_en": "Komi"}}, 
+ 
+   {"model": "geodata.region", "pk": 513, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kostroma reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 514, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "name_en": "Krasnodar reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 515, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "name_en": "Krasnoyarsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 516, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kurgan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 517, "fields": {"country": 73, "code": "0", "name_ru": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kursk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 518, "fields": {"country": 73, "code": "0", "name_ru": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Lipeck reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 519, "fields": {"country": 73, "code": "0", "name_ru": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Magadan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 520, "fields": {"country": 73, "code": "0", "name_ru": "\u041c\u0430\u0440\u0438\u0439 \u042d\u043b", "name_en": "Marij El"}}, 
+ 
+   {"model": "geodata.region", "pk": 521, "fields": {"country": 73, "code": "0", "name_ru": "\u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f", "name_en": "Mordovia"}}, 
+ 
+   {"model": "geodata.region", "pk": 523, "fields": {"country": 73, "code": "0", "name_ru": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Murmansk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 524, "fields": {"country": 73, "code": "0", "name_ru": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f (\u0413\u043e\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f)", "name_en": "Niznij Novgorod reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 525, "fields": {"country": 73, "code": "0", "name_ru": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Novgorod reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 526, "fields": {"country": 73, "code": "0", "name_ru": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Novosibirsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 527, "fields": {"country": 73, "code": "0", "name_ru": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Omsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 528, "fields": {"country": 73, "code": "0", "name_ru": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Orenburg reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 529, "fields": {"country": 73, "code": "0", "name_ru": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Orel reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 530, "fields": {"country": 73, "code": "0", "name_ru": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Penza reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 531, "fields": {"country": 73, "code": "0", "name_ru": "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Perm' reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 532, "fields": {"country": 73, "code": "0", "name_ru": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "name_en": "Primorsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 533, "fields": {"country": 73, "code": "0", "name_ru": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Pskov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 534, "fields": {"country": 73, "code": "0", "name_ru": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Rostov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 535, "fields": {"country": 73, "code": "0", "name_ru": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Ryazan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 536, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Samara reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 538, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Saratov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 539, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)", "name_en": "Saha"}}, 
+ 
+   {"model": "geodata.region", "pk": 540, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d", "name_en": "Sahalin"}}, 
+ 
+   {"model": "geodata.region", "pk": 541, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Sverdlovsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 542, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f", "name_en": "Northern Osetia"}}, 
+ 
+   {"model": "geodata.region", "pk": 543, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Smolensk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 544, "fields": {"country": 73, "code": "0", "name_ru": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "name_en": "Stavropol reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 545, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tambov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 546, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d", "name_en": "Tatarstan"}}, 
+ 
+   {"model": "geodata.region", "pk": 547, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tver' reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 548, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tomsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 549, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u0443\u0432\u0430 (\u0422\u0443\u0432\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f.)", "name_en": "Tuva"}}, 
+ 
+   {"model": "geodata.region", "pk": 550, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tula reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 551, "fields": {"country": 73, "code": "0", "name_ru": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tyumen reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 552, "fields": {"country": 73, "code": "0", "name_ru": "\u0423\u0434\u043c\u0443\u0440\u0442\u0438\u044f", "name_en": "Udmurtia"}}, 
+ 
+   {"model": "geodata.region", "pk": 553, "fields": {"country": 73, "code": "0", "name_ru": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Ulyanovsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 554, "fields": {"country": 73, "code": "0", "name_ru": "\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Uralskaja reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 555, "fields": {"country": 73, "code": "0", "name_ru": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439", "name_en": "Habarovsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 556, "fields": {"country": 73, "code": "0", "name_ru": "\u0425\u0430\u043a\u0430\u0441\u0438\u044f", "name_en": "Hakasia"}}, 
+ 
+   {"model": "geodata.region", "pk": 557, "fields": {"country": 73, "code": "0", "name_ru": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0410\u041e", "name_en": "Hanty-Mansiysk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 558, "fields": {"country": 73, "code": "0", "name_ru": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Chelyabinsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 559, "fields": {"country": 73, "code": "0", "name_ru": "\u0427\u0435\u0447\u0435\u043d\u043e-\u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f", "name_en": "Checheno-Ingushetia"}}, 
+ 
+   {"model": "geodata.region", "pk": 560, "fields": {"country": 73, "code": "0", "name_ru": "\u0427\u0438\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Chita reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 561, "fields": {"country": 73, "code": "0", "name_ru": "\u0427\u0443\u0432\u0430\u0448\u0438\u044f", "name_en": "Chuvashia"}}, 
+ 
+   {"model": "geodata.region", "pk": 562, "fields": {"country": 73, "code": "0", "name_ru": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0410\u041e", "name_en": "Chukotka reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 563, "fields": {"country": 73, "code": "0", "name_ru": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0410\u041e", "name_en": "Yamalo-Neneckiy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 564, "fields": {"country": 73, "code": "0", "name_ru": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Yaroslavl' reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 565, "fields": {"country": 74, "code": "0", "name_ru": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f", "name_en": "Romania"}}, 
+ 
+   {"model": "geodata.region", "pk": 566, "fields": {"country": 75, "code": "0", "name_ru": "\u0410\u0439\u0434\u0430\u0445\u043e", "name_en": "Idaho"}}, 
+ 
+   {"model": "geodata.region", "pk": 567, "fields": {"country": 75, "code": "0", "name_ru": "\u0410\u0439\u043e\u0432\u0430", "name_en": "Iowa"}}, 
+ 
+   {"model": "geodata.region", "pk": 568, "fields": {"country": 75, "code": "0", "name_ru": "\u0410\u043b\u0430\u0431\u0430\u043c\u0430", "name_en": "Alabama"}}, 
+ 
+   {"model": "geodata.region", "pk": 569, "fields": {"country": 75, "code": "0", "name_ru": "\u0410\u043b\u044f\u0441\u043a\u0430", "name_en": "Alaska"}}, 
+ 
+   {"model": "geodata.region", "pk": 570, "fields": {"country": 75, "code": "0", "name_ru": "\u0410\u0440\u0438\u0437\u043e\u043d\u0430", "name_en": "Arizona"}}, 
+ 
+   {"model": "geodata.region", "pk": 571, "fields": {"country": 75, "code": "0", "name_ru": "\u0410\u0440\u043a\u0430\u043d\u0437\u0430\u0441", "name_en": "Arkansas"}}, 
+ 
+   {"model": "geodata.region", "pk": 572, "fields": {"country": 75, "code": "0", "name_ru": "\u0412\u0430\u0439\u043e\u043c\u0438\u043d\u0433", "name_en": "Wyoming"}}, 
+ 
+   {"model": "geodata.region", "pk": 573, "fields": {"country": 75, "code": "0", "name_ru": "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d", "name_en": "Washington"}}, 
+ 
+   {"model": "geodata.region", "pk": 574, "fields": {"country": 75, "code": "0", "name_ru": "\u0412\u0435\u0440\u043c\u043e\u043d\u0442", "name_en": "Vermont"}}, 
+ 
+   {"model": "geodata.region", "pk": 575, "fields": {"country": 75, "code": "0", "name_ru": "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f", "name_en": "Virginia"}}, 
+ 
+   {"model": "geodata.region", "pk": 576, "fields": {"country": 75, "code": "0", "name_ru": "\u0412\u0438\u0441\u043a\u043e\u043d\u0441\u0438\u043d", "name_en": "Wisconsin"}}, 
+ 
+   {"model": "geodata.region", "pk": 577, "fields": {"country": 75, "code": "0", "name_ru": "\u0413\u0430\u0432\u0430\u0438", "name_en": "Hawaii"}}, 
+ 
+   {"model": "geodata.region", "pk": 578, "fields": {"country": 75, "code": "0", "name_ru": "\u0414\u0435\u043b\u0430\u0432\u0430\u0440", "name_en": "Delaware"}}, 
+ 
+   {"model": "geodata.region", "pk": 579, "fields": {"country": 75, "code": "0", "name_ru": "\u0414\u0436\u043e\u0440\u0434\u0436\u0438\u044f", "name_en": "Georgia"}}, 
+ 
+   {"model": "geodata.region", "pk": 580, "fields": {"country": 75, "code": "0", "name_ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f", "name_en": "West Virginia"}}, 
+ 
+   {"model": "geodata.region", "pk": 581, "fields": {"country": 75, "code": "0", "name_ru": "\u0418\u043b\u043b\u0438\u043d\u043e\u0439\u0441", "name_en": "Illinois"}}, 
+ 
+   {"model": "geodata.region", "pk": 582, "fields": {"country": 75, "code": "0", "name_ru": "\u0418\u043d\u0434\u0438\u0430\u043d\u0430", "name_en": "Indiana"}}, 
+ 
+   {"model": "geodata.region", "pk": 583, "fields": {"country": 75, "code": "0", "name_ru": "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f", "name_en": "California"}}, 
+ 
+   {"model": "geodata.region", "pk": 584, "fields": {"country": 75, "code": "0", "name_ru": "\u041a\u0430\u043d\u0437\u0430\u0441", "name_en": "Kansas"}}, 
+ 
+   {"model": "geodata.region", "pk": 585, "fields": {"country": 75, "code": "0", "name_ru": "\u041a\u0435\u043d\u0442\u0443\u043a\u043a\u0438", "name_en": "Kentucky"}}, 
+ 
+   {"model": "geodata.region", "pk": 586, "fields": {"country": 75, "code": "0", "name_ru": "\u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e", "name_en": "Colorado"}}, 
+ 
+   {"model": "geodata.region", "pk": 587, "fields": {"country": 75, "code": "0", "name_ru": "\u041a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043a\u0443\u0442", "name_en": "Connecticut"}}, 
+ 
+   {"model": "geodata.region", "pk": 588, "fields": {"country": 75, "code": "0", "name_ru": "\u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430", "name_en": "Louisiana"}}, 
+ 
+   {"model": "geodata.region", "pk": 589, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u0430\u0441\u0441\u0430\u0447\u0443\u0441\u0435\u0442\u0441", "name_en": "Massachusetts"}}, 
+ 
+   {"model": "geodata.region", "pk": 590, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u0438\u043d\u043d\u0435\u0441\u043e\u0442\u0430", "name_en": "Minnesota"}}, 
+ 
+   {"model": "geodata.region", "pk": 591, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u0438\u0441\u0441\u0438\u0441\u0438\u043f\u0438", "name_en": "Mississippi"}}, 
+ 
+   {"model": "geodata.region", "pk": 592, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u0438\u0441\u0441\u0443\u0440\u0438", "name_en": "Missouri"}}, 
+ 
+   {"model": "geodata.region", "pk": 593, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u0438\u0447\u0438\u0433\u0430\u043d", "name_en": "Michigan"}}, 
+ 
+   {"model": "geodata.region", "pk": 594, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u043e\u043d\u0442\u0430\u043d\u0430", "name_en": "Montana"}}, 
+ 
+   {"model": "geodata.region", "pk": 595, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u044d\u043d", "name_en": "Maine"}}, 
+ 
+   {"model": "geodata.region", "pk": 596, "fields": {"country": 75, "code": "0", "name_ru": "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434", "name_en": "Maryland"}}, 
+ 
+   {"model": "geodata.region", "pk": 597, "fields": {"country": 75, "code": "0", "name_ru": "\u041d\u0435\u0431\u0440\u0430\u0441\u043a\u0430", "name_en": "Nebraska"}}, 
+ 
+   {"model": "geodata.region", "pk": 598, "fields": {"country": 75, "code": "0", "name_ru": "\u041d\u0435\u0432\u0430\u0434\u0430", "name_en": "Nevada"}}, 
+ 
+   {"model": "geodata.region", "pk": 599, "fields": {"country": 75, "code": "0", "name_ru": "\u041d\u044c\u044e-\u0425\u044d\u043c\u043f\u0448\u0438\u0440", "name_en": "New Hampshire"}}, 
+ 
+   {"model": "geodata.region", "pk": 600, "fields": {"country": 75, "code": "0", "name_ru": "\u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438", "name_en": "New Jersey"}}, 
+ 
+   {"model": "geodata.region", "pk": 601, "fields": {"country": 75, "code": "0", "name_ru": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a", "name_en": "New York"}}, 
+ 
+   {"model": "geodata.region", "pk": 602, "fields": {"country": 75, "code": "0", "name_ru": "\u041d\u044c\u044e-\u041c\u0435\u043a\u0441\u0438\u043a\u043e", "name_en": "New Mexico"}}, 
+ 
+   {"model": "geodata.region", "pk": 603, "fields": {"country": 75, "code": "0", "name_ru": "\u041e\u0433\u0430\u0439\u043e", "name_en": "Ohio"}}, 
+ 
+   {"model": "geodata.region", "pk": 604, "fields": {"country": 75, "code": "0", "name_ru": "\u041e\u043a\u043b\u0430\u0445\u043e\u043c\u0430", "name_en": "Oklahoma"}}, 
+ 
+   {"model": "geodata.region", "pk": 605, "fields": {"country": 75, "code": "0", "name_ru": "\u041e\u0440\u0435\u0433\u043e\u043d", "name_en": "Oregon"}}, 
+ 
+   {"model": "geodata.region", "pk": 606, "fields": {"country": 75, "code": "0", "name_ru": "\u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f", "name_en": "Pennsylvania"}}, 
+ 
+   {"model": "geodata.region", "pk": 607, "fields": {"country": 75, "code": "0", "name_ru": "\u0420\u043e\u0434-\u0410\u0439\u043b\u0435\u043d\u0434", "name_en": "Rhode Island"}}, 
+ 
+   {"model": "geodata.region", "pk": 609, "fields": {"country": 75, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0414\u0430\u043a\u043e\u0442\u0430", "name_en": "North Dakota"}}, 
+ 
+   {"model": "geodata.region", "pk": 610, "fields": {"country": 75, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430", "name_en": "North Carolina"}}, 
+ 
+   {"model": "geodata.region", "pk": 611, "fields": {"country": 75, "code": "0", "name_ru": "\u0422\u0435\u043d\u043d\u0435\u0441\u0441\u0438", "name_en": "Tennessee"}}, 
+ 
+   {"model": "geodata.region", "pk": 612, "fields": {"country": 75, "code": "0", "name_ru": "\u0422\u0435\u0445\u0430\u0441", "name_en": "Texas"}}, 
+ 
+   {"model": "geodata.region", "pk": 613, "fields": {"country": 75, "code": "0", "name_ru": "\u0424\u043b\u043e\u0440\u0438\u0434\u0430", "name_en": "Florida"}}, 
+ 
+   {"model": "geodata.region", "pk": 614, "fields": {"country": 75, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u0414\u0430\u043a\u043e\u0442\u0430", "name_en": "South Dakota"}}, 
+ 
+   {"model": "geodata.region", "pk": 615, "fields": {"country": 75, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430", "name_en": "South Carolina"}}, 
+ 
+   {"model": "geodata.region", "pk": 616, "fields": {"country": 75, "code": "0", "name_ru": "\u042e\u0442\u0430", "name_en": "Utah"}}, 
+ 
+   {"model": "geodata.region", "pk": 617, "fields": {"country": 75, "code": "0", "name_ru": "\u043e\u043a\u0440. \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f", "name_en": "District of Columbia"}}, 
+ 
+   {"model": "geodata.region", "pk": 618, "fields": {"country": 76, "code": "0", "name_ru": "\u0410\u0445\u0443\u0430\u0447\u0430\u043f\u0430\u043d", "name_en": "Ahuachapan"}}, 
+ 
+   {"model": "geodata.region", "pk": 619, "fields": {"country": 76, "code": "0", "name_ru": "\u041a\u0443\u0441\u043a\u0430\u0442\u043b\u0430\u043d", "name_en": "Cuscatlan"}}, 
+ 
+   {"model": "geodata.region", "pk": 620, "fields": {"country": 76, "code": "0", "name_ru": "\u041b\u0430 \u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434", "name_en": "La Libertad"}}, 
+ 
+   {"model": "geodata.region", "pk": 621, "fields": {"country": 76, "code": "0", "name_ru": "\u041b\u0430 \u041f\u0430\u0437", "name_en": "La Paz"}}, 
+ 
+   {"model": "geodata.region", "pk": 622, "fields": {"country": 76, "code": "0", "name_ru": "\u041b\u0430 \u0423\u043d\u0438\u043e\u043d", "name_en": "La Union"}}, 
+ 
+   {"model": "geodata.region", "pk": 623, "fields": {"country": 76, "code": "0", "name_ru": "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b\u044c", "name_en": "San Miguel"}}, 
+ 
+   {"model": "geodata.region", "pk": 624, "fields": {"country": 76, "code": "0", "name_ru": "\u0421\u0430\u043d \u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440", "name_en": "San Salvador"}}, 
+ 
+   {"model": "geodata.region", "pk": 625, "fields": {"country": 76, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u0430 \u0410\u043d\u043d\u0430", "name_en": "Santa Ana"}}, 
+ 
+   {"model": "geodata.region", "pk": 626, "fields": {"country": 76, "code": "0", "name_ru": "\u0421\u043e\u043d\u0441\u043e\u043d\u0430\u0442\u0435", "name_en": "Sonsonate"}}, 
+ 
+   {"model": "geodata.region", "pk": 627, "fields": {"country": 77, "code": "0", "name_ru": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440", "name_en": "Singapore"}}, 
+ 
+   {"model": "geodata.region", "pk": 628, "fields": {"country": 78, "code": "0", "name_ru": "\u0414\u0430\u043c\u0430\u0441\u043a", "name_en": "Damascus"}}, 
+ 
+   {"model": "geodata.region", "pk": 629, "fields": {"country": 79, "code": "0", "name_ru": "\u0422\u0440\u043d\u0430\u0432\u0430", "name_en": "Trnavsky"}}, 
+ 
+   {"model": "geodata.region", "pk": 630, "fields": {"country": 79, "code": "0", "name_ru": "\u0411\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0430", "name_en": "Bratislava"}}, 
+ 
+   {"model": "geodata.region", "pk": 631, "fields": {"country": 79, "code": "0", "name_ru": "\u0416\u0438\u043b\u0438\u043d\u0430", "name_en": "Zilina"}}, 
+ 
+   {"model": "geodata.region", "pk": 632, "fields": {"country": 80, "code": "0", "name_ru": "\u041e\u0441\u0440\u0435\u0434\u043d\u0435\u0441\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430", "name_en": "Osrednjeslovenska"}}, 
+ 
+   {"model": "geodata.region", "pk": 633, "fields": {"country": 80, "code": "0", "name_ru": "\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0430", "name_en": "Podravska"}}, 
+ 
+   {"model": "geodata.region", "pk": 634, "fields": {"country": 80, "code": "0", "name_ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f", "name_en": "Slovenia"}}, 
+ 
+   {"model": "geodata.region", "pk": 635, "fields": {"country": 81, "code": "0", "name_ru": "\u041f\u0430\u0440\u0430\u043c\u0438\u0440\u0438\u0431\u043e", "name_en": "Paramaribo"}}, 
+ 
+   {"model": "geodata.region", "pk": 636, "fields": {"country": 82, "code": "0", "name_ru": "\u0413\u043e\u0440\u043d\u043e-\u0411\u0430\u0434\u0430\u0445\u0448\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Gorno Badahsan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 637, "fields": {"country": 82, "code": "0", "name_ru": "\u041a\u0443\u043b\u044f\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kuliab reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 638, "fields": {"country": 82, "code": "0", "name_ru": "\u041a\u0443\u0440\u0433\u0430\u043d-\u0422\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kurgan-Tubinsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 639, "fields": {"country": 82, "code": "0", "name_ru": "\u0421\u043e\u0433\u0434\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Sogdiy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 640, "fields": {"country": 82, "code": "0", "name_ru": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d", "name_en": "Tajikistan"}}, 
+ 
+   {"model": "geodata.region", "pk": 641, "fields": {"country": 83, "code": "0", "name_ru": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c", "name_en": "Taiwan"}}, 
+ 
+   {"model": "geodata.region", "pk": 642, "fields": {"country": 84, "code": "0", "name_ru": "\u0422\u0430\u0439\u043b\u0430\u043d\u0434", "name_en": "Thailand"}}, 
+ 
+   {"model": "geodata.region", "pk": 643, "fields": {"country": 85, "code": "0", "name_ru": "\u0422\u0443\u043d\u0438\u0441", "name_en": "Tunisia"}}, 
+ 
+   {"model": "geodata.region", "pk": 644, "fields": {"country": 86, "code": "0", "name_ru": "\u0410\u0448\u0445\u0430\u0431\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Aahabad reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 645, "fields": {"country": 86, "code": "0", "name_ru": "\u041a\u0440\u0430\u0441\u043d\u043e\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Krasnovodsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 646, "fields": {"country": 86, "code": "0", "name_ru": "\u041c\u0430\u0440\u044b\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Mary reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 647, "fields": {"country": 86, "code": "0", "name_ru": "\u0422\u0430\u0448\u0430\u0443\u0437\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tashauz reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 648, "fields": {"country": 86, "code": "0", "name_ru": "\u0427\u0430\u0440\u0434\u0436\u043e\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Chardjousk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 649, "fields": {"country": 87, "code": "0", "name_ru": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f", "name_en": "Turkmenistan"}}, 
+ 
+   {"model": "geodata.region", "pk": 650, "fields": {"country": 88, "code": "0", "name_ru": "\u0413\u0440\u0430\u043d\u0434-\u0422\u0435\u0440\u043a", "name_en": "Grand Turk"}}, 
+ 
+   {"model": "geodata.region", "pk": 651, "fields": {"country": 89, "code": "0", "name_ru": "\u0411\u0430\u0440\u0442\u0438\u043d", "name_en": "Bartin"}}, 
+ 
+   {"model": "geodata.region", "pk": 652, "fields": {"country": 89, "code": "0", "name_ru": "\u0411\u0430\u0439\u0431\u0443\u0440\u0442", "name_en": "Bayburt"}}, 
+ 
+   {"model": "geodata.region", "pk": 653, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u0430\u0440\u0430\u0431\u0443\u043a", "name_en": "Karabuk"}}, 
+ 
+   {"model": "geodata.region", "pk": 654, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u0434\u0430\u043d\u0430", "name_en": "Adana"}}, 
+ 
+   {"model": "geodata.region", "pk": 655, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u0439\u0434\u044b\u043d", "name_en": "Aydin"}}, 
+ 
+   {"model": "geodata.region", "pk": 656, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u043c\u0430\u0441\u044c\u044f", "name_en": "Amasya"}}, 
+ 
+   {"model": "geodata.region", "pk": 657, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u043d\u043a\u0430\u0440\u0430", "name_en": "Ankara"}}, 
+ 
+   {"model": "geodata.region", "pk": 658, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u043d\u0442\u0430\u043b\u044c\u044f", "name_en": "Antalya"}}, 
+ 
+   {"model": "geodata.region", "pk": 659, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u0440\u0442\u0432\u0438\u043d", "name_en": "Artvin"}}, 
+ 
+   {"model": "geodata.region", "pk": 660, "fields": {"country": 89, "code": "0", "name_ru": "\u0410\u0444\u044c\u043e\u043d", "name_en": "Afyon"}}, 
+ 
+   {"model": "geodata.region", "pk": 661, "fields": {"country": 89, "code": "0", "name_ru": "\u0411\u0430\u043b\u044b\u043a\u0435\u0441\u0438\u0440", "name_en": "Balikesir"}}, 
+ 
+   {"model": "geodata.region", "pk": 662, "fields": {"country": 89, "code": "0", "name_ru": "\u0411\u0438\u043b\u0435\u0434\u0436\u0438\u043a", "name_en": "Bilecik"}}, 
+ 
+   {"model": "geodata.region", "pk": 663, "fields": {"country": 89, "code": "0", "name_ru": "\u0411\u0443\u0440\u0441\u0430", "name_en": "Bursa"}}, 
+ 
+   {"model": "geodata.region", "pk": 664, "fields": {"country": 89, "code": "0", "name_ru": "\u0413\u0430\u0437\u0438\u0430\u043d\u0442\u0435\u043f", "name_en": "Gaziantep"}}, 
+ 
+   {"model": "geodata.region", "pk": 665, "fields": {"country": 89, "code": "0", "name_ru": "\u0414\u0435\u043d\u0438\u0437\u043b\u0438", "name_en": "Denizli"}}, 
+ 
+   {"model": "geodata.region", "pk": 666, "fields": {"country": 89, "code": "0", "name_ru": "\u0418\u0437\u043c\u0438\u0440", "name_en": "Izmir"}}, 
+ 
+   {"model": "geodata.region", "pk": 667, "fields": {"country": 89, "code": "0", "name_ru": "\u0418\u0441\u043f\u0430\u0440\u0442\u0430", "name_en": "Isparta"}}, 
+ 
+   {"model": "geodata.region", "pk": 668, "fields": {"country": 89, "code": "0", "name_ru": "\u0418\u0447\u0435\u043b\u044c", "name_en": "Icel"}}, 
+ 
+   {"model": "geodata.region", "pk": 669, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u0430\u0439\u0441\u0435\u0440\u0438", "name_en": "Kayseri"}}, 
+ 
+   {"model": "geodata.region", "pk": 670, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u0430\u0440\u0441", "name_en": "Kars"}}, 
+ 
+   {"model": "geodata.region", "pk": 671, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u043e\u0434\u0436\u0430\u044d\u043b\u0438", "name_en": "Kocaeli"}}, 
+ 
+   {"model": "geodata.region", "pk": 672, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u043e\u043d\u044c\u044f", "name_en": "Konya"}}, 
+ 
+   {"model": "geodata.region", "pk": 673, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438", "name_en": "Kirklareli"}}, 
+ 
+   {"model": "geodata.region", "pk": 674, "fields": {"country": 89, "code": "0", "name_ru": "\u041a\u044e\u0442\u0430\u0445\u044c\u044f", "name_en": "Kutahya"}}, 
+ 
+   {"model": "geodata.region", "pk": 675, "fields": {"country": 89, "code": "0", "name_ru": "\u041c\u0430\u043b\u0430\u0442\u044c\u044f", "name_en": "Malatya"}}, 
+ 
+   {"model": "geodata.region", "pk": 676, "fields": {"country": 89, "code": "0", "name_ru": "\u041c\u0430\u043d\u0438\u0441\u0430", "name_en": "Manisa"}}, 
+ 
+   {"model": "geodata.region", "pk": 677, "fields": {"country": 89, "code": "0", "name_ru": "\u0421\u0430\u043a\u0430\u0440\u044c\u044f", "name_en": "Sakarya"}}, 
+ 
+   {"model": "geodata.region", "pk": 678, "fields": {"country": 89, "code": "0", "name_ru": "\u0421\u0430\u043c\u0441\u0443\u043d", "name_en": "Samsun"}}, 
+ 
+   {"model": "geodata.region", "pk": 679, "fields": {"country": 89, "code": "0", "name_ru": "\u0421\u0438\u0432\u0430\u0441", "name_en": "Sivas"}}, 
+ 
+   {"model": "geodata.region", "pk": 680, "fields": {"country": 89, "code": "0", "name_ru": "\u0421\u0442\u0430\u043c\u0431\u0443\u043b", "name_en": "Istanbul"}}, 
+ 
+   {"model": "geodata.region", "pk": 681, "fields": {"country": 89, "code": "0", "name_ru": "\u0422\u0440\u0430\u0431\u0437\u043e\u043d", "name_en": "Trabzon"}}, 
+ 
+   {"model": "geodata.region", "pk": 682, "fields": {"country": 89, "code": "0", "name_ru": "\u0427\u043e\u0440\u0443\u043c", "name_en": "Corum"}}, 
+ 
+   {"model": "geodata.region", "pk": 683, "fields": {"country": 89, "code": "0", "name_ru": "\u042d\u0434\u0438\u0440\u043d\u0435", "name_en": "Edirne"}}, 
+ 
+   {"model": "geodata.region", "pk": 684, "fields": {"country": 89, "code": "0", "name_ru": "\u042d\u043b\u044f\u0437\u044b\u0433", "name_en": "Elazig"}}, 
+ 
+   {"model": "geodata.region", "pk": 685, "fields": {"country": 89, "code": "0", "name_ru": "\u042d\u0440\u0437\u0438\u043d\u0434\u0436\u0430\u043d", "name_en": "Erzincan"}}, 
+ 
+   {"model": "geodata.region", "pk": 686, "fields": {"country": 89, "code": "0", "name_ru": "\u042d\u0440\u0437\u0443\u0440\u0443\u043c", "name_en": "Erzurum"}}, 
+ 
+   {"model": "geodata.region", "pk": 687, "fields": {"country": 89, "code": "0", "name_ru": "\u042d\u0441\u043a\u0438\u0448\u0435\u0445\u0438\u0440", "name_en": "Eskisehir"}}, 
+ 
+   {"model": "geodata.region", "pk": 688, "fields": {"country": 90, "code": "0", "name_ru": "\u0414\u0436\u0438\u043d\u0434\u0436\u0430", "name_en": "Jinja"}}, 
+ 
+   {"model": "geodata.region", "pk": 689, "fields": {"country": 90, "code": "0", "name_ru": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430", "name_en": "Kampala"}}, 
+ 
+   {"model": "geodata.region", "pk": 690, "fields": {"country": 91, "code": "0", "name_ru": "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Andizhan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 691, "fields": {"country": 91, "code": "0", "name_ru": "\u0411\u0443\u0445\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Buhara reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 692, "fields": {"country": 91, "code": "0", "name_ru": "\u0414\u0436\u0438\u0437\u0430\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Dzizak reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 693, "fields": {"country": 91, "code": "0", "name_ru": "\u041a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a\u0438\u044f", "name_en": "Karakalpakstan"}}, 
+ 
+   {"model": "geodata.region", "pk": 694, "fields": {"country": 91, "code": "0", "name_ru": "\u041a\u0430\u0448\u043a\u0430\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kaskadarja reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 695, "fields": {"country": 91, "code": "0", "name_ru": "\u041d\u0430\u0432\u043e\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Navoi reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 696, "fields": {"country": 91, "code": "0", "name_ru": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Namangan reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 697, "fields": {"country": 91, "code": "0", "name_ru": "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Samarkand reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 698, "fields": {"country": 91, "code": "0", "name_ru": "\u0421\u0443\u0440\u0445\u0430\u043d\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Surhandarja reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 699, "fields": {"country": 91, "code": "0", "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Syrdarja reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 700, "fields": {"country": 91, "code": "0", "name_ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Tashkent reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 701, "fields": {"country": 91, "code": "0", "name_ru": "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Fargana reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 702, "fields": {"country": 91, "code": "0", "name_ru": "\u0425\u043e\u0440\u0435\u0437\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Horezm reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 703, "fields": {"country": 92, "code": "0", "name_ru": "\u0412\u0438\u043d\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Vinnitsa reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 704, "fields": {"country": 92, "code": "0", "name_ru": "\u0412\u043e\u043b\u044b\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Volinskiy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 705, "fields": {"country": 92, "code": "0", "name_ru": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Dnepropetrovsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 706, "fields": {"country": 92, "code": "0", "name_ru": "\u0414\u043e\u043d\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Donetsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 707, "fields": {"country": 92, "code": "0", "name_ru": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Zhytomir reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 708, "fields": {"country": 92, "code": "0", "name_ru": "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Zakarpatskaya reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 709, "fields": {"country": 92, "code": "0", "name_ru": "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Zaporozhje reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 710, "fields": {"country": 92, "code": "0", "name_ru": "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Ivano-Frankovsk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 711, "fields": {"country": 92, "code": "0", "name_ru": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kiev reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 712, "fields": {"country": 92, "code": "0", "name_ru": "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kirovograd reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 713, "fields": {"country": 92, "code": "0", "name_ru": "\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Krym"}}, 
+ 
+   {"model": "geodata.region", "pk": 714, "fields": {"country": 92, "code": "0", "name_ru": "\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Lugansk reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 715, "fields": {"country": 92, "code": "0", "name_ru": "\u041b\u044c\u0432\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "L'vov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 716, "fields": {"country": 92, "code": "0", "name_ru": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Nikolaev reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 717, "fields": {"country": 92, "code": "0", "name_ru": "\u041e\u0434\u0435\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Odessa reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 718, "fields": {"country": 92, "code": "0", "name_ru": "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Poltava reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 719, "fields": {"country": 92, "code": "0", "name_ru": "\u0420\u043e\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Rovno reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 720, "fields": {"country": 92, "code": "0", "name_ru": "\u0421\u0443\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Sumy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 721, "fields": {"country": 92, "code": "0", "name_ru": "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Ternopol reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 722, "fields": {"country": 92, "code": "0", "name_ru": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430", "name_en": "Ukraine"}}, 
+ 
+   {"model": "geodata.region", "pk": 723, "fields": {"country": 92, "code": "0", "name_ru": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kharkov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 724, "fields": {"country": 92, "code": "0", "name_ru": "\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Kherson reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 725, "fields": {"country": 92, "code": "0", "name_ru": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Khmelnitskiy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 726, "fields": {"country": 92, "code": "0", "name_ru": "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Cherkassy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 727, "fields": {"country": 92, "code": "0", "name_ru": "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Chernigov reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 728, "fields": {"country": 92, "code": "0", "name_ru": "\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b.", "name_en": "Chernovtsy reg."}}, 
+ 
+   {"model": "geodata.region", "pk": 729, "fields": {"country": 93, "code": "0", "name_ru": "\u042e\u0436\u043d\u0430\u044f \u041a\u0430\u0440\u0435\u043b\u0438\u044f", "name_en": "Etela-Karjala"}}, 
+ 
+   {"model": "geodata.region", "pk": 730, "fields": {"country": 93, "code": "0", "name_ru": "\u041a\u043e\u0443\u0432\u043e\u043b\u0430", "name_en": "Kouvola"}}, 
+ 
+   {"model": "geodata.region", "pk": 731, "fields": {"country": 93, "code": "0", "name_ru": "\u041f\u044f\u0439\u044f\u0442-\u0425\u044f\u043c\u0435", "name_en": "Paijat-Hame"}}, 
+ 
+   {"model": "geodata.region", "pk": 732, "fields": {"country": 93, "code": "0", "name_ru": "\u041f\u043e\u0445\u044c\u044f\u043c\u0430\u0430", "name_en": "Pohjanmaa"}}, 
+ 
+   {"model": "geodata.region", "pk": 733, "fields": {"country": 93, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u0430\u0440\u0435\u043b\u0438\u044f", "name_en": "Pohjois-Karjala"}}, 
+ 
+   {"model": "geodata.region", "pk": 734, "fields": {"country": 93, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041f\u043e\u0445\u044c\u044f\u043c\u0430\u0430", "name_en": "Pohjois-Pohjanmaa"}}, 
+ 
+   {"model": "geodata.region", "pk": 735, "fields": {"country": 93, "code": "0", "name_ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0421\u0430\u0432\u043e", "name_en": "Pohjois-Savo"}}, 
+ 
+   {"model": "geodata.region", "pk": 736, "fields": {"country": 93, "code": "0", "name_ru": "\u0421\u0430\u0442\u0430\u043a\u0443\u043d\u0442\u0430", "name_en": "Satakunta"}}, 
+ 
+   {"model": "geodata.region", "pk": 737, "fields": {"country": 93, "code": "0", "name_ru": "\u0412\u0430\u0440\u0441\u0438\u043d\u0430\u0439\u0441-\u0421\u0443\u043e\u043c\u0438", "name_en": "Varsinais-Suomi"}}, 
+ 
+   {"model": "geodata.region", "pk": 738, "fields": {"country": 93, "code": "0", "name_ru": "\u041a\u0435\u0441\u043a\u0438-\u0421\u0443\u043e\u043c\u0438", "name_en": "Keski-Suomi"}}, 
+ 
+   {"model": "geodata.region", "pk": 739, "fields": {"country": 93, "code": "0", "name_ru": "\u0423\u0441\u0438\u043c\u0430", "name_en": "Uusimaa"}}, 
+ 
+   {"model": "geodata.region", "pk": 740, "fields": {"country": 93, "code": "0", "name_ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f", "name_en": "Finland"}}, 
+ 
+   {"model": "geodata.region", "pk": 742, "fields": {"country": 94, "code": "0", "name_ru": "\u0410\u043b\u044c\u0435", "name_en": "Allier"}}, 
+ 
+   {"model": "geodata.region", "pk": 743, "fields": {"country": 94, "code": "0", "name_ru": "\u0410\u043b\u044c\u043f\u044b \u0412\u0435\u0440\u0445\u043d\u0438\u0435", "name_en": "Hautes Alpes"}}, 
+ 
+   {"model": "geodata.region", "pk": 744, "fields": {"country": 94, "code": "0", "name_ru": "\u0410\u043b\u044c\u043f\u044b \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0435", "name_en": "Alpes-Maritimes"}}, 
+ 
+   {"model": "geodata.region", "pk": 745, "fields": {"country": 94, "code": "0", "name_ru": "\u0410\u0440\u0434\u0435\u043d\u043d\u044b", "name_en": "Ardennes"}}, 
+ 
+   {"model": "geodata.region", "pk": 746, "fields": {"country": 94, "code": "0", "name_ru": "\u0411\u0435\u043b\u044c\u0444\u043e\u0440", "name_en": "Belfort"}}, 
+ 
+   {"model": "geodata.region", "pk": 747, "fields": {"country": 94, "code": "0", "name_ru": "\u0411\u0443\u0448-\u0434\u044e-\u0420\u043e\u043d", "name_en": "Bouches-du-Rhone"}}, 
+ 
+   {"model": "geodata.region", "pk": 749, "fields": {"country": 94, "code": "0", "name_ru": "\u0412\u0430\u043b\u044c-\u0434\u0435-\u041c\u0430\u0440\u043d", "name_en": "Val-de-Marne"}}, 
+ 
+   {"model": "geodata.region", "pk": 750, "fields": {"country": 94, "code": "0", "name_ru": "\u0412\u0430\u0440", "name_en": "Var"}}, 
+ 
+   {"model": "geodata.region", "pk": 751, "fields": {"country": 94, "code": "0", "name_ru": "\u0412\u043e\u0433\u0435\u0437\u044b", "name_en": "Vosges"}}, 
+ 
+   {"model": "geodata.region", "pk": 752, "fields": {"country": 94, "code": "0", "name_ru": "\u0412\u043e\u043a\u043b\u044e\u0437", "name_en": "Vaucluse"}}, 
+ 
+   {"model": "geodata.region", "pk": 753, "fields": {"country": 94, "code": "0", "name_ru": "\u0412\u044c\u0435\u043d\u043d\u0430", "name_en": "Vienne"}}, 
+ 
+   {"model": "geodata.region", "pk": 754, "fields": {"country": 94, "code": "0", "name_ru": "\u0412\u044c\u0435\u043d\u043d\u0430 \u0412\u0435\u0440\u0445\u043d\u044f\u044f", "name_en": "Haute Vienne"}}, 
+ 
+   {"model": "geodata.region", "pk": 755, "fields": {"country": 94, "code": "0", "name_ru": "\u0413\u0430\u0440", "name_en": "Gard"}}, 
+ 
+   {"model": "geodata.region", "pk": 756, "fields": {"country": 94, "code": "0", "name_ru": "\u0413\u0430\u0440\u043e\u043d\u043d\u0430 \u0412\u0435\u0440\u0445\u043d\u044f\u044f", "name_en": "Haute-Garonne"}}, 
+ 
+   {"model": "geodata.region", "pk": 757, "fields": {"country": 94, "code": "0", "name_ru": "\u0414\u0451-\u0421\u0435\u0432\u0440", "name_en": "Deux-Sevres"}}, 
+ 
+   {"model": "geodata.region", "pk": 758, "fields": {"country": 94, "code": "0", "name_ru": "\u0414\u0440\u043e\u043c", "name_en": "Drome"}}, 
+ 
+   {"model": "geodata.region", "pk": 759, "fields": {"country": 94, "code": "0", "name_ru": "\u0414\u0443", "name_en": "Dux"}}, 
+ 
+   {"model": "geodata.region", "pk": 760, "fields": {"country": 94, "code": "0", "name_ru": "\u0416\u0438\u0440\u043e\u043d\u0434\u0430", "name_en": "Gironde"}}, 
+ 
+   {"model": "geodata.region", "pk": 761, "fields": {"country": 94, "code": "0", "name_ru": "\u0418\u0432\u0435\u043b\u0438\u043d", "name_en": "Yvelines"}}, 
+ 
+   {"model": "geodata.region", "pk": 762, "fields": {"country": 94, "code": "0", "name_ru": "\u0418\u043b\u044c \u0438 \u0412\u0438\u0434\u0435\u043d", "name_en": "Ille-et-Vilaine"}}, 
+ 
+   {"model": "geodata.region", "pk": 763, "fields": {"country": 94, "code": "0", "name_ru": "\u041a\u043e\u0440\u0440\u0435\u0437", "name_en": "Correze"}}, 
+ 
+   {"model": "geodata.region", "pk": 764, "fields": {"country": 94, "code": "0", "name_ru": "\u041a\u043e\u0440\u0441\u0438\u043a\u0430 \u0412\u0435\u0440\u0445\u043d\u044f\u044f", "name_en": "Haute Corse"}}, 
+ 
+   {"model": "geodata.region", "pk": 765, "fields": {"country": 94, "code": "0", "name_ru": "\u041a\u043e\u0440\u0441\u0438\u043a\u0430 \u042e\u0436\u043d\u0430\u044f", "name_en": "Corse-du-Sud"}}, 
+ 
+   {"model": "geodata.region", "pk": 767, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u0430\u043d\u0434\u044b", "name_en": "Landes"}}, 
+ 
+   {"model": "geodata.region", "pk": 768, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u043e \u0438 \u0413\u0430\u0440\u043e\u043d\u043d\u0430", "name_en": "Lot-et-Garonne"}}, 
+ 
+   {"model": "geodata.region", "pk": 769, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u043e\u0437\u0435\u0440", "name_en": "Lozere"}}, 
+ 
+   {"model": "geodata.region", "pk": 770, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u0443\u0430\u0440 \u0438 \u0428\u0435\u0440", "name_en": "Loir-et-Cher"}}, 
+ 
+   {"model": "geodata.region", "pk": 771, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u0443\u0430\u0440\u0430", "name_en": "Loire"}}, 
+ 
+   {"model": "geodata.region", "pk": 772, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u0443\u0430\u0440\u0430 \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f", "name_en": "Loire-Atlantique"}}, 
+ 
+   {"model": "geodata.region", "pk": 773, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u0443\u0430\u0440\u0430 \u0412\u0435\u0440\u0445\u043d\u044f\u044f", "name_en": "Loire-Haute"}}, 
+ 
+   {"model": "geodata.region", "pk": 774, "fields": {"country": 94, "code": "0", "name_ru": "\u041b\u0443\u0430\u0440\u0435", "name_en": "Luare"}}, 
+ 
+   {"model": "geodata.region", "pk": 775, "fields": {"country": 94, "code": "0", "name_ru": "\u041c\u0451\u0440\u0442 \u0438 \u041c\u043e\u0437\u0435\u043b\u044c", "name_en": "Meurthe-et-Moselle"}}, 
+ 
+   {"model": "geodata.region", "pk": 776, "fields": {"country": 94, "code": "0", "name_ru": "\u041c\u0430\u0439\u0435\u043d\u043d", "name_en": "Mayenne"}}, 
+ 
+   {"model": "geodata.region", "pk": 777, "fields": {"country": 94, "code": "0", "name_ru": "\u041c\u0430\u0440\u043d\u0430", "name_en": "Marne"}}, 
+ 
+   {"model": "geodata.region", "pk": 778, "fields": {"country": 94, "code": "0", "name_ru": "\u041c\u0435\u043d \u0438 \u041b\u0443\u0430\u0440\u0430", "name_en": "Maineet-Loire"}}, 
+ 
+   {"model": "geodata.region", "pk": 779, "fields": {"country": 94, "code": "0", "name_ru": "\u041c\u043e\u0437\u0435\u043b\u044c", "name_en": "Moselle"}}, 
+ 
+   {"model": "geodata.region", "pk": 780, "fields": {"country": 94, "code": "0", "name_ru": "\u041c\u043e\u0440\u0431\u0438\u0430\u043d", "name_en": "Morbihan"}}, 
+ 
+   {"model": "geodata.region", "pk": 781, "fields": {"country": 94, "code": "0", "name_ru": "\u041d\u043e\u0440", "name_en": "Nord"}}, 
+ 
+   {"model": "geodata.region", "pk": 782, "fields": {"country": 94, "code": "0", "name_ru": "\u041d\u044c\u0435\u0432\u0440", "name_en": "Nievre"}}, 
+ 
+   {"model": "geodata.region", "pk": 783, "fields": {"country": 94, "code": "0", "name_ru": "\u041e-\u0434\u0435-\u0421\u0435\u043d", "name_en": "Hauts-de-Seine"}}, 
+ 
+   {"model": "geodata.region", "pk": 784, "fields": {"country": 94, "code": "0", "name_ru": "\u041e\u0431", "name_en": "Aube"}}, 
+ 
+   {"model": "geodata.region", "pk": 785, "fields": {"country": 94, "code": "0", "name_ru": "\u041e\u0434", "name_en": "Aude"}}, 
+ 
+   {"model": "geodata.region", "pk": 786, "fields": {"country": 94, "code": "0", "name_ru": "\u041e\u0440\u043d", "name_en": "Orne"}}, 
+ 
+   {"model": "geodata.region", "pk": 787, "fields": {"country": 94, "code": "0", "name_ru": "\u041f\u0430-\u0434\u0435-\u041a\u0430\u043b\u0435", "name_en": "Pas-De-Calais"}}, 
+ 
+   {"model": "geodata.region", "pk": 788, "fields": {"country": 94, "code": "0", "name_ru": "\u041f\u0430\u0440\u0438\u0436", "name_en": "Paris"}}, 
+ 
+   {"model": "geodata.region", "pk": 789, "fields": {"country": 94, "code": "0", "name_ru": "\u041f\u0438\u0440\u0435\u043d\u0435\u0438 \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435", "name_en": "Pyrenees Atlantiques"}}, 
+ 
+   {"model": "geodata.region", "pk": 790, "fields": {"country": 94, "code": "0", "name_ru": "\u041f\u0438\u0440\u0435\u043d\u0435\u0438 \u0412\u0435\u0440\u0445\u043d\u0438\u0435", "name_en": "Hautes-Pyrenees"}}, 
+ 
+   {"model": "geodata.region", "pk": 791, "fields": {"country": 94, "code": "0", "name_ru": "\u041f\u0438\u0440\u0435\u043d\u0435\u0438 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0435", "name_en": "Pyrenees-Orientales"}}, 
+ 
+   {"model": "geodata.region", "pk": 792, "fields": {"country": 94, "code": "0", "name_ru": "\u0420\u0435\u0439\u043d \u0412\u0435\u0440\u0445\u043d\u0438\u0439", "name_en": "Haut-Rhin"}}, 
+ 
+   {"model": "geodata.region", "pk": 793, "fields": {"country": 94, "code": "0", "name_ru": "\u0420\u0435\u0439\u043d \u041d\u0438\u0436\u043d\u0438\u0439", "name_en": "Bas-Rhin"}}, 
+ 
+   {"model": "geodata.region", "pk": 794, "fields": {"country": 94, "code": "0", "name_ru": "\u0420\u043e\u043d\u0430", "name_en": "Rhone"}}, 
+ 
+   {"model": "geodata.region", "pk": 795, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u0430\u0432\u043e\u0439\u044f", "name_en": "Savoie"}}, 
+ 
+   {"model": "geodata.region", "pk": 796, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u0430\u0432\u043e\u0439\u044f \u0412\u0435\u0440\u0445\u043d\u044f\u044f", "name_en": "Haute-Savoie"}}, 
+ 
+   {"model": "geodata.region", "pk": 797, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u0430\u0440\u0442\u0430", "name_en": "Sarthe"}}, 
+ 
+   {"model": "geodata.region", "pk": 798, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u0435\u043d-\u0421\u0435\u043d-\u0414\u0435\u043d\u0438", "name_en": "Seine-Saint-Denis"}}, 
+ 
+   {"model": "geodata.region", "pk": 799, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u0435\u043d\u0430 \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f", "name_en": "Seine-Maritime"}}, 
+ 
+   {"model": "geodata.region", "pk": 800, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u043e\u043c\u043c\u0430", "name_en": "Somme"}}, 
+ 
+   {"model": "geodata.region", "pk": 801, "fields": {"country": 94, "code": "0", "name_ru": "\u0421\u043e\u043d\u0430 \u0438 \u041b\u0443\u0430\u0440\u0430", "name_en": "Saone-et-Loire"}}, 
+ 
+   {"model": "geodata.region", "pk": 802, "fields": {"country": 94, "code": "0", "name_ru": "\u0422\u0430\u0440\u043d", "name_en": "Tarn"}}, 
+ 
+   {"model": "geodata.region", "pk": 803, "fields": {"country": 94, "code": "0", "name_ru": "\u0423\u0430\u0437\u0430", "name_en": "Oise"}}, 
+ 
+   {"model": "geodata.region", "pk": 804, "fields": {"country": 94, "code": "0", "name_ru": "\u0424\u0438\u043d\u0438\u0441\u0442\u0435\u0440", "name_en": "Finistere"}}, 
+ 
+   {"model": "geodata.region", "pk": 805, "fields": {"country": 94, "code": "0", "name_ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f", "name_en": "France"}}, 
+ 
+   {"model": "geodata.region", "pk": 806, "fields": {"country": 94, "code": "0", "name_ru": "\u0428\u0430\u0440\u0430\u043d\u0442\u0430", "name_en": "Charantes"}}, 
+ 
+   {"model": "geodata.region", "pk": 807, "fields": {"country": 94, "code": "0", "name_ru": "\u0428\u0430\u0440\u0430\u043d\u0442\u0430 \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f", "name_en": "Charantes-Maritime"}}, 
+ 
+   {"model": "geodata.region", "pk": 808, "fields": {"country": 94, "code": "0", "name_ru": "\u0428\u0435\u0440", "name_en": "Cher"}}, 
+ 
+   {"model": "geodata.region", "pk": 809, "fields": {"country": 94, "code": "0", "name_ru": "\u042d\u043d\u0430", "name_en": "Aisne"}}, 
+ 
+   {"model": "geodata.region", "pk": 810, "fields": {"country": 94, "code": "0", "name_ru": "\u042d\u043d\u0434\u0440", "name_en": "Indre"}}, 
+ 
+   {"model": "geodata.region", "pk": 811, "fields": {"country": 94, "code": "0", "name_ru": "\u042d\u043d\u0434\u0440 \u0438 \u041b\u0443\u0430\u0440\u0430", "name_en": "Indre et Loire"}}, 
+ 
+   {"model": "geodata.region", "pk": 812, "fields": {"country": 94, "code": "0", "name_ru": "\u042d\u0440", "name_en": "Eure"}}, 
+ 
+   {"model": "geodata.region", "pk": 813, "fields": {"country": 94, "code": "0", "name_ru": "\u042d\u0440\u043e", "name_en": "Herault"}}, 
+ 
+   {"model": "geodata.region", "pk": 814, "fields": {"country": 94, "code": "0", "name_ru": "\u042d\u0441\u0441\u043e\u043d\u043d", "name_en": "Essonne"}}, 
+ 
+   {"model": "geodata.region", "pk": 815, "fields": {"country": 95, "code": "0", "name_ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f", "name_en": "Croatia"}}, 
+ 
+   {"model": "geodata.region", "pk": 816, "fields": {"country": 96, "code": "0", "name_ru": "\u0419\u0438\u0445\u043e\u043a\u0435\u0441\u043a\u0438\u0439", "name_en": "Jihochesky"}}, 
+ 
+   {"model": "geodata.region", "pk": 817, "fields": {"country": 96, "code": "0", "name_ru": "\u0419\u0438\u0445\u043e\u043c\u043e\u0440\u0430\u0432\u0441\u043a\u0438\u0439", "name_en": "Jihomoravsky"}}, 
+ 
+   {"model": "geodata.region", "pk": 818, "fields": {"country": 96, "code": "0", "name_ru": "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0439", "name_en": "Karlovarsky"}}, 
+ 
+   {"model": "geodata.region", "pk": 819, "fields": {"country": 96, "code": "0", "name_ru": "\u041a\u0440\u0430\u043b\u0451\u0432\u0435\u0440\u0445\u0440\u0430\u0434\u0435\u0446\u043a\u0438\u0439", "name_en": "Kralovehradecky"}}, 
+ 
+   {"model": "geodata.region", "pk": 820, "fields": {"country": 96, "code": "0", "name_ru": "\u041b\u0438\u0431\u0435\u0440\u0435\u0446\u043a\u0438\u0439", "name_en": "Liberecky"}}, 
+ 
+   {"model": "geodata.region", "pk": 821, "fields": {"country": 96, "code": "0", "name_ru": "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u043e\u0441\u0438\u043b\u0435\u0437\u0441\u043a\u0438\u0439", "name_en": "Moravskoslezsky"}}, 
+ 
+   {"model": "geodata.region", "pk": 822, "fields": {"country": 96, "code": "0", "name_ru": "\u041e\u043b\u043e\u043c\u0443\u0446\u043a\u0438\u0439", "name_en": "Olomoucky"}}, 
+ 
+   {"model": "geodata.region", "pk": 823, "fields": {"country": 96, "code": "0", "name_ru": "\u0421\u0442\u0440\u0435\u0434\u043e\u0447\u0435\u0441\u043a\u0438\u0439", "name_en": "Stredochesky"}}, 
+ 
+   {"model": "geodata.region", "pk": 824, "fields": {"country": 96, "code": "0", "name_ru": "\u0423\u0441\u0442\u0435\u0446\u043a\u0438\u0439", "name_en": "Ustecky"}}, 
+ 
+   {"model": "geodata.region", "pk": 825, "fields": {"country": 96, "code": "0", "name_ru": "\u0427\u0435\u0445\u0438\u044f", "name_en": "Czech"}}, 
+ 
+   {"model": "geodata.region", "pk": 826, "fields": {"country": 97, "code": "0", "name_ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e", "name_en": "Santiago"}}, 
+ 
+   {"model": "geodata.region", "pk": 827, "fields": {"country": 98, "code": "0", "name_ru": "\u0410\u0440\u0433\u0430\u0443", "name_en": "Argau"}}, 
+ 
+   {"model": "geodata.region", "pk": 828, "fields": {"country": 98, "code": "0", "name_ru": "\u0411\u0430\u0437\u0435\u043b\u044c-\u0428\u0442\u0430\u0434\u0442", "name_en": "Basel-Stadt"}}, 
+ 
+   {"model": "geodata.region", "pk": 829, "fields": {"country": 98, "code": "0", "name_ru": "\u0411\u0435\u0440\u043d", "name_en": "Bern"}}, 
+ 
+   {"model": "geodata.region", "pk": 830, "fields": {"country": 98, "code": "0", "name_ru": "\u0412\u043e", "name_en": "Voud"}}, 
+ 
+   {"model": "geodata.region", "pk": 831, "fields": {"country": 98, "code": "0", "name_ru": "\u0416\u0435\u043d\u0435\u0432\u0430", "name_en": "Geneva"}}, 
+ 
+   {"model": "geodata.region", "pk": 832, "fields": {"country": 98, "code": "0", "name_ru": "\u0417\u043e\u043b\u043e\u0442\u0443\u0440\u043d", "name_en": "Solothurn"}}, 
+ 
+   {"model": "geodata.region", "pk": 833, "fields": {"country": 98, "code": "0", "name_ru": "\u041b\u044e\u0446\u0435\u0440\u043d", "name_en": "Lucerne"}}, 
+ 
+   {"model": "geodata.region", "pk": 834, "fields": {"country": 98, "code": "0", "name_ru": "\u041d\u0435\u0432\u0448\u0430\u0442\u0435\u043b\u044c", "name_en": "Neuchatel"}}, 
+ 
+   {"model": "geodata.region", "pk": 835, "fields": {"country": 98, "code": "0", "name_ru": "\u0422\u0438\u0447\u0438\u043d\u043e", "name_en": "Ticino"}}, 
+ 
+   {"model": "geodata.region", "pk": 836, "fields": {"country": 98, "code": "0", "name_ru": "\u0424\u0440\u0438\u0431\u0443\u0440", "name_en": "Fribourg"}}, 
+ 
+   {"model": "geodata.region", "pk": 837, "fields": {"country": 98, "code": "0", "name_ru": "\u0426\u044e\u0440\u0438\u0445", "name_en": "Zurich"}}, 
+ 
+   {"model": "geodata.region", "pk": 838, "fields": {"country": 98, "code": "0", "name_ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f", "name_en": "Switzerland"}}, 
+ 
+   {"model": "geodata.region", "pk": 839, "fields": {"country": 99, "code": "0", "name_ru": "\u0421\u043a\u0438\u043d", "name_en": "Skine"}}, 
+ 
+   {"model": "geodata.region", "pk": 840, "fields": {"country": 99, "code": "0", "name_ru": "\u0412\u0430\u0441\u0442\u0440\u0430 \u0413\u043e\u0442\u0430\u043b\u0430\u043d\u0434", "name_en": "Vastra Gotaland"}}, 
+ 
+   {"model": "geodata.region", "pk": 841, "fields": {"country": 99, "code": "0", "name_ru": "\u0412\u0435\u0440\u043c\u043b\u0430\u043d\u0434", "name_en": "Varmland"}}, 
+ 
+   {"model": "geodata.region", "pk": 842, "fields": {"country": 99, "code": "0", "name_ru": "\u0412\u0435\u0441\u0442\u0435\u0440\u0431\u043e\u0442\u0442\u0435\u043d", "name_en": "Vasterbottens"}}, 
+ 
+   {"model": "geodata.region", "pk": 843, "fields": {"country": 99, "code": "0", "name_ru": "\u0412\u0435\u0441\u0442\u0435\u0440\u043d\u043e\u0440\u043b\u0430\u043d\u0434", "name_en": "Vasternordland"}}, 
+ 
+   {"model": "geodata.region", "pk": 844, "fields": {"country": 99, "code": "0", "name_ru": "\u0412\u0435\u0441\u0442\u043c\u0430\u043d\u043b\u0430\u043d\u0434", "name_en": "Vastmanland"}}, 
+ 
+   {"model": "geodata.region", "pk": 845, "fields": {"country": 99, "code": "0", "name_ru": "\u0415\u0432\u043b\u0435\u0431\u043e\u0440\u0433", "name_en": "Gavleborg"}}, 
+ 
+   {"model": "geodata.region", "pk": 846, "fields": {"country": 99, "code": "0", "name_ru": "\u0415\u043c\u0442\u043b\u0430\u043d\u0434", "name_en": "Jamtland"}}, 
+ 
+   {"model": "geodata.region", "pk": 847, "fields": {"country": 99, "code": "0", "name_ru": "\u0419\u0451\u043d\u0447\u0451\u043f\u0438\u043d\u0433", "name_en": "Jonkoping"}}, 
+ 
+   {"model": "geodata.region", "pk": 848, "fields": {"country": 99, "code": "0", "name_ru": "\u041d\u043e\u0440\u0440\u0431\u043e\u0442\u0442\u0435\u043d", "name_en": "Norrbotten"}}, 
+ 
+   {"model": "geodata.region", "pk": 849, "fields": {"country": 99, "code": "0", "name_ru": "\u0421\u0451\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434", "name_en": "Sodermanland"}}, 
+ 
+   {"model": "geodata.region", "pk": 850, "fields": {"country": 99, "code": "0", "name_ru": "\u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c", "name_en": "Stockholm"}}, 
+ 
+   {"model": "geodata.region", "pk": 851, "fields": {"country": 99, "code": "0", "name_ru": "\u0423\u043f\u0441\u0430\u043b\u0430", "name_en": "Upsala"}}, 
+ 
+   {"model": "geodata.region", "pk": 852, "fields": {"country": 99, "code": "0", "name_ru": "\u0425\u0430\u043b\u043b\u0430\u043d\u0434", "name_en": "Halland"}}, 
+ 
+   {"model": "geodata.region", "pk": 853, "fields": {"country": 99, "code": "0", "name_ru": "\u0428\u0432\u0435\u0446\u0438\u044f", "name_en": "Sweden"}}, 
+ 
+   {"model": "geodata.region", "pk": 854, "fields": {"country": 99, "code": "0", "name_ru": "\u042d\u0441\u0442\u0435\u0440\u0439\u0435\u0442\u043b\u0430\u043d\u0434", "name_en": "Ostergotland"}}, 
+ 
+   {"model": "geodata.region", "pk": 855, "fields": {"country": 100, "code": "0", "name_ru": "\u041f\u0438\u0447\u0438\u043d\u0447\u0430", "name_en": "Picincay"}}, 
+ 
+   {"model": "geodata.region", "pk": 856, "fields": {"country": 101, "code": "0", "name_ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f", "name_en": "Estonia"}}, 
+ 
+   {"model": "geodata.region", "pk": 857, "fields": {"country": 102, "code": "0", "name_ru": "\u0419\u043e\u0445\u0430\u043d\u0435\u0441\u0431\u0443\u0440\u0433", "name_en": "Johannesburg"}}, 
+ 
+   {"model": "geodata.region", "pk": 858, "fields": {"country": 103, "code": "0", "name_ru": "\u0412\u043e\u0435\u0432\u043e\u0434\u0438\u043d\u0430", "name_en": "Vojvodina"}}, 
+ 
+   {"model": "geodata.region", "pk": 859, "fields": {"country": 103, "code": "0", "name_ru": "\u041a\u043e\u0441\u043e\u0432\u043e", "name_en": "Kosovo"}}, 
+ 
+   {"model": "geodata.region", "pk": 860, "fields": {"country": 103, "code": "0", "name_ru": "\u0421\u0435\u0440\u0431\u0438\u044f", "name_en": "Serbia"}}, 
+ 
+   {"model": "geodata.region", "pk": 861, "fields": {"country": 103, "code": "0", "name_ru": "\u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u044f", "name_en": "Yugoslavia"}}, 
+ 
+   {"model": "geodata.region", "pk": 862, "fields": {"country": 104, "code": "0", "name_ru": "\u0427\u0435\u0434\u0436\u0443", "name_en": "Cheju"}}, 
+ 
+   {"model": "geodata.region", "pk": 863, "fields": {"country": 104, "code": "0", "name_ru": "\u0427\u043e\u043b\u0430\u0431\u0443\u043a", "name_en": "Chollabuk"}}, 
+ 
+   {"model": "geodata.region", "pk": 864, "fields": {"country": 104, "code": "0", "name_ru": "\u0427\u043e\u043b\u0430\u043d\u0430\u043c", "name_en": "Chollanam"}}, 
+ 
+   {"model": "geodata.region", "pk": 865, "fields": {"country": 104, "code": "0", "name_ru": "\u0427\u0443\u043d\u0433\u0447\u0445\u043e\u043d\u0433\u0431\u0443\u043a", "name_en": "Chungcheongbuk"}}, 
+ 
+   {"model": "geodata.region", "pk": 866, "fields": {"country": 104, "code": "0", "name_ru": "\u0427\u0443\u043d\u0433\u0447\u0445\u043e\u043d\u0433\u043d\u0430\u043c", "name_en": "Chungcheongnam"}}, 
+ 
+   {"model": "geodata.region", "pk": 867, "fields": {"country": 104, "code": "0", "name_ru": "\u0418\u043d\u0447\u0445\u043e\u043d", "name_en": "Incheon"}}, 
+ 
+   {"model": "geodata.region", "pk": 868, "fields": {"country": 104, "code": "0", "name_ru": "\u041a\u0430\u043d\u0433\u0432\u0445\u043e\u043d", "name_en": "Kangweon"}}, 
+ 
+   {"model": "geodata.region", "pk": 869, "fields": {"country": 104, "code": "0", "name_ru": "\u041a\u0432\u0430\u043d\u0433\u044c\u044e", "name_en": "Kwangju"}}, 
+ 
+   {"model": "geodata.region", "pk": 870, "fields": {"country": 104, "code": "0", "name_ru": "\u041a\u044a\u0451\u043d\u0433\u0438", "name_en": "Kyeonggi"}}, 
+ 
+   {"model": "geodata.region", "pk": 871, "fields": {"country": 104, "code": "0", "name_ru": "\u041a\u044a\u0451\u043d\u0433\u0441\u0430\u043d\u0431\u0443\u043a", "name_en": "Kyeongsangbuk"}}, 
+ 
+   {"model": "geodata.region", "pk": 872, "fields": {"country": 104, "code": "0", "name_ru": "\u041a\u044a\u0451\u043d\u0433\u0441\u0430\u043d\u0433\u043d\u0430\u043c", "name_en": "Kyeongsangnam"}}, 
+ 
+   {"model": "geodata.region", "pk": 873, "fields": {"country": 104, "code": "0", "name_ru": "\u041f\u0443\u0441\u0430\u043d", "name_en": "Pusan"}}, 
+ 
+   {"model": "geodata.region", "pk": 874, "fields": {"country": 104, "code": "0", "name_ru": "\u0421\u0435\u0443\u043b", "name_en": "Seoul"}}, 
+ 
+   {"model": "geodata.region", "pk": 875, "fields": {"country": 104, "code": "0", "name_ru": "\u0422\u044d\u0433\u0443", "name_en": "Taegu"}}, 
+ 
+   {"model": "geodata.region", "pk": 876, "fields": {"country": 104, "code": "0", "name_ru": "\u0422\u044d\u0434\u0436\u0445\u043e\u043d", "name_en": "Taejeon"}}, 
+ 
+   {"model": "geodata.region", "pk": 877, "fields": {"country": 104, "code": "0", "name_ru": "\u0423\u043b\u0441\u0430\u043d", "name_en": "Ulsan"}}, 
+ 
+   {"model": "geodata.region", "pk": 878, "fields": {"country": 105, "code": "0", "name_ru": "\u042f\u043c\u0430\u0439\u043a\u0430", "name_en": "Jamaica"}}, 
+ 
+   {"model": "geodata.region", "pk": 879, "fields": {"country": 106, "code": "0", "name_ru": "\u0410\u0439\u0442\u0438", "name_en": "Aichi"}}, 
+ 
+   {"model": "geodata.region", "pk": 880, "fields": {"country": 106, "code": "0", "name_ru": "\u0410\u043a\u0438\u0442\u0430", "name_en": "Akita"}}, 
+ 
+   {"model": "geodata.region", "pk": 881, "fields": {"country": 106, "code": "0", "name_ru": "\u0410\u043e\u043c\u043e\u0440\u0438", "name_en": "Aomori"}}, 
+ 
+   {"model": "geodata.region", "pk": 882, "fields": {"country": 106, "code": "0", "name_ru": "\u0412\u0430\u043a\u0430\u044f\u043c\u0430", "name_en": "Wakayama"}}, 
+ 
+   {"model": "geodata.region", "pk": 883, "fields": {"country": 106, "code": "0", "name_ru": "\u0413\u0438\u0444\u0443", "name_en": "Gigu"}}, 
+ 
+   {"model": "geodata.region", "pk": 884, "fields": {"country": 106, "code": "0", "name_ru": "\u0413\u0443\u043c\u043c\u0430", "name_en": "Gumma"}}, 
+ 
+   {"model": "geodata.region", "pk": 885, "fields": {"country": 106, "code": "0", "name_ru": "\u0418\u0431\u0430\u0440\u0430\u043a\u0438", "name_en": "Ibaraki"}}, 
+ 
+   {"model": "geodata.region", "pk": 886, "fields": {"country": 106, "code": "0", "name_ru": "\u0418\u0432\u0430\u0442\u0435", "name_en": "Iwate"}}, 
+ 
+   {"model": "geodata.region", "pk": 887, "fields": {"country": 106, "code": "0", "name_ru": "\u0418\u0441\u0438\u043a\u0430\u0432\u0430", "name_en": "Ishikawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 888, "fields": {"country": 106, "code": "0", "name_ru": "\u041a\u0430\u0433\u0430\u0432\u0430", "name_en": "Kagawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 889, "fields": {"country": 106, "code": "0", "name_ru": "\u041a\u0430\u0433\u043e\u0441\u0438\u043c\u0430", "name_en": "Kagoshima"}}, 
+ 
+   {"model": "geodata.region", "pk": 890, "fields": {"country": 106, "code": "0", "name_ru": "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430", "name_en": "Kanagawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 891, "fields": {"country": 106, "code": "0", "name_ru": "\u041a\u0438\u043e\u0442\u043e", "name_en": "Kyoto"}}, 
+ 
+   {"model": "geodata.region", "pk": 892, "fields": {"country": 106, "code": "0", "name_ru": "\u041a\u043e\u0442\u0438", "name_en": "Koti"}}, 
+ 
+   {"model": "geodata.region", "pk": 893, "fields": {"country": 106, "code": "0", "name_ru": "\u041a\u0443\u043c\u0430\u043c\u043e\u0442\u043e", "name_en": "Kumamoto"}}, 
+ 
+   {"model": "geodata.region", "pk": 894, "fields": {"country": 106, "code": "0", "name_ru": "\u041c\u0438\u044d", "name_en": "Mie"}}, 
+ 
+   {"model": "geodata.region", "pk": 895, "fields": {"country": 106, "code": "0", "name_ru": "\u041c\u0438\u044f\u0433\u0438", "name_en": "Miyagi"}}, 
+ 
+   {"model": "geodata.region", "pk": 896, "fields": {"country": 106, "code": "0", "name_ru": "\u041c\u0438\u044f\u0434\u0437\u0430\u043a\u0438", "name_en": "Miyazaki"}}, 
+ 
+   {"model": "geodata.region", "pk": 897, "fields": {"country": 106, "code": "0", "name_ru": "\u041d\u0430\u0433\u0430\u043d\u043e", "name_en": "Nagano"}}, 
+ 
+   {"model": "geodata.region", "pk": 898, "fields": {"country": 106, "code": "0", "name_ru": "\u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438", "name_en": "Nagasaki"}}, 
+ 
+   {"model": "geodata.region", "pk": 899, "fields": {"country": 106, "code": "0", "name_ru": "\u041d\u0430\u0440\u0430", "name_en": "Nara"}}, 
+ 
+   {"model": "geodata.region", "pk": 900, "fields": {"country": 106, "code": "0", "name_ru": "\u041d\u0438\u0438\u0433\u0430\u0442\u0430", "name_en": "Niigata"}}, 
+ 
+   {"model": "geodata.region", "pk": 901, "fields": {"country": 106, "code": "0", "name_ru": "\u041e\u043a\u0430\u044f\u043c\u0430", "name_en": "Okayama"}}, 
+ 
+   {"model": "geodata.region", "pk": 902, "fields": {"country": 106, "code": "0", "name_ru": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430", "name_en": "Okinawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 903, "fields": {"country": 106, "code": "0", "name_ru": "\u041e\u0441\u0430\u043a\u0430", "name_en": "Osaka"}}, 
+ 
+   {"model": "geodata.region", "pk": 904, "fields": {"country": 106, "code": "0", "name_ru": "\u0421\u0430\u0433\u0430", "name_en": "Saga"}}, 
+ 
+   {"model": "geodata.region", "pk": 905, "fields": {"country": 106, "code": "0", "name_ru": "\u0421\u0430\u0439\u0442\u0430\u043c\u0430", "name_en": "Saitama"}}, 
+ 
+   {"model": "geodata.region", "pk": 906, "fields": {"country": 106, "code": "0", "name_ru": "\u0421\u0438\u0433\u0430", "name_en": "Shiga"}}, 
+ 
+   {"model": "geodata.region", "pk": 907, "fields": {"country": 106, "code": "0", "name_ru": "\u0421\u0438\u0434\u0437\u0443\u043e\u043a\u0430", "name_en": "Shizuoka"}}, 
+ 
+   {"model": "geodata.region", "pk": 908, "fields": {"country": 106, "code": "0", "name_ru": "\u0421\u0438\u043c\u0430\u043d\u0435", "name_en": "Shimane"}}, 
+ 
+   {"model": "geodata.region", "pk": 909, "fields": {"country": 106, "code": "0", "name_ru": "\u0422\u0438\u0431\u0430", "name_en": "Chiba"}}, 
+ 
+   {"model": "geodata.region", "pk": 910, "fields": {"country": 106, "code": "0", "name_ru": "\u0422\u043e\u043a\u0438\u043e", "name_en": "Tokyo"}}, 
+ 
+   {"model": "geodata.region", "pk": 911, "fields": {"country": 106, "code": "0", "name_ru": "\u0422\u043e\u043a\u0443\u0441\u0438\u043c\u0430", "name_en": "Tokushima"}}, 
+ 
+   {"model": "geodata.region", "pk": 912, "fields": {"country": 106, "code": "0", "name_ru": "\u0422\u043e\u0442\u0438\u0433\u0438", "name_en": "Tochigi"}}, 
+ 
+   {"model": "geodata.region", "pk": 913, "fields": {"country": 106, "code": "0", "name_ru": "\u0422\u043e\u0442\u0442\u043e\u0440\u0438", "name_en": "Tottori"}}, 
+ 
+   {"model": "geodata.region", "pk": 914, "fields": {"country": 106, "code": "0", "name_ru": "\u0422\u043e\u044f\u043c\u0430", "name_en": "Toyama"}}, 
+ 
+   {"model": "geodata.region", "pk": 915, "fields": {"country": 106, "code": "0", "name_ru": "\u0424\u0443\u043a\u0443\u0438", "name_en": "Fukui"}}, 
+ 
+   {"model": "geodata.region", "pk": 916, "fields": {"country": 106, "code": "0", "name_ru": "\u0424\u0443\u043a\u0443\u043e\u043a\u0430", "name_en": "Fukuoka"}}, 
+ 
+   {"model": "geodata.region", "pk": 917, "fields": {"country": 106, "code": "0", "name_ru": "\u0424\u0443\u043a\u0443\u0441\u0438\u043c\u0430", "name_en": "Fukushima"}}, 
+ 
+   {"model": "geodata.region", "pk": 918, "fields": {"country": 106, "code": "0", "name_ru": "\u0425\u0438\u0440\u043e\u0441\u0438\u043c\u0430", "name_en": "Hiroshima"}}, 
+ 
+   {"model": "geodata.region", "pk": 919, "fields": {"country": 106, "code": "0", "name_ru": "\u0425\u043e\u043a\u043a\u0430\u0439\u0434\u043e", "name_en": "Hokkaido"}}, 
+ 
+   {"model": "geodata.region", "pk": 920, "fields": {"country": 106, "code": "0", "name_ru": "\u0425\u043f\u043e\u0433\u043e", "name_en": "Hpogo"}}, 
+ 
+   {"model": "geodata.region", "pk": 921, "fields": {"country": 106, "code": "0", "name_ru": "\u042d\u0445\u0438\u043c\u0435", "name_en": "Ehime"}}, 
+ 
+   {"model": "geodata.region", "pk": 922, "fields": {"country": 106, "code": "0", "name_ru": "\u042f\u043c\u0430\u0433\u0430\u0442\u0430", "name_en": "Yamagata"}}, 
+ 
+   {"model": "geodata.region", "pk": 923, "fields": {"country": 106, "code": "0", "name_ru": "\u042f\u043c\u0430\u0433\u0443\u0442\u0438", "name_en": "Yamaguchi"}}, 
+ 
+   {"model": "geodata.region", "pk": 924, "fields": {"country": 106, "code": "0", "name_ru": "\u042f\u043c\u0430\u043d\u0430\u0441\u0438", "name_en": "Yamanashi"}}, 
+ 
+   {"model": "geodata.region", "pk": 925, "fields": {"country": 107, "code": "0", "name_ru": "\u041f\u0430\u043d\u0430\u043c\u0430", "name_en": "Panama"}}, 
+ 
+   {"model": "geodata.region", "pk": 926, "fields": {"country": 108, "code": "0", "name_ru": "Abia", "name_en": "Abia"}}, 
+ 
+   {"model": "geodata.region", "pk": 927, "fields": {"country": 108, "code": "0", "name_ru": "Adamawa", "name_en": "Adamawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 928, "fields": {"country": 108, "code": "0", "name_ru": "Akwa Ibom", "name_en": "Akwa Ibom"}}, 
+ 
+   {"model": "geodata.region", "pk": 929, "fields": {"country": 108, "code": "0", "name_ru": "Anambra", "name_en": "Anambra"}}, 
+ 
+   {"model": "geodata.region", "pk": 930, "fields": {"country": 108, "code": "0", "name_ru": "Bauchi", "name_en": "Bauchi"}}, 
+ 
+   {"model": "geodata.region", "pk": 931, "fields": {"country": 108, "code": "0", "name_ru": "Bayelsa", "name_en": "Bayelsa"}}, 
+ 
+   {"model": "geodata.region", "pk": 932, "fields": {"country": 108, "code": "0", "name_ru": "Benue", "name_en": "Benue"}}, 
+ 
+   {"model": "geodata.region", "pk": 933, "fields": {"country": 108, "code": "0", "name_ru": "Borno", "name_en": "Borno"}}, 
+ 
+   {"model": "geodata.region", "pk": 934, "fields": {"country": 108, "code": "0", "name_ru": "Cross River", "name_en": "Cross River"}}, 
+ 
+   {"model": "geodata.region", "pk": 935, "fields": {"country": 108, "code": "0", "name_ru": "Delta", "name_en": "Delta"}}, 
+ 
+   {"model": "geodata.region", "pk": 936, "fields": {"country": 108, "code": "0", "name_ru": "Ebonyi", "name_en": "Ebonyi"}}, 
+ 
+   {"model": "geodata.region", "pk": 937, "fields": {"country": 108, "code": "0", "name_ru": "Edo", "name_en": "Edo"}}, 
+ 
+   {"model": "geodata.region", "pk": 938, "fields": {"country": 108, "code": "0", "name_ru": "Ekiti", "name_en": "Ekiti"}}, 
+ 
+   {"model": "geodata.region", "pk": 939, "fields": {"country": 108, "code": "0", "name_ru": "Enugu", "name_en": "Enugu"}}, 
+ 
+   {"model": "geodata.region", "pk": 940, "fields": {"country": 108, "code": "0", "name_ru": "Gombe", "name_en": "Gombe"}}, 
+ 
+   {"model": "geodata.region", "pk": 941, "fields": {"country": 108, "code": "0", "name_ru": "Imo", "name_en": "Imo"}}, 
+ 
+   {"model": "geodata.region", "pk": 942, "fields": {"country": 108, "code": "0", "name_ru": "Jigawa", "name_en": "Jigawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 943, "fields": {"country": 108, "code": "0", "name_ru": "Kaduna", "name_en": "Kaduna"}}, 
+ 
+   {"model": "geodata.region", "pk": 944, "fields": {"country": 108, "code": "0", "name_ru": "Kano", "name_en": "Kano"}}, 
+ 
+   {"model": "geodata.region", "pk": 945, "fields": {"country": 108, "code": "0", "name_ru": "Katsina", "name_en": "Katsina"}}, 
+ 
+   {"model": "geodata.region", "pk": 946, "fields": {"country": 108, "code": "0", "name_ru": "Kebbi", "name_en": "Kebbi"}}, 
+ 
+   {"model": "geodata.region", "pk": 947, "fields": {"country": 108, "code": "0", "name_ru": "Kogi", "name_en": "Kogi"}}, 
+ 
+   {"model": "geodata.region", "pk": 948, "fields": {"country": 108, "code": "0", "name_ru": "Kwara", "name_en": "Kwara"}}, 
+ 
+   {"model": "geodata.region", "pk": 949, "fields": {"country": 108, "code": "0", "name_ru": "Lagos", "name_en": "Lagos"}}, 
+ 
+   {"model": "geodata.region", "pk": 950, "fields": {"country": 108, "code": "0", "name_ru": "Nasarawa", "name_en": "Nasarawa"}}, 
+ 
+   {"model": "geodata.region", "pk": 951, "fields": {"country": 108, "code": "0", "name_ru": "Niger", "name_en": "Niger"}}, 
+ 
+   {"model": "geodata.region", "pk": 952, "fields": {"country": 108, "code": "0", "name_ru": "Ogun", "name_en": "Ogun"}}, 
+ 
+   {"model": "geodata.region", "pk": 953, "fields": {"country": 108, "code": "0", "name_ru": "Ondo", "name_en": "Ondo"}}, 
+ 
+   {"model": "geodata.region", "pk": 954, "fields": {"country": 108, "code": "0", "name_ru": "Osun", "name_en": "Osun"}}, 
+ 
+   {"model": "geodata.region", "pk": 955, "fields": {"country": 108, "code": "0", "name_ru": "Oyo", "name_en": "Oyo"}}, 
+ 
+   {"model": "geodata.region", "pk": 956, "fields": {"country": 108, "code": "0", "name_ru": "Plateau", "name_en": "Plateau"}}, 
+ 
+   {"model": "geodata.region", "pk": 957, "fields": {"country": 108, "code": "0", "name_ru": "Rivers", "name_en": "Rivers"}}, 
+ 
+   {"model": "geodata.region", "pk": 958, "fields": {"country": 108, "code": "0", "name_ru": "Sokoto", "name_en": "Sokoto"}}, 
+ 
+   {"model": "geodata.region", "pk": 959, "fields": {"country": 108, "code": "0", "name_ru": "Taraba", "name_en": "Taraba"}}, 
+ 
+   {"model": "geodata.region", "pk": 960, "fields": {"country": 108, "code": "0", "name_ru": "Yobe", "name_en": "Yobe"}}, 
+ 
+   {"model": "geodata.region", "pk": 961, "fields": {"country": 108, "code": "0", "name_ru": "Zamfara", "name_en": "Zamfara"}}, 
+ 
+   {"model": "geodata.region", "pk": 962, "fields": {"country": 108, "code": "0", "name_ru": "Federal Capital Territory", "name_en": "Federal Capital Territory"}}]

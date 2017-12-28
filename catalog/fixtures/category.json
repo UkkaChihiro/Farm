@@ -1,0 +1,8 @@
+[
+{"model":"catalog.Category", "pk":1, "fields":{"name":"Овощи", "parent":1}},
+{"model":"catalog.Category", "pk":2, "fields":{"name":"Салаты и травы", "parent":1}},
+{"model":"catalog.Category", "pk":3, "fields":{"name":"Ростки пророщенные", "parent":1}},
+{"model":"catalog.Category", "pk":4, "fields":{"name":"Молоко", "parent":2}},
+{"model":"catalog.Category", "pk":5, "fields":{"name":"Сметана, крем, сливки", "parent":2}},
+{"model":"catalog.Category", "pk":6, "fields":{"name":"Творог", "parent":2}}
+]

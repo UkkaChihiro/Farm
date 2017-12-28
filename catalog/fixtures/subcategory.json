@@ -1,0 +1,14 @@
+[
+{"model":"catalog.SubCategory", "pk":1, "fields":{"name":"Артишок", "parent": 1}},
+{"model":"catalog.SubCategory", "pk":2, "fields":{"name":"Баклажан", "parent": 1}},
+{"model":"catalog.SubCategory", "pk":3, "fields":{"name":"Айсберг", "parent": 2}},
+{"model":"catalog.SubCategory", "pk":4, "fields":{"name":"Китайская капуста", "parent": 2}},
+{"model":"catalog.SubCategory", "pk":5, "fields":{"name":"Пшеница", "parent": 3}},
+{"model":"catalog.SubCategory", "pk":6, "fields":{"name":"Рожь", "parent": 3}},
+{"model":"catalog.SubCategory", "pk":7, "fields":{"name":"Коровье молоко", "parent": 4}},
+{"model":"catalog.SubCategory", "pk":8, "fields":{"name":"Козье молоко", "parent": 4}},
+{"model":"catalog.SubCategory", "pk":9, "fields":{"name":"Сметана", "parent": 5}},
+{"model":"catalog.SubCategory", "pk":10, "fields":{"name":"Крем", "parent": 5}},
+{"model":"catalog.SubCategory", "pk":11, "fields":{"name":"Творог", "parent":2}},
+{"model":"catalog.SubCategory", "pk":12, "fields":{"name":"Творог зернистый из коровьего молока", "parent": 6}}
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "model": "catalog.Product",
+    "pk": 1,
+    "fields": {
+      "profile_business": 1,
+      "name": "Брюква",
+      "name_en": "Swede",
+      "description": "The rutabaga (from an old Swedish dialectal word), swede (from Swedish turnip), or neep (Brassica napobrassica, or Brassica napus var. napobrassica, or Brassica napus subsp. rapifera) is a root vegetable that originated as a cross between the cabbage and the turnip; it is also sometimes called a turnip. The roots are prepared for human consumption in a variety of ways, and the leaves can be eaten as a leaf vegetable. The roots and tops are also used as winter feed for livestock, when they may be fed directly, or by allowing the animals to forage the plants in the field.",
+      "measure": 1,
+      "weight_of_pack": 15,
+      "number_of_packages": 100,
+      "nondurable": true,
+      "expiration_date": 1,
+      "price": "10",
+      "discount_price": "8",
+      "currency": 1,
+      "category": 1
+    }
+  }
+]
